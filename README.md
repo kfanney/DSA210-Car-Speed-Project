@@ -1,4 +1,4 @@
-# 🚗 Do Expensive Cars Really Speed More?
+# Do Expensive Cars Really Speed More?
 
 ### 🧾 DSA 210 – Introduction to Data Science
 
