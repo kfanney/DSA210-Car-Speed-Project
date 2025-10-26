@@ -1,9 +1,9 @@
 # Do Expensive Cars Really Speed More?
 
-### 🧾 DSA 210 – Introduction to Data Science
+### DSA 210 – Introduction to Data Science
 
-**Term:** Fall 2025–2026
-**Student:** Khalid Alfanney
+**Term:** Fall 2025–2026   
+**Student:** Khalid Alfanney  
 **SID:** 33733
 
 ---
@@ -40,7 +40,7 @@ The project will follow the **entire data-science pipeline** — data collection
 * **Title:** Traffic Violations – Montgomery County, Maryland (USA)
 * **Source:** [Data.gov – Traffic Violations](https://catalog.data.gov/dataset/traffic-violations)
 * **Size:** ≈ 800 MB (>1 million records)
-* **Fields Used:** `Date Of`, `Time Of`, `Make`, `Violation`, `Charge`, `VehicleType`, `Latitude`, `Longitude`, `Year`.
+* **Focused Fields:** `Date Of`, `Time Of`, `Make`, `Violation`, `Charge`, `VehicleType`, `Latitude`, `Longitude`, `Year`.
 * **Purpose:** Identify speeding incidents and their associated car brands to measure brand-level speeding behavior.
 
 ### Car Price Dataset (Enrichment)
@@ -48,7 +48,7 @@ The project will follow the **entire data-science pipeline** — data collection
 * **Title:** U.S. Sales Cars Dataset
 * **Source:** [Kaggle – US Sales Cars Dataset (2024)](https://www.kaggle.com/datasets/juanmerinobermejo/us-sales-cars-dataset)
 * **Size:** ≈ 200 MB (>400 k listings)
-* **Fields Used:** `make`, `price`, `model`, `year`.
+* **Focused Fields:** `make`, `price`, `model`, `year`.
 * **Purpose:** Compute average brand-level prices and classify vehicles into **price tiers** (*Budget / Mid / Luxury*).
 * **Join Key:** Car brand (`Make`).
 
@@ -127,22 +127,7 @@ The project will follow the **entire data-science pipeline** — data collection
 
 ---
 
-## 7️. Repository Structure
-
-```
-/data/raw/                # Original CSVs
-/data/processed/          # Cleaned & merged datasets
-/notebooks/               # EDA and ML notebooks
-/scripts/                 # Cleaning and merging scripts
-/visualizations/          # Generated charts
-/reports/                 # Summaries and findings
-README.md                 # Project proposal and overview
-requirements.txt          # Dependencies
-```
-
----
-
-## 8️. Data Compatibility Justification
+## 7. Data Compatibility Justification
 
 The traffic-violation data spans multiple years, while the car-price dataset provides a recent snapshot of brand-level prices in the U.S.
 Because brand-price hierarchies remain stable over time, these data can be integrated reliably for behavioral analysis.
