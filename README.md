@@ -132,10 +132,10 @@ Because brand-price hierarchies remain stable over time, these data can be integ
 This ensures the enrichment variable (“price tier”) accurately represents brand value rather than transient market conditions.
 
 ---
-
+  
 ## Summary
 
-**Main Dataset:** Traffic Violations (Maryland – Data.gov) 
-**Enrichment Dataset:** US Sales Cars Dataset (Kaggle) 
-**Objective:** Determine whether higher-priced vehicle brands are more frequently involved in speeding violations. 
+**Main Dataset:** Traffic Violations (Maryland – Data.gov)  
+**Enrichment Dataset:** US Sales Cars Dataset (Kaggle)  
+**Objective:** Determine whether higher-priced vehicle brands are more frequently involved in speeding violations.  
 **Outcome:** Apply data-science methods to test a social perception with real evidence.
