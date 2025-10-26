@@ -120,7 +120,7 @@ To get there, I’ll dive into the whole data-science toolkit: gather the record
 
 * Cleaned and merged dataset (`violations_enriched.csv`)
 * Jupyter Notebooks for EDA, hypothesis testing, and modeling
-* Visualizations (`.png` or `.svg`)
+* Visualizations
 * Final report summarizing insights and limitations
 
 ---
