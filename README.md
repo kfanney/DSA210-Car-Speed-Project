@@ -3,7 +3,6 @@
 ### 🧾 DSA 210 – Introduction to Data Science  
 **Term:** Fall 2025–2026  
 **Student:** Khalid Alfanney
-**Submission Type:** Project Proposal (GitHub README)
 
 ---
 
