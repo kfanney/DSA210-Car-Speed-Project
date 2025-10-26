@@ -1,6 +1,6 @@
 # 🚗 Do Expensive Cars Really Speed More?
 
-### 🧾 DSA 210 – Introduction to Data Science  
+### 🧾 DSA 210 – Project
 **Term:** Fall 2025–2026  
 **Student:** Khalid Alfanney
 
