@@ -10,9 +10,12 @@
 
 ## 1️. Motivation
 
-There is a common stereotype that drivers of luxury vehicles, especially brands like BMW, Audi, and Mercedes-Benz, are more aggressive on the road. People often claim they speed more, cut lanes, and act as if traffic rules do not apply to them. But is this actually true, or just a social bias that has been repeated over time? 
-This project aims to explore that question using real data. By analyzing U.S. traffic violation records and comparing them with car price data, the goal is to determine whether expensive cars are genuinely more likely to be involved in speeding incidents, or if luxury drivers have simply earned an unfair reputation. 
+There is a common stereotype that drivers of luxury vehicles, especially brands like BMW, Audi, and Mercedes-Benz, are more aggressive on the road. People often claim they speed more, cut lanes, and act as if traffic rules do not apply to them. But is this actually true, or just a social bias that has been repeated over time?
+
+This project aims to explore that question using real data. By analyzing U.S. traffic violation records and comparing them with car price data, the goal is to determine whether expensive cars are genuinely more likely to be involved in speeding incidents, or if luxury drivers have simply earned an unfair reputation.
+
 To uncover the answer, I will apply the full data-science process: collecting and cleaning data, performing exploratory analysis, visualizing patterns, and experimenting with basic machine-learning models. The outcome will help clarify whether the belief that luxury cars speed more is supported by data or merely driven by perception.
+
 ---
 
 ## 2️. Project Overview
