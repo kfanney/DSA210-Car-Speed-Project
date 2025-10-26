@@ -1,115 +1,158 @@
-Do Expensive Cars Really Speed More?
-DSA 210 – Introduction to Data Science
+# 🚗 Do Expensive Cars Really Speed More?
 
-Term: Fall 2025–2026
-Student: Khalid Alfanney
-SID: 33733
+### 🧾 DSA 210 – Introduction to Data Science
 
-1. Motivation
+**Term:** Fall 2025–2026
+**Student:** Khalid Alfanney
+**SID:** 33733
 
-There is a common assumption that drivers of expensive or luxury vehicles are more likely to speed and engage in riskier driving behavior. However, this belief is often based on perception rather than evidence.
-This project aims to investigate the relationship between vehicle cost and speeding behavior using real-world U.S. traffic data.
+---
 
-By integrating traffic violation records with car price data, the analysis will test whether luxury brands such as BMW, Audi, or Mercedes-Benz are genuinely more represented in speeding incidents compared to mid-range or budget brands.
+## 1️. Motivation
 
-The study will follow the complete data-science process — from data collection and cleaning to exploratory analysis, hypothesis testing, and simple predictive modeling.
+There’s a long-held belief that luxury-car drivers are more aggressive on the road — that BMWs, Audis, and Mercedes-Benzs dominate speeding tickets and reckless-driving statistics.
+But is that really true, or just a stereotype?
 
-2. Project Overview
-Stage	Description
-Data Collection	Obtain and combine public datasets on traffic violations and car prices.
-Data Cleaning	Standardize brand names, remove duplicates, and handle missing or inconsistent values.
-Exploratory Data Analysis	Analyze violation frequency by brand, type, and price tier.
-Statistical Testing	Test whether car cost significantly influences speeding likelihood.
-Machine Learning	Build a basic predictive model for speeding based on brand and contextual factors.
-Visualization	Present findings through clear visualizations and summary tables.
-3. Data Sources
-Traffic Violations Dataset (Primary)
+This project investigates the **relationship between vehicle cost and speeding behavior** using large-scale, real-world data from U.S. traffic violations.
+By integrating **violation records** with **car price data**, the study aims to reveal whether expensive cars are genuinely more involved in speeding incidents — or if that perception is simply social bias.
 
-Title: Traffic Violations – Montgomery County, Maryland (USA)
+The project will follow the **entire data-science pipeline** — data collection, cleaning, analysis, visualization, and machine-learning prediction — to uncover behavioral insights behind the wheel.
 
-Source: Data.gov – Traffic Violations
+---
 
-Size: Approximately 800 MB (over one million records)
+## 2️. Project Overview
 
-Fields Used: Date, time, make, violation type, vehicle type, location, year.
+| Stage                               | Description                                                                                       |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Data Collection**                 | Gather public U.S. datasets on traffic violations and car prices.                                 |
+| **Data Cleaning**                   | Filter speeding-related incidents, normalize brand names, remove missing or inconsistent records. |
+| **Exploratory Data Analysis (EDA)** | Study speeding frequency by car make, type, and value tier.                                       |
+| **Statistical Analysis**            | Test whether car cost correlates with speeding likelihood.                                        |
+| **Machine Learning**                | Build models predicting speeding probability based on brand and contextual features.              |
+| **Visualization & Reporting**       | Communicate insights through clear charts and dashboards.                                         |
 
-Purpose: Identify speeding-related incidents and measure how frequently different brands appear in these records.
+---
 
-Car Price Dataset (Secondary / Enrichment)
+## 3️. Data Sources
 
-Title: U.S. Sales Cars Dataset
+### Traffic Violations Dataset (Main)
 
-Source: Kaggle – US Sales Cars Dataset (2024)
+* **Title:** Traffic Violations – Montgomery County, Maryland (USA)
+* **Source:** [Data.gov – Traffic Violations](https://catalog.data.gov/dataset/traffic-violations)
+* **Size:** ≈ 800 MB (>1 million records)
+* **Fields Used:** `Date Of`, `Time Of`, `Make`, `Violation`, `Charge`, `VehicleType`, `Latitude`, `Longitude`, `Year`.
+* **Purpose:** Identify speeding incidents and their associated car brands to measure brand-level speeding behavior.
 
-Size: Approximately 200 MB (over 400,000 listings)
+### Car Price Dataset (Enrichment)
 
-Fields Used: Make, model, year, price.
+* **Title:** U.S. Sales Cars Dataset
+* **Source:** [Kaggle – US Sales Cars Dataset (2024)](https://www.kaggle.com/datasets/juanmerinobermejo/us-sales-cars-dataset)
+* **Size:** ≈ 200 MB (>400 k listings)
+* **Fields Used:** `make`, `price`, `model`, `year`.
+* **Purpose:** Compute average brand-level prices and classify vehicles into **price tiers** (*Budget / Mid / Luxury*).
+* **Join Key:** Car brand (`Make`).
 
-Purpose: Calculate average price by brand and classify vehicles into price tiers (Budget, Mid-Range, Luxury).
+### Data Integration Plan
 
-Join Key: Car brand (“Make”).
+1. **Clean** and standardize brand names in both datasets (e.g., “B.M.W.” → “BMW”).
+2. **Aggregate** Kaggle data to obtain average price per brand.
+3. **Categorize** brands into three tiers: Budget (< $30 k), Mid ($30–50 k), Luxury (> $50 k).
+4. **Merge** tier data with traffic-violation records using `Make`.
+5. **Analyze** speeding frequency and probability across tiers.
 
-Note: The car-price dataset is used to enrich the violation data by defining brand-level economic categories. Since brand price rankings are relatively stable over time, it is acceptable to use current price data with violation records from previous years.
+*Note:* The price dataset is used as a **static enrichment layer**, not a time-series match. Brand-level price hierarchies remain stable across years, so temporal misalignment does not affect the validity of the behavioral analysis.
 
-4. Analysis Plan
-Step 1 – Data Preparation
+---
 
-Select relevant columns.
+## 4️. Analysis Plan
 
-Filter records to include only speeding-related violations.
+### Step 1 – Data Cleaning
 
-Standardize brand names across both datasets.
+* Select relevant columns only.
+* Filter rows with `Violation` containing “SPEED”.
+* Drop missing or invalid entries.
+* Normalize brand names for consistency.
 
-Remove missing or invalid entries.
+### Step 2 – EDA
 
-Step 2 – Exploratory Analysis
+* Count speeding violations per brand.
+* Calculate percentages of violations by price tier.
+* Visualize with:
 
-Count speeding incidents by brand and price tier.
+  * Bar charts (speeding counts per brand)
+  * Boxplots (price tier vs speeding rate)
+  * Heatmaps (correlations between features)
 
-Calculate the proportion of speeding violations within each tier.
+### Step 3 – Hypothesis Testing
 
-Visualize distributions using bar charts and boxplots.
+* **H₀:** No relationship between vehicle price tier and speeding frequency.
+* **H₁:** Luxury brands have a higher proportion of speeding violations.
+* Apply chi-square or ANOVA tests; compute effect size (Cramér’s V).
 
-Step 3 – Statistical Testing
+### Step 4 – Machine Learning
 
-H₀ (Null Hypothesis): Vehicle price tier has no relationship with speeding frequency.
+* Build **classification models** (Logistic Regression / Random Forest).
+* Predict `is_speeding` using features: price tier, brand, vehicle type, time of day.
+* Evaluate using accuracy, precision, recall, F1, and ROC-AUC.
+* Interpret **feature importance**.
 
-H₁ (Alternative Hypothesis): Luxury brands have a higher proportion of speeding violations.
+### Step 5 – Visualization & Storytelling
 
-Use chi-square or ANOVA tests to evaluate significance.
+* Create visuals in Matplotlib / Seaborn showing:
 
-Step 4 – Predictive Modeling
+  * Speeding distribution by tier and brand.
+  * Hour-of-day patterns for different price segments.
+  * Predictive model feature importance.
+* Summarize findings in a clear narrative.
 
-Train a simple classification model (e.g., Logistic Regression or Random Forest).
+---
 
-Predict the likelihood of a speeding violation using brand tier, time of day, and vehicle type as features.
+## 5️. Tools & Environment
 
-Evaluate model accuracy and interpret key predictors.
+| Category            | Tools                                                        |
+| ------------------- | ------------------------------------------------------------ |
+| **Language**        | Python 3.x                                                   |
+| **Libraries**       | pandas · numpy · matplotlib · seaborn · scikit-learn · scipy |
+| **Environment**     | Jupyter Notebook / VS Code                                   |
+| **Version Control** | Git + GitHub (for progress tracking and commits)             |
 
-Step 5 – Visualization and Reporting
+---
 
-Present summary statistics and key graphs (violation counts, brand comparisons, feature importance).
+## 6️. Expected Deliverables
 
-Interpret results to address the main question: Do expensive cars really speed more?
+* Cleaned and merged dataset (`violations_enriched.csv`)
+* Jupyter Notebooks for EDA, hypothesis testing, and modeling
+* Visualizations (`.png` or `.svg`)
+* Final report summarizing insights and limitations
 
-5. Tools and Environment
-Category	Tools
-Programming Language	Python 3.x
-Libraries	pandas, numpy, matplotlib, seaborn, scikit-learn, scipy
-Development Environment	Jupyter Notebook or VS Code
-Version Control	Git + GitHub
-6. Data Compatibility and Justification
+---
 
-The traffic-violation dataset contains multiple years of records, while the car-price dataset represents a recent snapshot of U.S. vehicle prices.
-Because price differences between brands remain relatively constant across years, the integration of these datasets is appropriate.
-Brand-level price tiers are used as a proxy for vehicle value, allowing the study to focus on behavioral patterns rather than precise economic fluctuations.
+## 7️. Repository Structure
 
-7. Summary
+```
+/data/raw/                # Original CSVs
+/data/processed/          # Cleaned & merged datasets
+/notebooks/               # EDA and ML notebooks
+/scripts/                 # Cleaning and merging scripts
+/visualizations/          # Generated charts
+/reports/                 # Summaries and findings
+README.md                 # Project proposal and overview
+requirements.txt          # Dependencies
+```
 
-Main Dataset: Traffic Violations (Maryland, Data.gov)
+---
 
-Enrichment Dataset: U.S. Sales Cars Dataset (Kaggle)
+## 8️. Data Compatibility Justification
 
-Objective: Determine whether higher-priced vehicle brands are more likely to be involved in speeding violations.
+The traffic-violation data spans multiple years, while the car-price dataset provides a recent snapshot of brand-level prices in the U.S.
+Because brand-price hierarchies remain stable over time, these data can be integrated reliably for behavioral analysis.
+This ensures the enrichment variable (“price tier”) accurately represents brand value rather than transient market conditions.
 
-Outcome: Apply data-science methods to test a social perception using real-world data.
+---
+
+## Summary
+
+**Main Dataset:** Traffic Violations (Maryland – Data.gov)
+**Enrichment Dataset:** US Sales Cars Dataset (Kaggle)
+**Objective:** Determine whether higher-priced vehicle brands are more frequently involved in speeding violations.
+**Outcome:** Apply data-science methods to test a social perception with real evidence.
