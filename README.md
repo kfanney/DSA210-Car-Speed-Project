@@ -112,7 +112,6 @@ To uncover the answer, I will apply the full data-science process: collecting an
 | **Language**        | Python 3.x                                                   |
 | **Libraries**       | pandas · numpy · matplotlib · seaborn · scikit-learn · scipy |
 | **Environment**     | Jupyter Notebook / VS Code                                   |
-| **Version Control** | Git + GitHub (for progress tracking and commits)             |
 
 ---
 
