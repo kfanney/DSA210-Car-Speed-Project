@@ -10,12 +10,11 @@
 
 ## 1️. Motivation
 
-People love to joke that drivers in BMWs, Audis, or Mercedes are the worst on the road. You’ve probably heard it—speeding, weaving through traffic, acting like the rules don’t apply to them. But is that actually true, or do people just like to pick on luxury cars?
+There is a common stereotype that drivers of luxury vehicles, especially brands like BMW, Audi, and Mercedes-Benz, are more aggressive on the road. People often claim they speed more, cut lanes, and act as if traffic rules do not apply to them. But is this actually true, or just a social bias that has been repeated over time?
 
-I wanted to find out, so I grabbed real data on U.S. traffic violations and lined it up with car prices. The main idea? See if expensive cars really do get more speeding tickets, or if we’re just blaming them because it’s easy.
+This project aims to explore that question using real data. By analyzing U.S. traffic violation records and comparing them with car price data, the goal is to determine whether expensive cars are genuinely more likely to be involved in speeding incidents, or if luxury drivers have simply earned an unfair reputation.
 
-To get there, I’ll dive into the whole data-science toolkit: gather the records, clean them up, crunch the numbers, make some charts, even try out some machine-learning predictions. When it’s all done, maybe we’ll finally know if luxury cars really earn their bad reputation or if people just like having someone to blame.
-
+To uncover the answer, I will apply the full data-science process: collecting and cleaning data, performing exploratory analysis, visualizing patterns, and experimenting with basic machine-learning models. The outcome will help clarify whether the belief that luxury cars speed more is supported by data or merely driven by perception.
 ---
 
 ## 2️. Project Overview
