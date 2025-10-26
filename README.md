@@ -1,4 +1,4 @@
-# 🚗 Do Expensive Cars Really Speed More?
+# Do Expensive Cars Really Speed More?
 
 ### 🧾 DSA 210 – Project
 **Term:** Fall 2025–2026  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 1. Motivation
+## 1. Motivation
 
 There’s a common belief that luxury-car drivers are more aggressive on the road — that BMWs, Audis, and Mercedes-Benzs dominate speeding tickets and risky driving statistics.  
 But is that actually true, or just a social stereotype?
@@ -18,7 +18,7 @@ The goal is to apply the **entire data science pipeline** — from data collecti
 
 ---
 
-## 🧩 2. Project Overview
+## 2. Project Overview
 
 | Stage | Description |
 |--------|--------------|
@@ -31,33 +31,33 @@ The goal is to apply the **entire data science pipeline** — from data collecti
 
 ---
 
-## 📊 3. Data Sources
+## 3. Data Sources
 
-### 🛣️ Traffic Violation Data
+### Traffic Violation Data
 - **Dataset:** [Traffic Violations (Maryland, USA) – Kaggle](https://www.kaggle.com/datasets/awaiskaggler/traffic-violations-in-maryland)  
 - **Alternative:** [UK Road Safety Data – data.gov.uk](https://data.gov.uk/dataset/road-safety-data)  
 - **Fields:** Date, location, violation type (speeding, DUI, reckless driving), vehicle make/model, and environmental conditions.
 
-### 💵 Car Price Data
+### Car Price Data
 - **Dataset:** [Used Cars Dataset – Kaggle](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)  
 - **Alternative:** [Vehicle Dataset from CarDekho – Kaggle](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)  
 - **Fields:** Brand, model, year, mileage, price, fuel type, and transmission.
 
-### 🔗 Data Enrichment
+### Data Enrichment
 - Merge both datasets using **car brand/model** as a key.  
 - Categorize vehicles into **price tiers** (e.g., *Budget*, *Mid-Range*, *Luxury*).  
 - Optionally enrich with **weather** or **road condition** data for additional context.
 
 ---
 
-## 🔍 4. Analysis Plan
+## 4. Analysis Plan
 
-### 🧹 Step 1 – Data Cleaning
+### Step 1 – Data Cleaning
 - Normalize car brand names (e.g., “B.M.W.” → “BMW”).  
 - Filter incomplete or irrelevant records.  
 - Handle missing data with appropriate imputation.
 
-### 📈 Step 2 – Exploratory Data Analysis
+### Step 2 – Exploratory Data Analysis
 - Identify which brands appear most in traffic violations.  
 - Compare average number of speeding incidents per price tier.  
 - Visualize data through:
@@ -65,12 +65,12 @@ The goal is to apply the **entire data science pipeline** — from data collecti
   - Heatmaps (correlations)
   - Boxplots (violation severity vs. price range)
 
-### 🧮 Step 3 – Hypothesis Testing
+### Step 3 – Hypothesis Testing
 - **Null Hypothesis (H₀):** There is no relationship between vehicle price and speeding frequency.  
 - **Alternative (H₁):** Luxury vehicles are more likely to be involved in speeding violations.  
 - Use chi-square or ANOVA tests depending on data characteristics.
 
-### 🤖 Step 4 – Machine Learning Model
+### Step 4 – Machine Learning Model
 - Build a **classification model** (e.g., Logistic Regression or Random Forest) to predict speeding likelihood based on:
   - Car price category  
   - Brand  
@@ -78,14 +78,14 @@ The goal is to apply the **entire data science pipeline** — from data collecti
 - Evaluate with accuracy, precision, recall, and confusion matrix.
 - Interpret **feature importance** to see which factors drive risk.
 
-### 📊 Step 5 – Visualization & Storytelling
+### Step 5 – Visualization & Storytelling
 - Create compelling graphs and dashboards using **Matplotlib** and **Seaborn**.  
 - Present findings as a story:
   > “Do expensive cars speed more, or do people just notice them more?”
 
 ---
 
-## ⚙️ 5. Tools & Environment
+## 5. Tools & Environment
 
 | Category | Tools |
 |-----------|-------|
@@ -96,5 +96,5 @@ The goal is to apply the **entire data science pipeline** — from data collecti
 
 ---
 
-## 🗂️ 6. Repository Structure
+## 6. Repository Structure
 
