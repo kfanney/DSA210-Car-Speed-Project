@@ -10,13 +10,11 @@
 
 ## 1️. Motivation
 
-There’s a long-held belief that luxury-car drivers are more aggressive on the road — that BMWs, Audis, and Mercedes-Benzs dominate speeding tickets and reckless-driving statistics.
-But is that really true, or just a stereotype?
+People love to joke that drivers in BMWs, Audis, or Mercedes are the worst on the road. You’ve probably heard it—speeding, weaving through traffic, acting like the rules don’t apply to them. But is that actually true, or do people just like to pick on luxury cars?
 
-This project investigates the **relationship between vehicle cost and speeding behavior** using large-scale, real-world data from U.S. traffic violations.
-By integrating **violation records** with **car price data**, the study aims to reveal whether expensive cars are genuinely more involved in speeding incidents — or if that perception is simply social bias.
+I wanted to find out, so I grabbed real data on U.S. traffic violations and lined it up with car prices. The main idea? See if expensive cars really do get more speeding tickets, or if we’re just blaming them because it’s easy.
 
-The project will follow the **entire data-science pipeline** — data collection, cleaning, analysis, visualization, and machine-learning prediction — to uncover behavioral insights behind the wheel.
+To get there, I’ll dive into the whole data-science toolkit: gather the records, clean them up, crunch the numbers, make some charts, even try out some machine-learning predictions. When it’s all done, maybe we’ll finally know if luxury cars really earn their bad reputation or if people just like having someone to blame.
 
 ---
 
