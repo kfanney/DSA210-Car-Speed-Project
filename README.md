@@ -115,7 +115,6 @@ The study follows the full data-science pipeline: collecting and cleaning data, 
 | **Language**        | Python 3.x                                                   |
 | **Libraries**       | pandas · numpy · matplotlib · seaborn · scikit-learn · scipy |
 | **Environment**     | Jupyter Notebook / VS Code                                   |
-| **Version Control** | Git + GitHub                                                 |
 
 ---
 
