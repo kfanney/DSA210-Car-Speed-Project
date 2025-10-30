@@ -137,7 +137,7 @@ Normalization by brand frequency ensures that results reflect proportional behav
 
 ## Summary
 
-**Main Dataset:** Traffic Violations (Maryland – Data.gov)
-**Enrichment Dataset:** US Sales Cars Dataset (Kaggle)
-**Objective:** Determine whether higher-priced vehicle brands are more frequently involved in speeding violations after normalization for brand frequency.
+**Main Dataset:** Traffic Violations (Maryland – Data.gov)  
+**Enrichment Dataset:** US Sales Cars Dataset (Kaggle)  
+**Objective:** Determine whether higher-priced vehicle brands are more frequently involved in speeding violations after normalization for brand frequency.  
 **Outcome:** Apply data-science methods to test a widely held social perception with real, normalized data.
