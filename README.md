@@ -10,13 +10,13 @@
 
 ## 1. Motivation
 
-There is a long-standing stereotype that drivers of high-priced vehicles, especially BMW, Audi, and Mercedes-Benz, are more aggressive and prone to speeding. News reports and public discussions in the United States often highlight these brands when incidents of reckless driving are reported. For instance, outlets such as *The Washington Post* and *Forbes* have published stories discussing the behavior of luxury-car owners on the road, reinforcing the perception that expensive cars are driven faster and more dangerously. However, whether this belief reflects actual behavior or simply a popular bias remains unclear.
+There has been a prevailing stereotype about aggressiveness and speed on the roads being characteristics of owners of high-value cars such as BMW, Audi, and Mercedes-Benz. The media in the United States has frequently featured stories about these car models in connection with cases of reckless driving on the roads. For example, The Washington Post and Forbes magazines have published stories related to the driving habits of car owners who invest in high-value cars, perpetuating the myth that these cars are driven at higher speeds and in a more reckless manner on the roads. The question is whether there is any truth in the myth or not.
 
-This project aims to examine that question using real-world data. By analyzing U.S. traffic violation records and comparing them with car price data, the study seeks to determine whether expensive cars are truly more likely to be involved in speeding violations, or if the stereotype exaggerates their role.
+The purpose of the project is to attempt to answer the question with real-world data. The data from traffic violations committed in the U.S. can be analyzed to see if there is any correlation between high-value vehicles and speed-related violations to see if the myth has any validity to it, or if it greatly distorts the truth.
 
-Because mid-range vehicles are far more common than luxury cars, the project will normalize violation counts by the total number of vehicles of each brand or price class. This adjustment ensures that comparisons reflect *rates* of violations rather than raw counts, providing a fair and meaningful measure of driving behavior across price tiers.
+Due to the large difference in the number of mid-range cars, rather than upscale vehicles, normalizing the data with the total number of vehicles in each make or price category is imperative to the project. The process will eliminate the need to calculate rates of violations in favor of rates of violations per price category because it gives accurate results.
 
-The study follows the full data-science pipeline: collecting and cleaning data, conducting exploratory analysis, visualizing patterns, and applying statistical and machine-learning techniques to evaluate whether vehicle price can predict speeding behavior.
+The process ranges from data collection and cleaning to data exploration and visualization, to application of statistics and machine learning algorithms to test hypotheses on vehicles' speed based on price data.
 
 ---
 
