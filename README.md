@@ -61,6 +61,12 @@ The process ranges from data collection and cleaning to data exploration and vis
 5. **Normalize** violation counts by brand frequency (tickets per thousand registered vehicles).
 6. **Analyze** speeding frequency and probability across tiers.
 
+### Vehicle Count Data for Normalization
+To determine the normalized rates of speeding, the data must first consider the estimated number of vehicles of each brand found on the road. 
+As the full number of vehicles of each brand recorded with the U.S. DMV is unknown, this project will rely on the Kaggle U.S. Sales Cars data set as the standard of distribution of the brands. 
+The number of vehicles available in the data set is over 400,000 and yields a representative measure of each of the brands sold and found in the United States. 
+The distribution will be used to normalize rates of speeding described as "tickets per thousand vehicles" per price category.
+
 *Note:* The price dataset is used as a **static enrichment layer**, not a time-series match. Brand-level price hierarchies remain stable over time, so temporal differences do not affect the validity of this behavioral analysis.
 
 ---
