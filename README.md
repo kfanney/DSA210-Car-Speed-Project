@@ -54,7 +54,7 @@ The process ranges from data collection and cleaning to data exploration and vis
 
 ### Data Integration Plan
 
-1. **Clean** and standardize brand names in both datasets (e.g., “B.M.W.” → “BMW”).
+1. **Clean** and standardize brand names in both datasets.
 2. **Aggregate** Kaggle data to obtain average price per brand.
 3. **Categorize** brands into three tiers: Budget (< $30 k), Mid ($30–50 k), Luxury (> $50 k).
 4. **Merge** tier data with traffic-violation records using `Make`.
