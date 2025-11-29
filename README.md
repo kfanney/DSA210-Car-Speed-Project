@@ -93,7 +93,7 @@ The distribution will be used to normalize rates of speeding described as "ticke
 ### Step 3 – Hypothesis Testing
 
 * **H₀:** No relationship between vehicle price tier and speeding frequency.
-* **H₁:** Luxury brands have a higher proportion of speeding violations.
+* **H₁:** The distribution of speeding violations differs significantly across price tiers.
 * Apply chi-square or ANOVA tests; compute effect size (Cramér’s V).
 
 ### Step 4 – Machine Learning
