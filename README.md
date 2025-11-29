@@ -40,7 +40,7 @@ The process ranges from data collection and cleaning to data exploration and vis
 * **Title:** Traffic Violations – Montgomery County, Maryland (USA)
 * **Source:** [Data.gov – Traffic Violations](https://catalog.data.gov/dataset/traffic-violations)
 * **Size:** ≈ 800 MB (>1 million records)
-* **Focused Fields:** `Date Of`, `Time Of`, `Make`, `Violation`, `Charge`, `VehicleType`, `Latitude`, `Longitude`, `Year`
+* **Focused Fields:** `DateOfStop`, `TimeOfStop`, `Make`, `Violation`, `Model`, `Latitude`, `Longitude`, `Year`
 * **Purpose:** Identify speeding incidents and their associated car brands to measure brand-level speeding behavior
 
 ### Car Price Dataset (Enrichment)
