@@ -141,6 +141,15 @@ Normalization by brand frequency ensures that results reflect proportional behav
 
 ---
 
+## Limitations
+
+- **Geographic scope:** The analysis uses data from a single county, so results may not generalize to all U.S. driving patterns.
+- **Market presence proxy:** Vehicle “market presence” is approximated using Kaggle listings, which may not reflect true registration/population counts.
+- **Enforcement/reporting bias:** Ticket counts can be influenced by policing intensity, reporting practices, and local driving conditions.
+- **Association vs. causation:** The statistical tests and predictive models identify associations and patterns, but they do not establish causality.
+
+---
+
 ## Summary
 
 **Main Dataset:** Traffic Violations (Maryland – Data.gov)  
