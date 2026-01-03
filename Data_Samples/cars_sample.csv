@@ -1,0 +1,2286 @@
+Brand,Model,Year,Status,Mileage,Dealer,Price
+Mazda,CX-5,2023,New,,,36703.0
+Kia,Sportage,2023,New,,Classic Kia,28990.0
+Chevrolet,Camaro,2024,New,,Classic Chevrolet Beaumont,41425.0
+Ford,Bronco,2023,Used,1551.0,Mike Smith Chrysler Dodge Jeep RAM,58900.0
+Acura,TLX,2021,Used,30384.0,Mike Smith Nissan,34499.0
+Volkswagen,Golf,2022,Certified,13895.0,Volkswagen of Beaumont,34000.0
+GMC,Yukon,2021,Used,68506.0,BMW of Beaumont,56954.0
+BMW,M340,2023,New,,BMW of Beaumont,61715.0
+Hyundai,Sonata,2023,New,,Hyundai of Silsbee,37945.0
+Hyundai,Sonata,2023,New,,Hyundai of Silsbee,33495.0
+Jeep,Grand Cherokee,2023,New,,Granger Chrysler Dodge Jeep Ram,63627.0
+Jeep,Wagoneer,2023,New,,Granger Chrysler Dodge Jeep Ram,67998.0
+Dodge,Durango,2023,New,,Granger Chrysler Dodge Jeep Ram,48998.0
+Ford,Mustang,2024,New,,Town & Country Ford,52105.0
+Ford,F-350,2023,New,,Town & Country Ford,76816.0
+Cadillac,XT5,2024,New,,Navarre Chevrolet Cadillac,
+Infiniti,QX30,2019,Used,29009.0,Volkswagen of Lake Charles,23589.0
+Honda,Passport,2023,New,,Community Honda,47935.0
+GMC,Yukon,2023,New,,Big Star Buick GMC,71125.0
+Lexus,ES,2021,Used,22251.0,Big Star Buick GMC,39895.0
+GMC,Sierra,2022,Certified,7142.0,Big Star Buick GMC,45995.0
+Mazda,CX-30,2023,New,,,30890.0
+GMC,Yukon,2023,New,,Big Star Buick GMC,77345.0
+GMC,Yukon,2023,New,,Big Star Buick GMC,99605.0
+GMC,Yukon,2023,New,,Big Star Buick GMC,89925.0
+GMC,Yukon,2023,New,,Big Star Buick GMC,100205.0
+GMC,Yukon,2023,New,,Big Star Buick GMC,75600.0
+Toyota,Tundra,2019,Used,33196.0,Big Star Buick GMC,36990.0
+Cadillac,CT5,2023,New,,Ron Craft Cadillac,53805.0
+Buick,Envista,2024,New,,Martin Chevrolet Buick GMC,31655.0
+Mazda,CX-5,2017,Used,97892.0,Bacliff Auto,16995.0
+Honda,Civic,2023,New,,Sterling McCall Honda,25845.0
+Honda,Accord,2017,Used,95294.0,Sterling McCall Honda,16141.0
+Ford,Maverick,2022,New,,Planet Ford 59,
+Ford,Maverick,2022,New,,Planet Ford 59,
+Volkswagen,Atlas,2021,Used,32298.0,Tejas Toyota,33127.0
+Toyota,4Runner,2023,New,,Tejas Toyota,49521.0
+Toyota,4Runner,2023,New,,Tejas Toyota,50342.0
+Jeep,Wagoneer,2023,New,,Texan Dodge Chrysler Jeep Ram,82365.0
+GMC,Yukon,2023,New,,Texan GMC Buick,63280.0
+GMC,Yukon,2023,New,,Texan GMC Buick,71530.0
+GMC,Yukon,2023,New,,Texan GMC Buick,70490.0
+Mazda,Mazda3,2024,New,,,32110.0
+GMC,Yukon,2023,New,,Texan GMC Buick,91765.0
+GMC,Yukon,2023,New,,Texan GMC Buick,78335.0
+GMC,Yukon,2023,New,,Texan GMC Buick,83500.0
+Toyota,Sequoia,2012,Used,114355.0,Mac Haik Ford Pasadena,22288.0
+Lincoln,Continental,2020,Used,39500.0,Mac Haik Ford Pasadena,28788.0
+Mercury,Marquis,2008,Used,50564.0,Fall Creek Motor Cars,13500.0
+Lexus,IS,2023,Used,1199.0,Sterling McCall Lexus Clear Lake,60995.0
+Lexus,LX,2023,New,,Sterling McCall Lexus Clear Lake,133745.0
+Lexus,RZ 450e,2023,New,,Sterling McCall Lexus Clear Lake,61260.0
+Ford,Mustang,2017,Used,30464.0,Big Star Cadillac,30911.0
+Cadillac,CT5,2024,New,,Big Star Cadillac,
+Cadillac,Escalade,2023,New,,Big Star Cadillac,86485.0
+Lexus,LS,2013,Used,96397.0,Big Star Cadillac,21911.0
+Lincoln,Nautilus,2019,Used,49197.0,Big Star Cadillac,23911.0
+Ford,Mustang,2022,Used,8373.0,Big Star Cadillac,50911.0
+Ford,Mustang,2015,Used,87885.0,Big Star Cadillac,21911.0
+Cadillac,CT5,2022,Certified,14441.0,Big Star Cadillac,94911.0
+Cadillac,Escalade,2023,Certified,19443.0,Big Star Cadillac,104911.0
+Acura,Integra,2024,New,,AutoNation Acura Gulf Freeway,33295.0
+Acura,Integra,2024,New,,AutoNation Acura Gulf Freeway,33295.0
+Volkswagen,Atlas,2023,New,,,41148.0
+Acura,MDX,2023,Certified,4624.0,AutoNation Acura Gulf Freeway,53998.0
+Ford,Mustang,2021,Used,50199.0,Big Star Chrysler Jeep Dodge Ram Fiat Clear Lake,23799.0
+GMC,Yukon,2021,Used,71001.0,Big Star Chrysler Jeep Dodge Ram Fiat Clear Lake,55990.0
+BMW,435 i,2015,Used,101003.0,Big Star Chrysler Jeep Dodge Ram Fiat Clear Lake,17230.0
+Acura,ILX,2018,Used,66075.0,Big Star Hyundai,20588.0
+Chevrolet,LS,2003,Used,133540.0,Big Star Hyundai,7888.0
+Toyota,Tundra,2018,Used,106619.0,Big Star Hyundai,30888.0
+Hyundai,Palisade,2022,Certified,25035.0,Big Star Hyundai,44988.0
+Ford,Mustang,2022,Used,9185.0,Big Star Hyundai,44988.0
+Ford,Mustang,2023,Used,8640.0,Big Star Hyundai,47988.0
+BMW,X7,2022,Used,28111.0,Big Star Hyundai,75888.0
+Ford,Mustang,2021,Used,13656.0,Big Star Hyundai,27988.0
+Ford,Escape,2022,Used,9358.0,Big Star Hyundai,29588.0
+Hyundai,Sonata,2019,Certified,24729.0,Big Star Hyundai,28988.0
+MINI,Cooper,2024,New,,BMW MINI of Clear Lake,36960.0
+BMW,iX M60,2024,New,,BMW MINI of Clear Lake,120895.0
+BMW,X7,2019,Used,59513.0,BMW MINI of Clear Lake,45700.0
+MINI,Cooper,2024,New,,BMW MINI of Clear Lake,35995.0
+BMW,X3,2023,New,,BMW MINI of Clear Lake,49560.0
+GMC,Yukon,2023,New,,Gay Family Auto,77760.0
+Mazda,CX-5,2023,New,,,41643.0
+GMC,Yukon,2023,New,,Gay Family Auto,99145.0
+GMC,Yukon,2023,New,,Gay Family Auto,76710.0
+GMC,Yukon,2023,Used,7577.0,Gay Family Auto,89993.0
+GMC,Canyon,2023,New,,Gay Family Auto,50330.0
+Toyota,Land Cruiser,2017,Used,35837.0,Gay Family Auto,66994.0
+GMC,Yukon,2023,New,,Gay Family Auto,76710.0
+GMC,Yukon,2023,New,,Gay Family Auto,70840.0
+GMC,Yukon,2023,New,,Gay Family Auto,70840.0
+Cadillac,LYRIQ,2023,New,,Bubba Oustalet Chevrolet Cadillac,63030.0
+Chevrolet,Trax,2024,New,,AutoNation Chevrolet Gulf Freeway,26235.0
+RAM,1500,2023,New,,Sterling Automotive West,51640.0
+Jeep,Grand Cherokee,2023,New,,Sterling Automotive West,46435.0
+GMC,Yukon,2023,New,,Beck & Masten Buick GMC South,81670.0
+Lincoln,Navigator,2019,Used,97768.0,Beck & Masten Buick GMC South,39749.0
+Ford,Mustang,2024,New,,AutoNation Ford Gulf Freeway,49205.0
+Toyota,Tundra,2023,New,,AutoNation Toyota Gulf Freeway,54466.0
+Toyota,Tundra,2023,New,,AutoNation Toyota Gulf Freeway,67636.0
+Toyota,Tundra,2019,Used,119885.0,AutoNation Toyota Gulf Freeway,29998.0
+Toyota,Tundra,2023,New,,AutoNation Toyota Gulf Freeway,64296.0
+Mazda,CX-5,2023,New,,,38227.0
+Toyota,Tundra,2023,New,,AutoNation Toyota Gulf Freeway,67636.0
+Toyota,Tundra,2023,New,,AutoNation Toyota Gulf Freeway,66172.0
+Acura,TLX,2021,Used,50084.0,South Houston Nissan,31991.0
+Land Rover,Range Rover,2020,Used,20075.0,BMW of Houston North,76998.0
+Audi,RS 5,2021,Used,50226.0,BMW of Houston North,60995.0
+Cadillac,Escalade,2019,Used,100506.0,Sterling McCall Chevrolet,39991.0
+Lexus,LS,2013,Used,95611.0,Sterling McCall Chevrolet,23235.0
+Nissan,Leaf,2023,New,,Tom Peacock Nissan,29885.0
+Nissan,Leaf,2023,New,,Tom Peacock Nissan,29860.0
+Nissan,Altima,2024,New,,Tom Peacock Nissan,34720.0
+Mercedes,E-Class,2022,Certified,9143.0,Mercedes-Benz of Houston North,61994.0
+Jeep,Grand Cherokee,2023,Used,5219.0,Mercedes-Benz of Houston North,41595.0
+Mercedes,GLS 600,2023,Certified,1199.0,Mercedes-Benz of Houston North,176995.0
+Acura,MDX,2022,Used,29143.0,Mercedes-Benz of Houston North,43995.0
+Toyota,Highlander,2015,Used,61296.0,Northside Lexus,25322.0
+Mercedes,E-Class,2010,Used,140556.0,Northside Lexus,7900.0
+Jeep,Wagoneer,2022,Used,24360.0,Northside Lexus,58986.0
+Mercedes,GLS 450,2018,Used,28956.0,Northside Lexus,40899.0
+Lexus,LS,2021,Used,73628.0,Northside Lexus,49950.0
+Cadillac,Escalade,2023,New,,Tom Peacock Cadillac,113095.0
+Volkswagen,Golf,2023,New,,,38626.0
+Porsche,Cayenne,2020,Used,32564.0,Audi North Houston,47944.0
+Audi,Q7,2023,Certified,8541.0,Audi North Houston,53984.0
+Audi,TT,2020,Certified,29080.0,Audi North Houston,43984.0
+Jeep,Wrangler,2017,Used,54215.0,Audi North Houston,29688.0
+Audi,GT,2023,New,,Audi North Houston,157790.0
+Lincoln,Navigator,2021,Used,45988.0,Planet Lincoln,73911.0
+Ford,F-150,2019,Certified,39190.0,Planet Ford 45,40884.0
+Ford,F-250,2017,Used,131467.0,Planet Ford 45,36884.0
+Land Rover,Range Rover,2023,Used,20555.0,Land Rover Houston North,149996.0
+Land Rover,Range Rover,2019,Used,41856.0,Land Rover Houston North,52996.0
+Land Rover,Defender,2021,Used,28989.0,Land Rover Houston North,73996.0
+Infiniti,QX80,2020,Certified,71265.0,Sewell INFINITI of North Houston,31999.0
+Infiniti,QX60,2020,Certified,40935.0,Sewell INFINITI of North Houston,28999.0
+Infiniti,QX80,2022,Certified,8201.0,Sewell INFINITI of North Houston,53498.0
+Infiniti,QX80,2023,New,,Sewell INFINITI of North Houston,87955.0
+Infiniti,Essentia,2022,Certified,17375.0,Sewell INFINITI of North Houston,44999.0
+Mercedes,GLE,2024,Certified,2963.0,Mercedes-Benz of The Woodlands,92498.0
+Porsche,Cayenne,2014,Used,71651.0,AutoNation Chrysler Dodge Jeep Ram Spring,21889.0
+Porsche,Panamera,2020,Certified,54498.0,Porsche North Houston,69991.0
+GMC,Yukon,2023,New,,Demontrond Buick GMC,95190.0
+Volkswagen,Atlas,2024,New,,,44636.0
+GMC,Yukon,2022,Used,15195.0,BMW of The Woodlands,69995.0
+BMW,M3,2024,New,,BMW of The Woodlands,98795.0
+BMW,M340,2024,New,,BMW of The Woodlands,66355.0
+Kia,Telluride,2020,Used,69185.0,"Arapahoe KIA - Delivery from Denver, CO (Houston)",37440.0
+Kia,Forte,2018,Used,47466.0,"Arapahoe KIA - Delivery from Denver, CO (Houston)",13947.0
+MINI,Cooper,2021,Used,25246.0,MINI of The Woodlands,27998.0
+Audi,A7,2023,Used,5130.0,MINI of The Woodlands,63498.0
+BMW,X3,2023,New,,Advantage BMW Midtown,51925.0
+BMW,X5,2024,New,,Advantage BMW Midtown,107995.0
+BMW,330 i,2023,New,,Advantage BMW Midtown,47635.0
+BMW,iX xDrive50,2024,New,,Advantage BMW Midtown,99095.0
+BMW,740,2023,New,,Advantage BMW Midtown,99240.0
+Nissan,Juke,2011,Used,107791.0,Advantage BMW Midtown,8784.0
+Cadillac,CT6,2019,Used,63436.0,Gullo Ford of Conroe - The Woodlands,36995.0
+Ford,Bronco,2023,New,,Gullo Ford of Conroe - The Woodlands,57945.0
+Mazda,CX-5,2024,New,,Gullo Mazda,35935.0
+Mazda,CX-5,2024,New,,Gullo Mazda,35485.0
+Mazda,CX-5,2023,New,,Gullo Mazda,30470.0
+Mazda,CX-5,2023,New,,Gullo Mazda,30470.0
+Mazda,Mazda3,2023,New,,Gullo Mazda,29916.0
+Volkswagen,Atlas,2023,New,,,45876.0
+Lincoln,Navigator,2021,Used,60121.0,Keating Honda,57399.0
+Subaru,WRX,2021,Used,16708.0,Keating Honda,40888.0
+Ford,F-150,2022,Used,13722.0,Keating Honda,63148.0
+Chevrolet,Camaro,2018,Used,15486.0,Keating Honda,58997.0
+Honda,Accord,2023,New,,Keating Honda,39440.0
+Ford,F-150,2017,Used,40271.0,Keating Honda,39395.0
+Lincoln,Navigator,2015,Used,107115.0,Keating Honda,19997.0
+Subaru,Crosstrek,2019,Used,39226.0,Keating Honda,19555.0
+Ford,Ranger,2023,New,,Tommie Vaughn Ford,47010.0
+Ford,Explorer,2022,New,,Tommie Vaughn Ford,46995.0
+Lincoln,Town Car,2006,Used,61900.0,Ella Blvd Motors,13250.0
+Ford,Fusion,2007,Used,157965.0,Ella Blvd Motors,7650.0
+Chevrolet,LS,2009,Used,152076.0,Ella Blvd Motors,12150.0
+RAM,2500,2023,Used,355.0,Motor Trends of Houston,94663.0
+Jeep,Gladiator,2023,New,,Southern Chrysler Dodge Jeep,41139.0
+Jeep,Wrangler,2024,New,,Southern Chrysler Dodge Jeep,47045.0
+Jeep,Grand Cherokee,2023,New,,Southern Chrysler Dodge Jeep,63600.0
+Audi,Q5,2020,Certified,20456.0,Audi Central Houston,34996.0
+Toyota,Highlander,2019,Used,76328.0,Grubbs Volvo Cars of Central Houston,28499.0
+Volkswagen,Atlas,2021,Certified,20847.0,Momentum Volkswagen of Upper Kirby,33497.0
+Mazda,Mazda3,2023,New,,,23703.0
+Jeep,Wrangler,2023,New,,River Oaks Chrysler Jeep Dodge RAM,64770.0
+Mercedes,GLE,2024,New,,Star Motor Cars,70165.0
+Mercedes,GLE,2024,New,,Star Motor Cars,77240.0
+Land Rover,Range Rover,2024,New,,Land Rover Houston Central,71708.0
+Jaguar,F-PACE,2024,New,,Jaguar Houston Central,66791.0
+Land Rover,Range Rover,2024,New,,Land Rover Houston Central,82930.0
+Land Rover,Discovery,2023,Used,14218.0,Land Rover Houston Central,63496.0
+Jeep,Wrangler,2024,New,,AutoNation Chrysler Dodge Jeep Ram Houston,34991.0
+Volkswagen,Atlas,2021,Used,16785.0,AutoNation Chrysler Dodge Jeep Ram Houston,37998.0
+Jeep,Wagoneer,2023,New,,AutoNation Chrysler Dodge Jeep Ram Houston,74999.0
+Chevrolet,Silverado,2024,New,,Davis Chevrolet,65830.0
+Chevrolet,Trax,2024,New,,Davis Chevrolet,24790.0
+Mercedes,GLA,2023,New,,Mercedes-Benz of Houston Greenway,43825.0
+Mercedes,G 550,2019,Certified,44237.0,Mercedes-Benz of Houston Greenway,122998.0
+Audi,e-tron,2021,Used,11845.0,Mercedes-Benz of Houston Greenway,47998.0
+Mercedes,S-Class,2022,New,,Mercedes-Benz of Houston Greenway,128435.0
+Maserati,Ghibli,2022,Used,5456.0,Mercedes-Benz of Houston Greenway,55595.0
+Mercedes,S-Class,2022,New,,Mercedes-Benz of Houston Greenway,135345.0
+Chevrolet,Tahoe,2015,Used,85745.0,Mercedes-Benz of Houston Greenway,27562.0
+Mercedes,S-Class,2023,New,,Mercedes-Benz of Houston Greenway,133795.0
+Volkswagen,ID.4,2023,New,,,53055.0
+Audi,6,2023,Used,4431.0,Mercedes-Benz of Houston Greenway,126998.0
+Honda,CR-V,2020,Certified,17392.0,Russell & Smith Honda,33999.0
+Hyundai,Elantra,2019,Used,79764.0,Russell & Smith Honda,14230.0
+Lexus,GX,2020,Used,62547.0,Russell & Smith Honda,38789.0
+Chevrolet,Tahoe,2021,Used,55067.0,Russell & Smith Honda,57648.0
+Honda,Passport,2020,Certified,19421.0,Russell & Smith Honda,29891.0
+Mazda,CX-5,2017,Used,49831.0,Russell & Smith Honda,20700.0
+Honda,Odyssey,2022,Certified,19984.0,Russell & Smith Honda,41415.0
+Alfa Romeo,Giulia,2023,New,,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,37705.0
+Alfa Romeo,Giulia,2024,New,,Helfman Dodge Chrysler Jeep Ram FIAT Alfa Romeo Maserati,41865.0
+Toyota,Highlander,2019,Used,78644.0,Ottos Auto World,31218.0
+Ford,F-150,2020,Used,35430.0,Ottos Auto World,32649.0
+Ford,Explorer,2022,Used,18514.0,Big Star Ford,40800.0
+Chevrolet,Corvette,2023,Used,1480.0,Big Star Ford,96400.0
+Jeep,Wrangler,2018,Used,68259.0,Southfork Chrysler Dodge Jeep Ram,26700.0
+Honda,CR-V,2020,Used,6792.0,Southfork Chrysler Dodge Jeep Ram,30990.0
+Jeep,Grand Cherokee,2023,New,,Southfork Chrysler Dodge Jeep Ram,70805.0
+Mercedes,C-Class,2010,Used,166500.0,DDM Cars,7990.0
+Mazda,CX-9,2024,New,,Joe Myers Mazda,55445.0
+Mazda,CX-9,2024,New,,Joe Myers Mazda,59620.0
+Chevrolet,Traverse,2023,New,,,34915.0
+Mazda,CX-5,2023,New,,Joe Myers Mazda,41195.0
+Mazda,Mazda3,2024,New,,Joe Myers Mazda,31425.0
+Mazda,CL,2023,New,,Joe Myers Mazda,37395.0
+Ford,F-350,2022,Used,2526.0,Joe Myers Ford,59971.0
+Ford,F-250,2021,Used,121600.0,Joe Myers Ford,44997.0
+BMW,X4,2021,Used,33091.0,Joe Myers Ford,47971.0
+Jeep,Wrangler,2008,Used,18474.0,Unique Auto Group,23995.0
+Honda,Civic,2016,Used,76064.0,Unique Auto Group,17995.0
+GMC,Sierra,2024,New,,Beck & Masten Buick GMC North,96860.0
+GMC,Canyon,2023,New,,Beck & Masten Buick GMC North,57374.0
+Ford,F-150,2019,Certified,93444.0,Mac Haik Ford,34089.0
+Mercedes,6,2018,Used,19870.0,Mac Haik Ford,47998.0
+Jeep,Wrangler,2003,Used,159568.0,Dynamic Motorsports Of Texas,9949.0
+Jeep,Wrangler,2005,Used,148274.0,Dynamic Motorsports Of Texas,12995.0
+Jeep,Wrangler,2004,Used,139595.0,Dynamic Motorsports Of Texas,14695.0
+Jeep,Wrangler,1999,Used,172995.0,Dynamic Motorsports Of Texas,8995.0
+Jeep,Wrangler,2004,Used,145200.0,Dynamic Motorsports Of Texas,14995.0
+BMW,3,2015,Used,83969.0,John Eagle Honda of Houston,12500.0
+Chevrolet,Suburban,2015,Used,116282.0,John Eagle Honda of Houston,23500.0
+Ford,Fiesta,2019,Used,84932.0,John Eagle Honda of Houston,10000.0
+Mazda,CX-9,2024,New,,,53720.0
+Chevrolet,Trax,2024,New,,Lone Star Chevrolet,26540.0
+Chevrolet,Silverado,2023,New,,Lone Star Chevrolet,64390.0
+Chevrolet,Silverado,2024,New,,Lone Star Chevrolet,65976.0
+Chevrolet,Trax,2024,New,,Lone Star Chevrolet,26540.0
+Ford,GT,2017,Used,13881.0,Lone Star Chevrolet,67997.0
+Chevrolet,Silverado,2024,New,,Lone Star Chevrolet,65385.0
+Ford,F-150,2021,Used,43151.0,Joe Myers Toyota,43497.0
+Toyota,Tacoma,2023,New,,Huntsville Toyota,49261.0
+Toyota,Tundra,2023,New,,Sterling McCall Toyota,67105.0
+Toyota,Tundra,2023,New,,Sterling McCall Toyota,65045.0
+Toyota,Tundra,2023,New,,Sterling McCall Toyota,59942.0
+Toyota,Tundra,2017,Used,71925.0,Sterling McCall Toyota,32729.0
+Tesla,Model X,2022,Used,2172.0,Carz 4 Us,85450.0
+Bentley,Flying Spur,2015,Used,53572.0,Carz 4 Us,62055.0
+Mercedes,Roadster,2003,Used,70075.0,AUTOTROPHIES,18995.0
+Lincoln,Corsair,2022,New,,West Point Lincoln,44380.0
+Volkswagen,Atlas,2021,Used,15305.0,West Point Lincoln,32991.0
+Mazda,CX-5,2023,New,,Greenway Mazda,38227.0
+Mazda,MX-5 Miata,2023,New,,Greenway Mazda,32950.0
+Mazda,Mazda3,2023,New,,Greenway Mazda,23703.0
+Volkswagen,Golf,2023,New,,,40185.0
+Mazda,Mazda3,2024,New,,Greenway Mazda,32110.0
+Mazda,CX-5,2023,New,,Greenway Mazda,36703.0
+Mazda,CX-5,2023,New,,Greenway Mazda,41643.0
+Ford,F-250,2023,New,,Shetler-Corley Motors,
+Ford,F-250,2023,New,,Shetler-Corley Motors,
+Ford,F-250,2023,New,,Shetler-Corley Motors,
+BMW,xD,2014,Used,94110.0,Sterling McCall Lexus,13295.0
+Toyota,Highlander,2019,Used,39063.0,Sterling McCall Lexus,27495.0
+Hyundai,Tucson,2017,Used,84375.0,Sterling McCall Lexus,16995.0
+Lexus,RX,2015,Used,95005.0,Sterling McCall Lexus,19295.0
+Lexus,ES,2018,Used,98637.0,Sterling McCall Lexus,22074.0
+Mercedes,E-Class,2013,Used,105967.0,Sterling McCall Lexus,11995.0
+Lexus,LC,2023,New,,Sterling McCall Lexus,113970.0
+Porsche,Macan,2018,Used,40073.0,Porsche River Oaks,39246.0
+Ford,Bronco,2021,Used,13260.0,Don McGill Toyota of Houston,48928.0
+Toyota,Land Cruiser,2021,Used,41490.0,Don McGill Toyota of Houston,82556.0
+Porsche,Taycan,2022,Certified,12362.0,Porsche West Houston,82996.0
+Porsche,Cayenne,2023,Certified,3982.0,Porsche West Houston,88996.0
+Acura,MDX,2023,Used,3204.0,Sterling McCall Acura,51480.0
+Acura,RDX,2017,Used,76855.0,Sterling McCall Acura,20980.0
+Land Rover,Defender,2020,Used,18600.0,Land Rover Southwest Houston,66996.0
+Subaru,Outback,2018,Used,104116.0,Westside Lexus,20888.0
+GMC,Yukon,2023,New,,Sterling McCall Buick GMC,76325.0
+GMC,Sierra,2023,New,,Sterling McCall Buick GMC,90935.0
+GMC,Sierra,2023,New,,Sterling McCall Buick GMC,59560.0
+GMC,Sierra,2024,New,,Sterling McCall Buick GMC,96235.0
+Genesis,GV80,2023,New,,GENESIS OF SOUTHWEST HOUSTON,75379.0
+Genesis,GV80,2023,New,,GENESIS OF SOUTHWEST HOUSTON,67496.0
+Genesis,G70,2023,New,,GENESIS OF SOUTHWEST HOUSTON,44155.0
+Hyundai,Tucson,2023,New,,Sterling McCall Hyundai,37300.0
+Genesis,G70,2023,New,,GENESIS OF SOUTHWEST HOUSTON,50540.0
+Hyundai,Tucson,2023,New,,Sterling McCall Hyundai,29600.0
+Dodge,Challenger,2016,Used,88582.0,Sterling McCall Hyundai,24999.0
+Subaru,Ascent,2023,Certified,8188.0,Gillman Subaru,41989.0
+Jeep,Wagoneer,2023,New,,Gillman Jeep,79850.0
+Ford,F-250,2022,Used,27445.0,Gillman Jeep,65986.0
+RAM,2500,2024,New,,Gillman Chrysler Dodge RAM,88130.0
+Toyota,Tacoma,2018,Used,130989.0,Gillman Chrysler Dodge RAM,25993.0
+Cadillac,XT4,2023,New,,Sewell Cadillac,52910.0
+Volkswagen,Golf,2023,New,,,37964.0
+RAM,2500,2024,New,,Wischnewsky Chrysler Dodge Jeep Ram,99140.0
+Jeep,Wagoneer,2022,Used,22135.0,Wischnewsky Chrysler Dodge Jeep Ram,60887.0
+Chevrolet,1,2021,Used,44412.0,Wischnewsky Chrysler Dodge Jeep Ram,14443.0
+Ford,Mustang,2022,Used,811.0,Helfman Ford - Stafford,53944.0
+Ford,Mustang,2024,New,,Helfman Ford - Stafford,52105.0
+Nissan,Pathfinder,2023,New,,Sterling McCall Nissan,51785.0
+Mercedes,E-Class,2023,New,,Mercedes-Benz of West Houston,62970.0
+Mercedes,GLC,2023,New,,Mercedes-Benz of West Houston,58695.0
+Mercedes,AMG GT,2023,New,,Mercedes-Benz of West Houston,125250.0
+Mercedes,GLS 580,2023,New,,Mercedes-Benz of West Houston,114645.0
+Mercedes,300,2023,New,,Mercedes-Benz of West Houston,63700.0
+Mercedes,E-Class,2023,New,,Mercedes-Benz of West Houston,85570.0
+Mercedes,4MATIC,2023,New,,Mercedes-Benz of West Houston,80150.0
+Mercedes,GLS 600,2023,New,,Mercedes-Benz of West Houston,194800.0
+Mercedes,GLA,2023,New,,Mercedes-Benz of West Houston,69195.0
+Mercedes,300,2023,New,,Mercedes-Benz of West Houston,64410.0
+GMC,Sierra,2023,New,,Foy Chevrolet GMC,79360.0
+GMC,Acadia,2023,New,,Foy Chevrolet GMC,41880.0
+GMC,Sierra,2022,Certified,20222.0,Classic Elite Chevrolet Sugar Land,62991.0
+Lexus,RX,2013,Used,109942.0,AutoNation USA Katy,16983.0
+Mazda,CX-9,2024,New,,,44258.0
+Lexus,LX,2020,Used,61900.0,AutoNation USA Katy,65683.0
+BMW,X5,2023,Used,9775.0,AutoNation USA Katy,78683.0
+Lexus,RX,2013,Used,96704.0,AutoNation USA Katy,17483.0
+Audi,RS 7,2023,New,,Audi West Houston,155241.0
+Audi,Q7,2020,Certified,37035.0,Audi West Houston,47497.0
+Audi,SQ5,2018,Used,47030.0,Audi Sugar Land,31999.0
+BMW,540 i,2022,Used,18182.0,Audi Sugar Land,48999.0
+Audi,Q7,2022,Certified,27405.0,Audi Sugar Land,49991.0
+Audi,Q7,2023,New,,Audi Sugar Land,88565.0
+Audi,A8,2019,Certified,39922.0,Audi Sugar Land,41991.0
+Infiniti,QX50,2019,Used,63152.0,Audi Sugar Land,23771.0
+Audi,S3,2017,Used,48594.0,Audi Sugar Land,25991.0
+Mazda,CL,2023,New,,Jeff Haas Mazda,35651.0
+RAM,1500,2022,Used,37069.0,Hertz Car Sales Houston,29490.0
+Kia,Sportage,2023,Used,37877.0,Hertz Car Sales Houston,23993.0
+GMC,Yukon,2023,New,,Classic Elite Buick GMC,83500.0
+GMC,Yukon,2023,New,,Classic Elite Buick GMC,91420.0
+Chevrolet,Suburban,2016,Used,104797.0,Classic Elite Buick GMC,28991.0
+GMC,Yukon,2023,New,,Classic Elite Buick GMC,60955.0
+GMC,Yukon,2023,New,,Classic Elite Buick GMC,62540.0
+Cadillac,Escalade,2019,Used,57160.0,Granbury Nissan,50479.0
+GMC,Yukon,2023,New,,Classic Elite Buick GMC,83035.0
+GMC,Sierra,2023,New,,Classic Elite Buick GMC,80300.0
+GMC,Yukon,2023,New,,Classic Elite Buick GMC,91765.0
+RAM,1500,2023,New,,Mike Perry Motor Company,66675.0
+Dodge,Charger,2023,New,,Mike Perry Motor Company,34215.0
+Jeep,Gladiator,2023,New,,Mike Perry Motor Company,48042.0
+Dodge,Durango,2023,New,,Mike Perry Motor Company,39930.0
+Dodge,Charger,2023,New,,Mike Perry Motor Company,32630.0
+Mercedes,S-Class,2023,New,,Mercedes-Benz of Sugar Land,126470.0
+Mercedes,4MATIC,2023,New,,Mercedes-Benz of Sugar Land,70480.0
+Ford,Escape,2014,Used,80618.0,Jaguar Land Rover West Houston,12595.0
+Chevrolet,Silverado,2024,New,,Gound Chevrolet,60500.0
+Chevrolet,Silverado,2024,New,,Gound Chevrolet,65625.0
+Chevrolet,Silverado,2024,New,,Gound Chevrolet,59180.0
+Chevrolet,Silverado,2024,New,,Gound Chevrolet,89100.0
+Chevrolet,Silverado,2023,New,,Gound Chevrolet,80900.0
+Chevrolet,Equinox,2024,New,,Gound Chevrolet,35475.0
+Chevrolet,Equinox,2024,New,,Gound Chevrolet,35475.0
+Ford,F-350,2023,New,,AutoNation Ford Katy,88800.0
+Ford,Mustang,2022,Used,2779.0,AutoNation Ford Katy,46998.0
+Mazda,MX-5 Miata,2023,New,,,32950.0
+BMW,Coupe,2024,New,,BMW of West Houston,44395.0
+BMW,X5,2024,New,,BMW of West Houston,132380.0
+Lexus,ES,2019,Used,46661.0,BMW of West Houston,30996.0
+Mercedes,GLE,2022,Used,16272.0,BMW of West Houston,75996.0
+BMW,X5,2024,New,,BMW of West Houston,93745.0
+Toyota,GR86,2023,New,,Toyota of Katy,30680.0
+Jeep,Wagoneer,2023,New,,AutoNation Chrysler Dodge Jeep Ram Katy,61991.0
+Jeep,Wagoneer,2023,New,,AutoNation Chrysler Dodge Jeep Ram Katy,71285.0
+Toyota,Tundra,2023,New,,Sterling McCall Toyota Fort Bend,64453.0
+Toyota,Tundra,2023,New,,Sterling McCall Toyota Fort Bend,62511.0
+Toyota,Prius,2022,Used,36331.0,Sterling McCall Toyota Fort Bend,23100.0
+Toyota,Tundra,2018,Used,111820.0,Sterling McCall Toyota Fort Bend,28100.0
+Acura,TLX,2017,Used,78138.0,Sterling McCall Toyota Fort Bend,19811.0
+Lexus,RX,2011,Used,153869.0,Sterling McCall Toyota Fort Bend,12990.0
+Chevrolet,Camaro,2023,New,,"Ray Chevrolet, Inc",36990.0
+Chevrolet,Tahoe,2023,Certified,21050.0,"Ray Chevrolet, Inc",69988.0
+Nissan,Armada,2023,New,,Shottenkirk Nissan Katy,50590.0
+Lexus,GX,2021,Used,24233.0,Mendoza Ford,48997.0
+Chevrolet,1,2017,Used,58565.0,Giles Subaru,11980.0
+Nissan,Altima,2024,New,,Giles Nissan Lafayette,29920.0
+Mazda,CX-9,2024,New,,,48250.0
+Nissan,Pathfinder,2024,New,,Giles Nissan Lafayette,51945.0
+Nissan,Maxima,2023,New,,Giles Nissan Lafayette,45360.0
+Nissan,Rogue,2023,New,,Giles Nissan Opelousas,36530.0
+Nissan,Altima,2024,New,,Giles Nissan Opelousas,32720.0
+Nissan,Kicks,2023,New,,Giles Nissan Opelousas,22700.0
+Nissan,Pathfinder,2024,New,,Giles Nissan Opelousas,44455.0
+Nissan,Kicks,2023,New,,Giles Nissan Opelousas,22700.0
+Nissan,Pathfinder,2024,New,,Giles Nissan Opelousas,44990.0
+Nissan,Sentra,2023,New,,Giles Nissan Opelousas,23695.0
+Nissan,Altima,2024,New,,Giles Nissan Opelousas,27425.0
+Nissan,Kicks,2023,New,,Giles Nissan Opelousas,27840.0
+Nissan,Sentra,2023,New,,Giles Nissan Opelousas,21735.0
+Toyota,Camry,2021,Used,40871.0,Giles Nissan Opelousas,29949.0
+Chevrolet,Equinox,2024,New,,Roy Motors,28385.0
+Jeep,Grand Cherokee,2023,Used,10113.0,Sterling Value Pre-Owned,39495.0
+Lincoln,Aviator,2021,Used,32395.0,Sterling Value Pre-Owned,62258.0
+Toyota,Tundra,2022,Used,9884.0,Don's Automotive Group Broussard,54999.0
+GMC,Sierra,2022,Used,51450.0,Don's Automotive Group Broussard,62999.0
+Audi,A7,2021,Used,10856.0,Don's Automotive Group Broussard,55999.0
+Chevrolet,Tahoe,2021,Used,22409.0,Don's Automotive Group Broussard,65999.0
+Mazda,MX-5 Miata,2023,New,,,31250.0
+Ford,Explorer,2021,Used,64000.0,Hebert Jeep Chrysler Dodge Ram,31891.0
+Honda,Pilot,2022,New,,LeBlanc Honda,41850.0
+Honda,Pilot,2023,New,,LeBlanc Honda,52180.0
+Honda,CR-V,2023,New,,LeBlanc Honda,32445.0
+Ford,Expedition,2023,New,,Destination Ford,79170.0
+Ford,Explorer,2023,New,,Destination Ford,50665.0
+Ford,F-250,2023,New,,Destination Ford,71965.0
+Ford,Expedition,2023,New,,Destination Ford,91095.0
+Ford,Expedition,2023,New,,Destination Ford,80165.0
+Chevrolet,Colorado,2023,New,,Traditions Chevrolet,42190.0
+RAM,2500,2024,New,,Elliott Chrysler Dodge Jeep Ram of Carthage,92230.0
+Jeep,Grand Cherokee,2023,New,,Elliott Chrysler Dodge Jeep Ram of Carthage,53495.0
+Jeep,Grand Cherokee,2023,New,,Elliott Chrysler Dodge Jeep Ram of Carthage,52900.0
+GMC,Yukon,2023,New,,Reliance Chrysler Jeep Dodge Ram,93755.0
+Ford,Explorer,2022,New,,Cavender Ford,43618.0
+Ford,F-150,2023,Used,8640.0,Rountree Ford Lincoln,75333.0
+Lincoln,Aviator,2023,New,,Rountree Ford Lincoln,79370.0
+Ford,F-150,2022,Certified,30779.0,Rountree Ford Lincoln,51962.0
+Chevrolet,Silverado,2024,New,,Chevyland,47995.0
+Chevrolet,Silverado,2023,New,,Chevyland,67410.0
+Mazda,CX-9,2024,New,,,47870.0
+Chevrolet,Silverado,2023,New,,Chevyland,45995.0
+Toyota,Tundra,2023,New,,Shapen Toyota,58062.0
+Ford,Mustang,2024,New,,Marshall Ford,86505.0
+Toyota,Highlander,2024,New,,Yokem Toyota,51212.0
+Ford,Explorer,2020,Used,47781.0,Landers Dodge Chrysler Jeep RAM Fiat,38460.0
+Cadillac,Escalade,2023,New,,Wagner Cadillac,206265.0
+Kia,Soul,2024,New,,Orr Kia of Bossier,24235.0
+Kia,Sportage,2024,New,,Orr Kia of Bossier,31070.0
+Mazda,CX-9,2024,New,,Velocity Mazda,40970.0
+RAM,1500,2022,New,,Freestone Chrysler Dodge Jeep Ram,38993.0
+Subaru,Legacy,2024,New,,Peltier Subaru,35505.0
+Ford,Bronco,2023,New,,Tyler Ford,61175.0
+Ford,Bronco,2023,New,,Tyler Ford,99320.0
+Chevrolet,Silverado,2024,New,,Cavender Auto Country Chevrolet Buick GMC,76820.0
+GMC,Sierra,2024,New,,Cavender Auto Country Chevrolet Buick GMC,86635.0
+GMC,Sierra,2024,New,,Cavender Auto Country Chevrolet Buick GMC,84255.0
+GMC,Sierra,2024,New,,Cavender Auto Country Chevrolet Buick GMC,69380.0
+Chevrolet,Silverado,2024,New,,Cavender Auto Country Chevrolet Buick GMC,73750.0
+RAM,2500,2023,New,,Peters Chrysler Dodge Jeep RAM Fiat,71495.0
+Toyota,Tundra,2023,New,,Morgan City Toyota,54229.0
+Ford,Mustang,2012,Used,35146.0,Greenway Mazda,21982.0
+Toyota,Tundra,2023,New,,Morgan City Toyota,75805.0
+Toyota,4Runner,2023,New,,Morgan City Toyota,41524.0
+Toyota,Highlander,2023,New,,Morgan City Toyota,46756.0
+Toyota,Camry,2023,New,,Morgan City Toyota,33323.0
+Toyota,Tundra,2023,New,,Morgan City Toyota,58431.0
+Toyota,4Runner,2023,New,,Morgan City Toyota,51016.0
+Toyota,Highlander,2023,New,,Morgan City Toyota,51259.0
+Toyota,Tacoma,2023,New,,Morgan City Toyota,28854.0
+Toyota,Tundra,2022,Used,31130.0,Morgan City Toyota,45438.0
+Toyota,4Runner,2023,New,,Morgan City Toyota,44584.0
+Toyota,Tacoma,2023,New,,Morgan City Toyota,53084.0
+Toyota,4Runner,2023,New,,Morgan City Toyota,51903.0
+Toyota,4Runner,2023,New,,Morgan City Toyota,52688.0
+Toyota,Corolla,2023,New,,Morgan City Toyota,28834.0
+Toyota,4Runner,2023,New,,Morgan City Toyota,48041.0
+Toyota,4Runner,2023,New,,Morgan City Toyota,47648.0
+Toyota,Sequoia,2023,New,,Morgan City Toyota,83914.0
+Toyota,4Runner,2023,New,,Morgan City Toyota,48164.0
+Toyota,Tundra,2023,New,,Morgan City Toyota,48322.0
+Toyota,4Runner,2023,New,,Morgan City Toyota,51016.0
+Mercedes,C-Class,2017,Used,65177.0,Acura of Jackson,22768.0
+Toyota,4Runner,2023,New,,Morgan City Toyota,46807.0
+Toyota,Tundra,2023,New,,Morgan City Toyota,55346.0
+Toyota,4Runner,2023,New,,Morgan City Toyota,48943.0
+Toyota,Tundra,2023,New,,Morgan City Toyota,68379.0
+Toyota,Sienna,2023,New,,Morgan City Toyota,45241.0
+Toyota,Highlander,2022,New,,Morgan City Toyota,54971.0
+Ford,Explorer,2023,New,,Hebert's Town & Country Ford,45500.0
+Ford,Explorer,2023,New,,Hebert's Town & Country Ford,48370.0
+Ford,F-150,2019,Used,152000.0,Harper Motors,24995.0
+Chevrolet,Silverado,2024,New,,Harper Motors,55940.0
+Chevrolet,Silverado,2024,New,,Harper Motors,54465.0
+Chevrolet,Silverado,2024,New,,Harper Motors,54235.0
+Chevrolet,Tahoe,2019,Used,74057.0,Harper Motors,37875.0
+Toyota,Tundra,2023,New,,All Star Toyota of Baton Rouge,54738.0
+Toyota,Crown,2023,New,,All Star Toyota of Baton Rouge,44857.0
+Volvo,XC90,2024,New,,All Star Volvo Cars,69065.0
+Honda,Pilot,2023,New,,Team Honda,
+Toyota,Corolla,2011,Used,95223.0,Team Honda,12366.0
+Chevrolet,LS,2019,Used,98712.0,All Star Chevrolet,29897.0
+Chevrolet,Colorado,2017,Used,25252.0,All Star Chevrolet,27893.0
+Mazda,CX-9,2024,New,,,54920.0
+Genesis,GV70,2024,New,,Genesis of Baton Rouge,
+Genesis,GV70,2024,New,,Genesis of Baton Rouge,
+Lexus,LX,2023,New,,Price LeBlanc Lexus,115070.0
+Lexus,IS,2023,New,,Price LeBlanc Lexus,67045.0
+Toyota,4Runner,2023,New,,Price LeBlanc Toyota,47730.0
+Toyota,Tundra,2023,New,,Price LeBlanc Toyota,57976.0
+RAM,3500,2023,New,,Matt Bowers CDJR,94350.0
+Jeep,Wrangler,2023,New,,Matt Bowers CDJR,54390.0
+Chrysler,300,2023,New,,Matt Bowers CDJR,66595.0
+Ford,Mustang,2011,Used,81109.0,Matt Bowers CDJR,10991.0
+Mercedes,GLE,2018,Used,35356.0,Matt Bowers CDJR,31791.0
+Toyota,Corolla,2014,Used,152528.0,Richards Honda,8506.0
+GMC,Yukon,2016,Used,106909.0,Richards Honda,22918.0
+GMC,Yukon,2022,Used,7664.0,Richards Honda,74674.0
+Mitsubishi,Mirage,2019,Used,41445.0,Richards Honda,11841.0
+Ford,F-150,2022,Used,16610.0,Richards Honda,50414.0
+Chevrolet,Colorado,2023,New,,Alpha One Chevrolet,41575.0
+GMC,Sierra,2021,Used,93933.0,Alpha One Chevrolet,42888.0
+GMC,Terrain,2023,Used,1479.0,Alpha One Chevrolet,29481.0
+Ford,F-250,2022,Certified,49268.0,All Star Ford,57184.0
+Chevrolet,Colorado,2023,New,,,43890.0
+Lincoln,Aviator,2023,New,,All Star Lincoln,
+RAM,3500,2021,Used,79291.0,All Star Ford,63461.0
+Ford,F-150,2020,Certified,60762.0,All Star Ford,42630.0
+Jeep,Renegade,2018,Used,42569.0,Mississippi Auto Direct,19360.0
+Lexus,RX,2017,Used,36813.0,Natchez Ford Lincoln,34794.0
+GMC,Sierra,2024,New,,Courtesy Chevrolet Buick GMC of Ruston,96185.0
+GMC,Sierra,2023,New,,Courtesy Chevrolet Buick GMC of Ruston,49275.0
+GMC,Sierra,2023,New,,Courtesy Chevrolet Buick GMC of Ruston,59340.0
+GMC,Sierra,2023,New,,Courtesy Chevrolet Buick GMC of Ruston,75675.0
+Buick,Envision,2023,New,,Courtesy Chevrolet Buick GMC of Ruston,46900.0
+Ford,F-150,2023,New,,All Star Ford of Denham Springs,80675.0
+Toyota,Camry,2021,Used,62908.0,All Star Ford of Denham Springs,21602.0
+Ford,Explorer,2020,Used,62059.0,Stanley Ford Gilmer,27995.0
+Kia,Sportage,2024,New,,All Star Kia East,36660.0
+Kia,Carnival,2024,New,,All Star Kia East,44760.0
+Kia,Sportage,2024,New,,All Star Kia East,31345.0
+Kia,Sportage,2024,New,,All Star Kia East,38515.0
+Kia,Sportage,2024,New,,All Star Kia East,36930.0
+Kia,Sorento,2023,New,,All Star Kia East,42820.0
+Kia,Telluride,2024,New,,All Star Kia East,52670.0
+Subaru,Outback,2014,Used,142195.0,Austin Subaru,12488.0
+Kia,Sorento,2023,New,,All Star Kia East,40290.0
+Ford,F-150,2023,New,,Centreville Motor Company,58184.0
+Chevrolet,Silverado,2023,New,,Apple-Sport Chevrolet,46970.0
+Chevrolet,Silverado,2023,New,,Apple-Sport Chevrolet,73900.0
+Ford,Bronco,2023,New,,Apple Sport Ford,71785.0
+Ford,F-150,2023,New,,Apple Sport Ford,92865.0
+Lexus,LX,2014,Used,165096.0,Boardwalk Motor Cars,27500.0
+Infiniti,Q5,2018,Used,56200.0,Boardwalk Motor Cars,22200.0
+Ford,F-250,2013,Used,196432.0,Boardwalk Motor Cars,23600.0
+Ford,F-350,2018,Used,208276.0,Boardwalk Motor Cars,41300.0
+Ford,F-250,2012,Used,159248.0,Boardwalk Motor Cars,29990.0
+Ford,F-350,2011,Used,144466.0,Boardwalk Motor Cars,22300.0
+Chevrolet,Silverado,2014,Used,119718.0,Boardwalk Motor Cars,36500.0
+Ford,F-250,2019,Used,201554.0,Boardwalk Motor Cars,28500.0
+Ford,F-250,2021,Used,49703.0,Boardwalk Motor Cars,45900.0
+Ford,F-150,2018,Used,161617.0,Boardwalk Motor Cars,24200.0
+Tesla,Model S,2014,Used,79193.0,Toliver Chrysler-Dodge-Jeep-RAM,27999.0
+Ford,F-150,2019,Used,28062.0,Stewart Toyota,32577.0
+Toyota,Highlander,2024,New,,Stewart Toyota,51536.0
+Jeep,Wagoneer,2023,New,,I20 Chrysler Dodge Jeep Ram,
+Ford,Explorer,2021,Used,64000.0,Hebert Jeep Chrysler Dodge Ram,31891.0
+Honda,CR-V,2023,Used,7306.0,Van-Trow Toyota,31998.0
+Toyota,4Runner,2023,New,,Van-Trow Toyota,42768.0
+GMC,Sierra,2023,New,,Springhill Motor Co.,60095.0
+GMC,Sierra,2023,New,,Springhill Motor Co.,64210.0
+GMC,Sierra,2023,New,,Springhill Motor Co.,74225.0
+GMC,Sierra,2023,New,,Springhill Motor Co.,66755.0
+Toyota,Tundra,2022,Used,47061.0,Canton Ford,41359.0
+GMC,Yukon,2021,Used,71280.0,Canton Ford,58977.0
+Chevrolet,Suburban,2021,Used,72538.0,Canton Ford,51898.0
+Toyota,RAV4,2023,New,,Greg LeBlanc Toyota,39862.0
+GMC,Yukon,2023,Certified,9782.0,Covert Chevrolet Bastrop,86919.0
+RAM,2500,2023,New,,Camp County Chrysler Dodge Jeep Ram,
+Volkswagen,Tiguan,2023,New,,Volkswagen of Waco,27703.0
+Volkswagen,Atlas,2024,New,,Volkswagen of Waco,43766.0
+Infiniti,QX60,2018,Used,70150.0,Volkswagen of Waco,22776.0
+Volkswagen,Atlas,2024,New,,Volkswagen of Waco,51414.0
+Volkswagen,Jetta,2023,New,,Volkswagen of Waco,33186.0
+Volkswagen,Atlas,2024,New,,Volkswagen of Waco,51414.0
+Volkswagen,Atlas,2023,New,,Volkswagen of Waco,40681.0
+Volkswagen,Atlas,2024,New,,Volkswagen of Waco,47261.0
+Chevrolet,Corvette,2023,New,,,96435.0
+Volkswagen,Jetta,2023,New,,Volkswagen of Waco,25638.0
+Volkswagen,Jetta,2023,New,,Volkswagen of Waco,25298.0
+Chevrolet,Tahoe,2023,Used,14121.0,Bird Kultgen Ford,69930.0
+Subaru,Ascent,2020,Used,41272.0,Bird Kultgen Ford,31471.0
+Toyota,86,2017,Used,43407.0,Greg May Honda,20985.0
+Toyota,Tundra,2022,Used,25639.0,Mac Haik Dodge Chrysler Jeep RAM Temple,49995.0
+Volkswagen,Golf,2016,Used,63255.0,AutoNation Chevrolet Waco,16998.0
+FIAT,500,2015,Used,90765.0,AutoNation Chevrolet Waco,8945.0
+RAM,1500,2024,New,,Community Motors,
+Jeep,Gladiator,2023,New,,Rainbow CDJR of Amite,
+RAM,2500,2024,New,,Rainbow CDJR of Amite,
+Jeep,Gladiator,2023,New,,Rainbow CDJR of Amite,
+Dodge,Durango,2023,New,,Rainbow CDJR of Amite,
+Ford,Bronco,2023,Used,5442.0,Riata Ford,52500.0
+Tesla,Model Y,2020,Used,40073.0,Riata Ford,39900.0
+Nissan,Altima,2020,Used,61978.0,Riata Ford,18100.0
+Toyota,Tundra,2022,Used,27526.0,Supreme Toyota,57983.0
+GMC,Yukon,2022,Used,39487.0,Supreme Toyota,71483.0
+Toyota,Tacoma,2023,New,,Supreme Toyota,44924.0
+Toyota,Tundra,2023,New,,Supreme Toyota,57562.0
+Chevrolet,Tahoe,2008,Used,261259.0,Bayer Chevrolet Buick Cadillac,3995.0
+Toyota,Highlander,2022,Certified,19898.0,Supreme Toyota,35883.0
+Nissan,Versa,2023,New,,Bill Hood Nissan Hyundai,
+Nissan,Pathfinder,2024,New,,Bill Hood Nissan Hyundai,
+RAM,1500,2023,New,,Pegasus Chrysler Dodge Jeep Ram,42998.0
+RAM,1500,2023,New,,Pegasus Chrysler Dodge Jeep Ram,56999.0
+Jeep,Grand Cherokee,2023,New,,Pegasus Chrysler Dodge Jeep Ram,56999.0
+RAM,3500,2023,New,,Pegasus Chrysler Dodge Jeep Ram,81366.0
+Ford,F-250,2021,Used,44845.0,Ennis Ford,55594.0
+Dodge,Viper,2003,Used,38719.0,Chevrolet of West,49877.0
+Ford,Bronco,2023,New,,Elliott Auto Group,51840.0
+Rivian,R1S,2023,Used,744.0,Austin e Autos,93950.0
+Ford,Explorer,2023,New,,Stanley Ford - McGregor,51400.0
+Ford,F-350,2023,New,,Stanley Ford - McGregor,81762.0
+Hyundai,Ioniq,2022,Used,6632.0,AutoNation USA Austin,35985.0
+Toyota,Sequoia,2018,Used,56780.0,Henna Chevrolet,34495.0
+Volvo,S90,2024,New,,Volvo Cars of Austin,78395.0
+Hyundai,Ioniq,2023,New,,Round Rock Hyundai,43250.0
+Volkswagen,Tiguan,2017,Used,67796.0,Round Rock Nissan,14815.0
+Nissan,Leaf,2023,New,,Round Rock Nissan,29885.0
+Toyota,Prius,2017,Used,58275.0,Corvette Country,21700.0
+Tesla,Model 3,2018,Used,73223.0,Corvette Country,29900.0
+Ford,F-150,2023,New,,Mac Haik Ford Lincoln,44945.0
+Lincoln,Nautilus,2022,New,,Mac Haik Ford Lincoln,58585.0
+Ford,F-450,2023,New,,Mac Haik Ford Lincoln,98955.0
+Ford,F-150,2023,New,,Mac Haik Ford Lincoln,72030.0
+Lincoln,Corsair,2022,New,,Mac Haik Ford Lincoln,64975.0
+Ford,F-150,2022,New,,Mac Haik Ford Lincoln,89999.0
+Ford,F-150,2023,New,,Mac Haik Ford Lincoln,47475.0
+BMW,X5,2014,Used,157305.0,Georgetown INFINITI,13000.0
+BMW,X5,2020,Used,28357.0,Georgetown INFINITI,42000.0
+RAM,1500,2022,Used,12037.0,Covert Chrysler Dodge Jeep & Ram,48926.0
+Dodge,Charger,2023,New,,Covert Chrysler Dodge Jeep & Ram,
+Jeep,Wrangler,2024,New,,Covert Chrysler Dodge Jeep & Ram,
+Ford,F-150,2022,New,,Leif Johnson Ford Inc.,110000.0
+Ford,Bronco,2023,Certified,1514.0,Leif Johnson Ford Inc.,41788.0
+Ford,F-150,2021,Certified,62430.0,Leif Johnson Ford Inc.,51229.0
+Ford,Escape,2022,Certified,11856.0,Leif Johnson Ford Inc.,27279.0
+Dodge,Durango,2018,Used,18558.0,Leif Johnson Ford Inc.,52396.0
+Ford,Expedition,2021,Certified,61260.0,Leif Johnson Ford Inc.,41219.0
+Nissan,3,2004,Used,43642.0,Leif Johnson Ford Inc.,28000.0
+Mercedes,GLS 450,2024,New,,Mercedes-Benz of Austin,102875.0
+Mercedes,GLS 450,2024,New,,Mercedes-Benz of Austin,96355.0
+Mercedes,AMG GT,2023,New,,Mercedes-Benz of Austin,94900.0
+Mercedes,GLS 450,2024,New,,Mercedes-Benz of Austin,94440.0
+Mercedes,S-Class,2023,New,,Mercedes-Benz of Austin,113245.0
+Toyota,Highlander,2023,New,,Toyota of North Austin,45002.0
+Mazda,CX-30,2022,Used,22079.0,Howdy Honda,26999.0
+Chevrolet,Camaro,2015,Used,106046.0,Austin Subaru,21988.0
+Subaru,Outback,2014,Used,142195.0,Austin Subaru,12488.0
+Ford,F-150,2021,Used,31080.0,Town North Nissan,37795.0
+Chevrolet,Silverado,2024,New,,Platinum Chevrolet Cadillac,63665.0
+Cadillac,XT4,2024,New,,Platinum Chevrolet Cadillac,43240.0
+Chevrolet,Colorado,2023,New,,AutoNation Chevrolet West Austin,40115.0
+Chevrolet,Colorado,2023,New,,AutoNation Chevrolet West Austin,54075.0
+Chevrolet,Suburban,2023,New,,AutoNation Chevrolet West Austin,71530.0
+Chevrolet,Tahoe,2023,New,,AutoNation Chevrolet West Austin,70685.0
+Mazda,Mazda3,2016,Used,133265.0,Covert Ford,10777.0
+Ford,F-350,2023,Used,5556.0,Covert Ford,88398.0
+Mazda,CX-9,2020,Used,60846.0,Covert Ford,27298.0
+Mercedes,GLS 450,2020,Used,75013.0,Covert Ford,43598.0
+Cadillac,CT4-V,2022,Certified,2138.0,Covert Cadillac,46988.0
+Cadillac,CT4-V,2023,New,,Covert Cadillac,84515.0
+Lexus,ES,2021,Used,11480.0,Covert Cadillac,40988.0
+Honda,Accord,2011,Used,117221.0,Covert Buick GMC Austin,11900.0
+Lincoln,Navigator,2021,Used,18211.0,Covert Cadillac,71988.0
+Mercedes,E-Class,2020,Used,18605.0,Covert Cadillac,54988.0
+Toyota,Supra,2022,Used,11644.0,Covert Cadillac,55988.0
+Cadillac,LYRIQ,2023,New,,Covert Cadillac,59980.0
+Hyundai,Palisade,2023,New,,South Point Hyundai,40600.0
+Toyota,RAV4,2023,New,,AutoNation Toyota South Austin,38177.0
+Hyundai,Sonata,2021,Used,42227.0,South Austin Nissan,23980.0
+Kia,Telluride,2024,New,,Kia Of Mccomb,43394.0
+Chevrolet,Colorado,2023,New,,Capitol Chevrolet,61230.0
+Chevrolet,LS,2023,New,,Capitol Chevrolet,56895.0
+Chevrolet,Suburban,2023,New,,Capitol Chevrolet,75345.0
+Chevrolet,Suburban,2023,New,,Capitol Chevrolet,70140.0
+Chevrolet,Tahoe,2023,New,,Capitol Chevrolet,71405.0
+Chevrolet,Tahoe,2023,New,,Capitol Chevrolet,71405.0
+Mercedes,S-Class,2023,New,,Mercedes-Benz of Georgetown,126255.0
+Land Rover,Range Rover,2023,New,,Sewell Land Rover North Austin,81620.0
+Kia,Forte,2018,Certified,56240.0,Kia of North Austin,15998.0
+Nissan,Pathfinder,2024,New,,Pete Mankins Nissan,42091.0
+Nissan,Pathfinder,2024,New,,Pete Mankins Nissan,48797.0
+Dodge,Durango,2023,New,,Lakeshore Chrysler Dodge Jeep RAM of Kenner,42842.0
+RAM,2500,2023,New,,Lakeshore Chrysler Dodge Jeep RAM of Kenner,90295.0
+Dodge,Charger,2023,New,,Lakeshore Chrysler Dodge Jeep RAM of Kenner,53220.0
+Jeep,Gladiator,2023,New,,Lakeshore Chrysler Dodge Jeep RAM of Kenner,52735.0
+Jeep,Gladiator,2023,New,,Lakeshore Chrysler Dodge Jeep RAM of Kenner,56210.0
+Ford,F-150,2016,Used,80695.0,Ray Brandt Toyota,28958.0
+Infiniti,Q40,2015,Used,125275.0,Cedar Park Nissan,12900.0
+Land Rover,Range Rover,2014,Used,117403.0,Cedar Park Nissan,21300.0
+Chevrolet,Silverado,2008,Used,85394.0,Cedar Park Nissan,21600.0
+Toyota,Avalon,2020,Used,12541.0,Bryan Subaru,36490.0
+Lexus,GX,2019,Used,42455.0,Matt Bowers Chevrolet Metairie,39495.0
+Chevrolet,Silverado,2024,New,,Matt Bowers Chevrolet Metairie,75540.0
+BMW,M5,2014,Used,82373.0,Matt Bowers Chevrolet Metairie,29955.0
+Nissan,Armada,2023,New,,Bates Nissan,54845.0
+Toyota,Avalon,2018,Used,89488.0,Elder Mitsubishi - Killeen,22758.0
+Mitsubishi,Outlander,2022,Used,59884.0,Elder Mitsubishi - Killeen,27266.0
+Jeep,Wrangler,2007,Used,97957.0,Mattingly Motors,13225.0
+Audi,A4,2014,Used,96365.0,Mattingly Motors,13990.0
+Nissan,Titan,2015,Used,112622.0,Mattingly Motors,17995.0
+Toyota,Corolla,2023,New,,Toyota of Cedar Park,26152.0
+Toyota,Tundra,2023,New,,Toyota of Cedar Park,60892.0
+Toyota,Highlander,2021,Certified,20400.0,Toyota of Cedar Park,42208.0
+Toyota,C-HR,2020,Certified,27731.0,Toyota of Cedar Park,23318.0
+Toyota,Tundra,2023,Used,1934.0,Toyota of Cedar Park,47868.0
+Infiniti,QX50,2021,Used,42177.0,Toyota of Cedar Park,28650.0
+Toyota,Venza,2022,Certified,33012.0,Toyota of Cedar Park,36987.0
+Toyota,Tundra,2023,Used,6120.0,Toyota of Cedar Park,49282.0
+Toyota,Tundra,2023,New,,Toyota of Cedar Park,58580.0
+Toyota,Tundra,2023,New,,Toyota of Cedar Park,59079.0
+Toyota,Tundra,2023,New,,Toyota of Cedar Park,60010.0
+Toyota,Tundra,2023,Used,3367.0,Toyota of Cedar Park,44930.0
+Toyota,Tundra,2022,Used,36531.0,Toyota of Cedar Park,38975.0
+Toyota,Venza,2022,Certified,37730.0,Toyota of Cedar Park,38037.0
+Nissan,Altima,2019,Used,59778.0,Autos of Forney,18629.0
+Kia,Sportage,2022,Used,28592.0,Autos of Forney,20791.0
+Hyundai,Elantra,2015,Used,144474.0,Car Source,7895.0
+Volkswagen,Tiguan,2016,Used,142846.0,Car Source,8895.0
+Chevrolet,1,2014,Used,100484.0,Car Source,7695.0
+Ford,Mustang,2011,Used,128184.0,All American Chevrolet of Killeen,10449.0
+Chevrolet,Cruze,2017,Used,89327.0,All American Chevrolet of Killeen,11911.0
+Dodge,1500,2010,Used,147158.0,All American Chevrolet of Killeen,13744.0
+Jeep,Grand Cherokee,2015,Used,141581.0,All American Chevrolet of Killeen,14732.0
+Volkswagen,Atlas,2024,New,,Orr Volkswagen of Texarkana,43268.0
+Volkswagen,Atlas,2024,New,,Orr Volkswagen of Texarkana,43451.0
+Volkswagen,Atlas,2024,New,,Orr Volkswagen of Texarkana,49959.0
+Volkswagen,Atlas,2024,New,,Orr Volkswagen of Texarkana,53667.0
+GMC,Terrain,2023,New,,Crown Buick GMC,26290.0
+Land Rover,Discovery,2023,New,,Paretti Land Rover New Orleans,77690.0
+Land Rover,Defender,2023,New,,Paretti Land Rover New Orleans,85420.0
+Volvo,XC60,2023,New,,Bergeron Volvo,59340.0
+Jeep,Gladiator,2023,New,,Bergeron Chrysler Dodge Jeep RAM,48384.0
+Porsche,Panamera,2021,Certified,34864.0,Porsche of New Orleans,78999.0
+Mazda,CX-3,2019,Used,28200.0,Steele Hyundai Kyle,19488.0
+Hyundai,Kona,2023,New,,Steele Hyundai Kyle,25630.0
+Audi,A5,2023,New,,Audi New Orleans,
+Audi,Q8,2023,New,,Audi New Orleans,
+Audi,Q5,2023,New,,Audi New Orleans,
+Ford,F-250,2023,New,,Caraway Ford,77760.0
+Toyota,Tundra,2021,Used,64753.0,Rainbow Mitsubishi North,42987.0
+Chevrolet,Tahoe,2022,Used,40922.0,Rainbow Mitsubishi North,67987.0
+Chevrolet,Corvette,2023,Used,103.0,Rainbow Mitsubishi North,106600.0
+Mercedes,GLC,2022,Used,25908.0,Rainbow Mitsubishi North,39987.0
+Land Rover,Range Rover,2022,Used,1722.0,Rainbow Mitsubishi North,105587.0
+Infiniti,Essentia,2023,Used,6206.0,Rainbow Mitsubishi North,48987.0
+Ford,F-150,2017,Used,104395.0,Rainbow Mitsubishi North,26687.0
+Ford,Explorer,2013,Used,168729.0,Rainbow Mitsubishi North,9687.0
+Cadillac,CT4-V,2023,New,,Covert Cadillac Bee Cave,58605.0
+Cadillac,Escalade,2023,New,,Covert Cadillac Bee Cave,111390.0
+Cadillac,XT6,2023,New,,Covert Cadillac Bee Cave,49500.0
+Cadillac,CT5,2023,New,,Covert Cadillac Bee Cave,66000.0
+BMW,330 i,2020,Used,69302.0,Bill Hood Chevrolet,25480.0
+Toyota,4Runner,2019,Used,124717.0,Northshore Toyota,28695.0
+Toyota,FJ Cruiser,2014,Used,113137.0,Trucks of Texas,33995.0
+Toyota,Tundra,2023,New,,Bohn Toyota,54806.0
+Chevrolet,Silverado,2024,New,,Chuck Fairbanks Chevrolet,94729.0
+Ford,F-250,2023,New,,Ford of Harvey,80395.0
+Ford,F-250,2023,New,,Ford of Harvey,67130.0
+Toyota,RAV4,2022,Used,11077.0,Honda Cars of Rockwall,35884.0
+Honda,Accord,2009,Used,201772.0,Honda Cars of Rockwall,6493.0
+Honda,CR-V,2011,Used,211440.0,Honda Cars of Rockwall,7994.0
+RAM,1500,2022,Used,13396.0,Honda Cars of Rockwall,49595.0
+Genesis,G80,2018,Used,75803.0,Honda Cars of Rockwall,27853.0
+Cadillac,SRX,2014,Used,131376.0,Honda Cars of Rockwall,11392.0
+Volkswagen,Passat,2020,Used,25867.0,Toyota of Rockwall,21152.0
+Lexus,RX,2022,Used,12679.0,Toyota of Rockwall,42279.0
+Ford,Mustang,2024,New,,Rockwall Ford,53203.0
+Ford,Expedition,2021,Certified,37811.0,Rockwall Ford,42133.0
+Kia,Sportage,2024,New,,Ray Brandt Kia,34485.0
+Chevrolet,Malibu,2023,New,,Britain Chevrolet,29635.0
+RAM,2500,2019,Used,61676.0,Britain Chevrolet,60402.0
+Nissan,3,2013,Used,101887.0,Britain Chevrolet,17670.0
+Toyota,Tundra,2022,Used,14190.0,Cannon Toyota,54576.0
+Honda,Ridgeline,2023,New,,Cannon Honda,46560.0
+Ford,Mustang,2024,New,,Town East Ford,52735.0
+Ford,F-150,2018,Certified,79346.0,Town East Ford,29950.0
+Jeep,Wrangler,2023,New,,Covert Chrysler Dodge Jeep RAM Bee Cave,67774.0
+Jeep,Wrangler,2023,New,,Covert Chrysler Dodge Jeep RAM Bee Cave,70742.0
+Jeep,Wrangler,2023,New,,Covert Chrysler Dodge Jeep RAM Bee Cave,67320.0
+Dodge,Charger,2023,New,,Covert Chrysler Dodge Jeep RAM Bee Cave,42197.0
+RAM,2500,2023,New,,Covert Chrysler Dodge Jeep RAM Bee Cave,91728.0
+Jeep,Wrangler,2024,New,,Covert Chrysler Dodge Jeep RAM Bee Cave,38841.0
+Chevrolet,LS,2018,Used,89848.0,Southwest Kia,25500.0
+GMC,Sierra,2023,Used,26290.0,Southwest Kia,69998.0
+Toyota,Venza,2021,Certified,24543.0,South Toyota,37996.0
+Toyota,Prius,2012,Used,183537.0,South Toyota,8996.0
+Honda,Accord,2017,Used,103620.0,South Toyota,17996.0
+Mazda,CX-30,2020,Used,33993.0,Cowboy Toyota,21037.0
+Toyota,Camry,2023,New,,Cowboy Toyota,30567.0
+Toyota,4Runner,2023,New,,Cowboy Toyota,52612.0
+Toyota,Tundra,2021,Used,39080.0,Cowboy Toyota,51192.0
+Honda,Civic,2021,Used,53738.0,Cowboy Toyota,37704.0
+Toyota,4Runner,2021,Used,14181.0,Cowboy Toyota,52318.0
+Toyota,Tundra,2023,New,,Cowboy Toyota,56365.0
+Toyota,Sequoia,2020,Used,132684.0,Cowboy Toyota,40437.0
+Hyundai,Palisade,2021,Used,32681.0,Metro Mazda of Mesquite,34945.0
+Mazda,MX-5 Miata,2023,New,,Metro Mazda of Mesquite,35700.0
+Volkswagen,Atlas,2022,Used,16342.0,Young Chevrolet,32000.0
+Honda,Passport,2019,Used,93947.0,Young Chevrolet,24000.0
+Chevrolet,Corvette,2020,Used,11687.0,Young Chevrolet,80000.0
+Cadillac,CT4,2023,Used,7811.0,Young Chevrolet,38000.0
+Chevrolet,Corvette,2023,New,,Young Chevrolet,124520.0
+GMC,Canyon,2022,Used,21598.0,Young Chevrolet,38000.0
+Ford,Bronco,2021,Used,29742.0,Young Chevrolet,49000.0
+Kia,Telluride,2021,Certified,36276.0,Southwest Kia of Mesquite,36499.0
+Ford,Expedition,2022,Used,28586.0,Hertz Car Sales Mesquite,52677.0
+GMC,Acadia,2023,New,,Freedom Chevrolet Buick GMC by Ed Morse,47210.0
+Chevrolet,Camaro,2023,Used,451.0,Freedom Chevrolet Buick GMC by Ed Morse,40598.0
+RAM,1500,2022,Used,8615.0,Freedom Chevrolet Buick GMC by Ed Morse,58998.0
+GMC,Canyon,2023,New,,Freedom Chevrolet Buick GMC by Ed Morse,64845.0
+GMC,Yukon,2023,New,,Freedom Chevrolet Buick GMC by Ed Morse,87330.0
+GMC,Canyon,2023,New,,Freedom Chevrolet Buick GMC by Ed Morse,48150.0
+Chevrolet,Silverado,2022,Used,1785.0,Freedom Chevrolet Buick GMC by Ed Morse,51498.0
+Chevrolet,Suburban,2021,Certified,62136.0,Freedom Chevrolet Buick GMC by Ed Morse,56998.0
+GMC,Canyon,2023,New,,Freedom Chevrolet Buick GMC by Ed Morse,41210.0
+Chevrolet,Camaro,2023,New,,Freedom Chevrolet Buick GMC by Ed Morse,72485.0
+Chevrolet,Camaro,2023,New,,Freedom Chevrolet Buick GMC by Ed Morse,55055.0
+Chevrolet,Blazer,2023,New,,Seguin Chevrolet,44520.0
+Chevrolet,Blazer,2023,New,,Seguin Chevrolet,46180.0
+Toyota,Tundra,2017,Used,117611.0,Seguin Chevrolet,34000.0
+Mitsubishi,Outlander,2022,Used,37168.0,Don Herring Mitsubishi,23988.0
+Lexus,RX,2019,Used,44553.0,Ride N Drive,33988.0
+BMW,X7,2021,Used,40066.0,Ride N Drive,51988.0
+Mercedes,AMG GT,2020,Used,23905.0,Ride N Drive,76488.0
+Mercedes,GLC,2018,Used,33320.0,Ride N Drive,54988.0
+Mercedes,AMG GT,2020,Used,32779.0,Ride N Drive,74488.0
+Audi,S8,2017,Used,49922.0,Ride N Drive,47988.0
+Mercedes,6,2017,Used,77396.0,Ride N Drive,41488.0
+Aston Martin,Vantage,2019,Used,28342.0,Ride N Drive,90988.0
+Mercedes,6,2018,Used,37852.0,Ride N Drive,53488.0
+Mercedes,AMG GT,2021,Used,25982.0,Ride N Drive,119988.0
+GMC,Sierra,2017,Used,100126.0,FAST by Accelerate Auto Group,47991.0
+Chevrolet,Corvette,2022,Used,14579.0,FAST by Accelerate Auto Group,83991.0
+RAM,2500,2017,Used,153260.0,FAST by Accelerate Auto Group,35741.0
+Lexus,ES,2019,Used,36223.0,FAST by Accelerate Auto Group,29491.0
+Ford,Expedition,2021,Used,28365.0,FAST by Accelerate Auto Group,38491.0
+Ford,F-150,2016,Used,167193.0,FAST by Accelerate Auto Group,21491.0
+Mercedes,S-Class,2015,Used,118976.0,FAST by Accelerate Auto Group,23991.0
+Volkswagen,Golf,2023,New,,Rusty Wallis Volkswagen,40095.0
+Volkswagen,Golf,2023,New,,Rusty Wallis Volkswagen,37964.0
+Volkswagen,Golf,2023,New,,Rusty Wallis Volkswagen,40185.0
+Volkswagen,ID.4,2023,New,,Rusty Wallis Volkswagen,53055.0
+Honda,Accord,2018,Used,125424.0,DFW Trucks,14982.0
+GMC,Sierra,2012,Used,142620.0,DFW Trucks,15488.0
+BMW,X5,2018,Used,41627.0,DFW Trucks,30498.0
+Chevrolet,Tahoe,2018,Used,40464.0,DFW Trucks,40488.0
+Dodge,3500,2008,Used,100965.0,DFW Trucks,28999.0
+Lexus,GX,2007,Used,197684.0,DFW Trucks,9998.0
+Dodge,2500,2011,Used,286064.0,DFW Trucks,21998.0
+Lexus,LS,2012,Used,68637.0,DFW Trucks,17998.0
+Nissan,Versa,2018,Used,99792.0,Shock Motors,8499.0
+GMC,Acadia,2023,New,,Hope Chevrolet Buick GMC,56635.0
+GMC,Acadia,2023,New,,Hope Chevrolet Buick GMC,55835.0
+GMC,Sierra,2024,New,,Hope Chevrolet Buick GMC,74245.0
+Jeep,Wrangler,2023,New,,Dallas Chrysler Dodge Jeep RAM,47596.0
+Dodge,Charger,2021,Certified,60934.0,Dallas Chrysler Dodge Jeep RAM,31991.0
+RAM,1500,2024,New,,Dallas Chrysler Dodge Jeep RAM,68661.0
+Jeep,Grand Cherokee,2023,New,,Dallas Chrysler Dodge Jeep RAM,54147.0
+Lexus,GX,2020,Used,42782.0,Dallas Chrysler Dodge Jeep RAM,44991.0
+RAM,1500,2023,New,,Dallas Chrysler Dodge Jeep RAM,73338.0
+Mercedes,C-Class,2014,Used,40466.0,Dallas Chrysler Dodge Jeep RAM,16937.0
+RAM,1500,2023,New,,Dallas Chrysler Dodge Jeep RAM,57150.0
+Ford,Expedition,2021,Used,17905.0,Lone Star Cadillac,43489.0
+Cadillac,CT5,2023,New,,Lone Star Cadillac,43675.0
+Cadillac,Escalade,2023,New,,Lone Star Cadillac,118640.0
+Buick,Enclave,2022,Used,36719.0,Lone Star Cadillac,31982.0
+Cadillac,CT4-V,2023,New,,Lone Star Cadillac,65565.0
+Chevrolet,Trax,2024,New,,Jupiter Chevrolet Inc,23195.0
+Land Rover,Range Rover,2021,Used,24123.0,Go Luxury Auto Group,68998.0
+Mercedes,6,2022,Used,850.0,Core Autoplex,159999.0
+GMC,Sierra,2017,Used,79476.0,"Lakeside Motors, Inc.",26990.0
+Acura,MDX,2023,Certified,9215.0,Goodson Acura of Dallas,52900.0
+Audi,SQ5,2018,Used,117797.0,John Eagle Honda of Dallas,22636.0
+Honda,Ridgeline,2023,New,,John Eagle Honda of Dallas,42530.0
+Acura,RDX,2017,Used,78350.0,John Eagle Honda of Dallas,19346.0
+Ford,Bronco,2023,New,,Planet Ford Dallas Love Field,69959.0
+Ford,Mustang,2024,New,,Planet Ford Dallas Love Field,47680.0
+Ford,Bronco,2023,New,,Planet Ford Dallas Love Field,79959.0
+Ford,Bronco,2023,New,,Planet Ford Dallas Love Field,75959.0
+Mercedes,2500,2023,New,,Park Place Motorcars Dallas,63989.0
+Mercedes,GLE,2024,New,,Park Place Motorcars Dallas,67200.0
+Mercedes,GLS 450,2021,Used,17456.0,Sewell Lexus of Dallas,67998.0
+Tesla,Model Y,2023,Used,8127.0,Sewell Lexus of Dallas,44998.0
+Porsche,911,2021,Used,2755.0,Sewell Lexus of Dallas,123998.0
+Hyundai,Santa Cruz,2022,Used,15168.0,Sewell Lexus of Dallas,31998.0
+Lexus,GX,2023,Used,861.0,Sewell Lexus of Dallas,72998.0
+Mazda,CX-5,2016,Used,53448.0,Sewell Lexus of Dallas,18998.0
+Porsche,Cayenne,2021,Used,27568.0,Sewell Lexus of Dallas,88998.0
+Toyota,4Runner,2020,Used,30642.0,Sewell Lexus of Dallas,45998.0
+Toyota,4Runner,2017,Used,23974.0,Sewell Lexus of Dallas,32998.0
+Jaguar,F-PACE,2018,Used,71114.0,Sewell Lexus of Dallas,27998.0
+Lexus,SC 400,1992,Used,77022.0,Sewell Lexus of Dallas,21698.0
+Toyota,Highlander,2018,Used,53093.0,Sewell Lexus of Dallas,25998.0
+Ford,Mustang,2021,Used,4662.0,Sewell Lexus of Dallas,38498.0
+Porsche,911,2017,Used,16102.0,Sewell Lexus of Dallas,104998.0
+Lincoln,Navigator,2016,Used,118617.0,Sewell Lexus of Dallas,21998.0
+BMW,X6,2022,Used,13175.0,Sewell Lexus of Dallas,65998.0
+BMW,Coupe,2023,Used,2297.0,BMW of Dallas,57970.0
+BMW,540 i,2020,Certified,27668.0,BMW of Dallas,41998.0
+BMW,M850 i,2024,New,,BMW of Dallas,111565.0
+Lamborghini,Aventador,2020,Used,18271.0,BMW of Dallas,575998.0
+MINI,Cooper,2024,New,,MINI of Dallas,36645.0
+Toyota,4Runner,2011,Used,276070.0,Bluebonnet Chrysler Dodge RAM,11611.0
+RAM,CLA,2023,New,,Bluebonnet Chrysler Dodge RAM,35695.0
+Ford,F-150,2022,Used,10339.0,Sewell Subaru,37588.0
+Subaru,Crosstrek,2022,Certified,17005.0,Sewell Subaru,30888.0
+Subaru,WRX,2023,New,,Sewell Subaru,38002.0
+Subaru,Outback,2024,New,,Sewell Subaru,45059.0
+Subaru,WRX,2023,New,,Sewell Subaru,34634.0
+Infiniti,QX80,2021,Certified,24083.0,Sewell INFINITI,48988.0
+Infiniti,QX60,2023,New,,Sewell INFINITI,68930.0
+Infiniti,Journey,2012,Used,78644.0,Sewell INFINITI,14988.0
+Cadillac,Escalade,2023,New,,Sewell Cadillac of Dallas,116790.0
+GMC,Sierra,2022,Used,16009.0,Sewell Cadillac of Dallas,67999.0
+GMC,Sierra,2024,New,,Sewell Buick GMC,87090.0
+GMC,Sierra,2023,New,,Sewell Buick GMC,79530.0
+GMC,Sierra,2024,New,,Sewell Buick GMC,99035.0
+GMC,Sierra,2024,New,,Sewell Buick GMC,49565.0
+Land Rover,Defender,2021,Used,44815.0,Jaguar Land Rover Dallas,54995.0
+Land Rover,Defender,2020,Used,28269.0,Jaguar Land Rover Dallas,64995.0
+Land Rover,Defender,2023,New,,Jaguar Land Rover Dallas,122920.0
+Toyota,Corolla,2018,Used,44700.0,Texas Giants Automotive,16499.0
+Chevrolet,Blazer,2023,New,,Graff Chevrolet,47500.0
+Toyota,Tacoma,2022,Used,19715.0,Graff Chevrolet,38406.0
+Mazda,CX-5,2022,Used,2665.0,Graff Chevrolet,34506.0
+Toyota,Camry,2022,Used,1066.0,Graff Chevrolet,28406.0
+Toyota,Tundra,2015,Used,52381.0,Maverick Motors,37950.0
+Mercedes,AMG E53,2019,Used,32710.0,Reliable Chevrolet,44695.0
+Toyota,Prius,2018,Used,70606.0,Reliable Chevrolet,20395.0
+Chevrolet,Tahoe,2021,Certified,21280.0,Reliable Chevrolet,63995.0
+Hyundai,Santa Fe,2019,Used,51599.0,Reliable Chevrolet,24395.0
+Volkswagen,GT,2013,Used,75218.0,Reliable Chevrolet,12995.0
+BMW,X7,2020,Used,52978.0,Toyota of Richardson,47988.0
+Lexus,GS 350,2020,Used,17578.0,Toyota of Richardson,36988.0
+Toyota,Tundra,2023,New,,Toyota of Richardson,66100.0
+Toyota,Corolla,2023,Used,195.0,Toyota of Richardson,44988.0
+Toyota,Sequoia,2023,Used,900.0,Toyota of Richardson,84887.0
+Toyota,Venza,2023,New,,Toyota of Richardson,41577.0
+Toyota,Venza,2023,New,,Toyota of Richardson,40572.0
+Toyota,Tundra,2022,Used,44347.0,Toyota of Richardson,39988.0
+Toyota,Highlander,2019,Used,39906.0,Toyota of Richardson,30855.0
+Toyota,Highlander,2021,Used,32375.0,Toyota of Richardson,41988.0
+Toyota,FJ Cruiser,2014,Used,62590.0,Toyota of Richardson,34988.0
+Toyota,4Runner,2023,New,,Toyota of Richardson,48821.0
+Toyota,4Runner,2023,New,,Toyota of Richardson,40645.0
+Ford,F-150,2018,Used,88785.0,Toyota of Richardson,33987.0
+RAM,1500,2022,New,,Richardson Chrysler Jeep Dodge Ram,65000.0
+RAM,2500,2024,New,,Richardson Chrysler Jeep Dodge Ram,91610.0
+Honda,Passport,2023,New,,Lute Riley Honda,44975.0
+Acura,MDX,2022,Used,29685.0,Lute Riley Honda,41997.0
+Honda,Passport,2023,New,,Lute Riley Honda,44975.0
+GMC,Canyon,2023,New,,Classic Buick GMC,54339.0
+GMC,Canyon,2023,New,,Classic Buick GMC,47775.0
+GMC,Canyon,2023,New,,Classic Buick GMC,50719.0
+GMC,Canyon,2021,Used,31151.0,Classic Buick GMC,38987.0
+Ford,F-150,2018,Used,61670.0,North Central Ford,37896.0
+Ford,Mustang,2017,Certified,59232.0,North Central Ford,26996.0
+Dodge,Durango,2022,Used,9838.0,Don Davis Nissan,46975.0
+GMC,Yukon,2021,Used,70994.0,Classic Chrysler Dodge Jeep Ram Fiat,51991.0
+Jeep,Grand Wagoneer,2023,New,,Classic Chrysler Dodge Jeep Ram Fiat,97385.0
+Volkswagen,Golf,2017,Used,92607.0,Classic Chrysler Dodge Jeep Ram Fiat,24991.0
+Ford,F-250,2017,Used,105945.0,Classic Chrysler Dodge Jeep Ram Fiat,47392.0
+RAM,1500,2022,Used,6567.0,Classic Chrysler Dodge Jeep Ram Fiat,51391.0
+RAM,1500,2023,New,,Classic Chrysler Dodge Jeep Ram Fiat,108730.0
+Jeep,Wagoneer,2023,New,,Classic Chrysler Dodge Jeep Ram Fiat,73590.0
+Chevrolet,Silverado,2024,Used,8384.0,Classic Chrysler Dodge Jeep Ram Fiat,79992.0
+GMC,Sierra,2022,Used,26958.0,Classic Chrysler Dodge Jeep Ram Fiat,71992.0
+Mazda,Mazda3,2023,New,,Hiley Mazda VW of Arlington,34245.0
+GMC,Yukon,2021,Used,59963.0,Hiley Mazda VW of Arlington,63650.0
+Mazda,CX-9,2024,New,,Hiley Mazda VW of Arlington,55545.0
+Ford,Expedition,2019,Used,77016.0,Grand Prairie Ford,41048.0
+Cadillac,Escalade,2018,Used,40539.0,Grand Prairie Ford,42949.0
+Genesis,G80,2023,New,,Freeman Hyundai,80740.0
+Genesis,GV80,2023,New,,Freeman Hyundai,78365.0
+Genesis,GV80,2021,Used,68007.0,Freeman Hyundai,43950.0
+Genesis,G90,2023,New,,Freeman Hyundai,100370.0
+Hyundai,Sonata,2023,New,,Freeman Hyundai,28335.0
+Hyundai,Ioniq,2023,New,,Freeman Hyundai,45250.0
+Hyundai,Sonata,2023,New,,Freeman Hyundai,28665.0
+Dodge,Challenger,2023,New,,SouthWest Chrysler Dodge Jeep RAM,32497.0
+Dodge,Durango,2023,New,,SouthWest Chrysler Dodge Jeep RAM,53774.0
+Chrysler,300,2023,New,,SouthWest Chrysler Dodge Jeep RAM,33997.0
+Jeep,Wrangler,2024,New,,SouthWest Chrysler Dodge Jeep RAM,38744.0
+Chevrolet,Corvette,2016,Used,15362.0,SouthWest Chrysler Dodge Jeep RAM,68157.0
+Nissan,Altima,2010,Used,178500.0,Auto Starlight,7850.0
+Chevrolet,Tahoe,2022,Used,15652.0,Lone Star Auto Brokers LLC,67900.0
+Dodge,Challenger,2010,Used,98690.0,Plano Preowned Auto Group,18495.0
+Audi,S5,2018,Used,52715.0,Plano Preowned Auto Group,34995.0
+Chevrolet,Suburban,2021,Used,64716.0,Vandergriff Toyota,45495.0
+Acura,Integra,2023,Certified,8889.0,Vandergriff Acura,34596.0
+Acura,MDX,2023,New,,Vandergriff Acura,60995.0
+Acura,MDX,2023,New,,Vandergriff Acura,60395.0
+Acura,TLX,2023,New,,Vandergriff Acura,44645.0
+Lexus,GX,2020,Used,76461.0,Vandergriff Acura,40966.0
+Ford,Mustang,2021,Used,11597.0,Vandergriff Acura,41691.0
+Acura,Integra,2023,New,,Vandergriff Acura,37345.0
+Acura,TLX,2023,New,,Vandergriff Acura,44845.0
+Acura,Integra,2024,New,,Vandergriff Acura,34545.0
+Acura,TLX,2023,New,,Vandergriff Acura,44845.0
+Acura,RDX,2023,New,,Vandergriff Acura,48195.0
+Acura,TLX,2023,New,,Vandergriff Acura,52045.0
+Acura,MDX,2023,New,,Vandergriff Acura,64545.0
+Acura,Integra,2023,New,,Vandergriff Acura,34345.0
+Acura,MDX,2023,New,,Vandergriff Acura,60995.0
+Acura,MDX,2023,New,,Vandergriff Acura,55295.0
+Honda,Civic,2022,Certified,18092.0,Vandergriff Honda,31629.0
+Honda,Passport,2021,Certified,8649.0,Vandergriff Honda,36399.0
+Honda,HR-V,2021,Certified,46125.0,Vandergriff Honda,22654.0
+Honda,Pilot,2021,Certified,58658.0,Vandergriff Honda,31549.0
+Chevrolet,Corvette,2023,New,,Vandergriff Chevrolet,162000.0
+Chevrolet,Corvette,2023,New,,Vandergriff Chevrolet,67390.0
+Ford,F-150,2022,Used,37531.0,AutoNation Ford Arlington,42995.0
+Ford,F-150,2023,New,,AutoNation Ford Arlington,64680.0
+Ford,F-150,2023,New,,AutoNation Ford Arlington,78049.0
+Ford,Bronco,2022,Used,3714.0,AutoNation Ford Arlington,55595.0
+Ford,F-150,2023,New,,AutoNation Ford Arlington,62740.0
+Hummer,H2 SUT,2005,Used,107229.0,Metro Nissan of Dallas,23702.0
+Nissan,Pathfinder,2023,Certified,1348.0,Metro Nissan of Dallas,40997.0
+Lexus,LS,2013,Used,68055.0,Metro Nissan of Dallas,23497.0
+Nissan,Armada,2023,New,,Metro Nissan of Dallas,58500.0
+Lexus,LS,2018,Used,49259.0,Metro Nissan of Dallas,44963.0
+Land Rover,Range Rover,2019,Used,84310.0,Metro Nissan of Dallas,39698.0
+Audi,Q7,2020,Used,35983.0,Metro Nissan of Dallas,46963.0
+Cadillac,CT4,2023,Used,4361.0,Metro Nissan of Dallas,36991.0
+Lexus,GS 350,2018,Used,71745.0,Westway Ford,27452.0
+Porsche,Panamera,2016,Used,70632.0,A & M Motors,37490.0
+Porsche,Cayenne,2013,Used,91730.0,A & M Motors,21490.0
+Audi,Q8,2021,Used,32695.0,DallasLeaseReturns.com,55634.0
+Toyota,4Runner,2021,Used,43661.0,DallasLeaseReturns.com,44269.0
+Volkswagen,Atlas,2023,New,,Family Volkswagen Burleson,46486.0
+Volkswagen,Atlas,2023,New,,Family Volkswagen Burleson,40866.0
+Volkswagen,Atlas,2023,New,,Family Volkswagen Burleson,45952.0
+Volkswagen,Atlas,2023,New,,Family Volkswagen Burleson,41072.0
+Volkswagen,Golf,2023,New,,Family Volkswagen Burleson,39616.0
+Volkswagen,Atlas,2023,New,,Family Volkswagen Burleson,45752.0
+Volkswagen,Atlas,2023,New,,Family Volkswagen Burleson,39354.0
+Volkswagen,Atlas,2023,New,,Family Volkswagen Burleson,46043.0
+Mercedes,SL 400,2016,Used,43512.0,Karma DFW,33488.0
+BMW,X6,2016,Used,99745.0,Karma DFW,25488.0
+Audi,Q7,2019,Used,93062.0,Karma DFW,23888.0
+Land Rover,Range Rover,2017,Used,85474.0,Karma DFW,25788.0
+Porsche,Macan,2015,Used,96022.0,Karma DFW,24888.0
+RAM,2500,2018,Used,103605.0,Principle Volkswagen Grapevine,25984.0
+Honda,CR-V,2014,Used,132871.0,Texas Cars Direct,12988.0
+Saturn,Sky,2008,Used,156834.0,Texas Cars Direct,5998.0
+Mercedes,4MATIC,2014,Used,88175.0,Texas Cars Direct,14883.0
+Jeep,Gladiator,2020,Used,74997.0,Texas Cars Direct,32988.0
+Jeep,Wrangler,2011,Used,131595.0,Texas Cars Direct,15899.0
+Honda,Civic,2012,Used,120503.0,Texas Cars Direct,8988.0
+Toyota,Supra,2020,Used,50715.0,Texas Cars Direct,45934.0
+Chevrolet,Suburban,2013,Used,89874.0,C3 Automotive,29477.0
+Ford,Excursion,2000,Used,83688.0,C3 Automotive,18497.0
+Land Rover,Range Rover,2013,Used,77663.0,"Extreme Sportcars, Inc.",30490.0
+Lexus,RC,2015,Used,77732.0,"Extreme Sportcars, Inc.",26990.0
+Lexus,RX,2004,Used,74214.0,"Extreme Sportcars, Inc.",11990.0
+Toyota,FJ Cruiser,2010,Used,110676.0,"Extreme Sportcars, Inc.",22590.0
+Maserati,Levante,2018,Used,39054.0,"Extreme Sportcars, Inc.",38990.0
+BMW,435 i,2014,Used,37814.0,"Extreme Sportcars, Inc.",27990.0
+Porsche,Cayman,2016,Used,59719.0,"Extreme Sportcars, Inc.",43890.0
+Chevrolet,Corvette,2021,Used,1840.0,"Extreme Sportcars, Inc.",88990.0
+Toyota,Highlander,2023,New,,Toyota of Dallas,47494.0
+Jeep,Wrangler,2022,New,,Forest Lane Chrysler Dodge Jeep Ram,62992.0
+RAM,1500,2023,New,,Forest Lane Chrysler Dodge Jeep Ram,66667.0
+Jeep,Compass,2023,New,,Forest Lane Chrysler Dodge Jeep Ram,29474.0
+Jeep,Wrangler,2022,New,,Forest Lane Chrysler Dodge Jeep Ram,45887.0
+Jeep,Wrangler,2022,New,,Forest Lane Chrysler Dodge Jeep Ram,45997.0
+Jeep,Wrangler,2023,New,,Forest Lane Chrysler Dodge Jeep Ram,55279.0
+RAM,1500,2023,New,,Forest Lane Chrysler Dodge Jeep Ram,59857.0
+Jeep,Cherokee,2022,New,,Forest Lane Chrysler Dodge Jeep Ram,29994.0
+Land Rover,Range Rover,2017,Used,58171.0,Double R Cars,42995.0
+Porsche,911,2001,Used,48308.0,Double R Cars,64995.0
+Jeep,Gladiator,2023,New,,Lakeshore Chrysler Dodge Jeep RAM,54777.0
+Jeep,Gladiator,2023,New,,Lakeshore Chrysler Dodge Jeep RAM,55286.0
+Jeep,Gladiator,2023,New,,Lakeshore Chrysler Dodge Jeep RAM,53808.0
+RAM,2500,2023,New,,Lakeshore Chrysler Dodge Jeep RAM,79728.0
+Jeep,Gladiator,2023,New,,Lakeshore Chrysler Dodge Jeep RAM,50740.0
+Jeep,Gladiator,2023,New,,Lakeshore Chrysler Dodge Jeep RAM,61727.0
+Jeep,Gladiator,2023,New,,Lakeshore Chrysler Dodge Jeep RAM,50274.0
+Hyundai,Santa Fe,2023,New,,Ray Huffines Chevrolet Plano,38275.0
+Land Rover,Defender,2021,Used,44254.0,Matt Bowers Chevrolet Slidell,64991.0
+Rolls-Royce,Cullinan,2023,Used,670.0,Tactical Fleet Dallas,429900.0
+Audi,A4,2013,Used,73116.0,Texas Car One,14596.0
+Mercedes,E-Class,2007,Used,71476.0,Texas Car One,10996.0
+Tesla,Model X,2016,Used,142124.0,Auto Centrix,29989.0
+Porsche,Panamera,2019,Used,51360.0,Kian Motors,53800.0
+Porsche,Panamera,2018,Used,16786.0,Kian Motors,65900.0
+Dodge,Charger,2019,Used,92843.0,NTX Auto,19822.0
+Mercedes,S-Class,2015,Used,57922.0,NTX Auto,36988.0
+Ford,Expedition,2019,Used,115358.0,NTX Auto,27555.0
+MINI,Cooper,2015,Used,97124.0,NTX Auto,14222.0
+BMW,X6,2016,Used,61593.0,NTX Auto,32011.0
+Land Rover,Range Rover,2020,Used,53461.0,NTX Auto,48122.0
+Mercedes,E-Class,2014,Used,109677.0,NTX Auto,13388.0
+Jeep,Wrangler,2017,Used,93017.0,NTX Auto,25611.0
+Ford,Mustang,2020,Used,7024.0,NTX Auto,38188.0
+Cadillac,XT5,2017,Used,91701.0,NTX Auto,19811.0
+Jeep,Grand Cherokee,2023,Certified,7333.0,Don Davis CDJR - Arlington,42987.0
+BMW,M440 i,2021,Certified,43837.0,BMW of Arlington,44905.0
+BMW,740,2023,New,,BMW of Arlington,104635.0
+BMW,X5,2024,New,,BMW of Arlington,75140.0
+BMW,540 i,2023,New,,BMW of Arlington,65725.0
+BMW,X5,2023,New,,BMW of Arlington,70365.0
+BMW,X5,2022,New,,BMW of Arlington,71015.0
+BMW,540 i,2023,New,,BMW of Arlington,67375.0
+BMW,X7,2023,Used,9235.0,BMW of Arlington,105904.0
+BMW,750 i,2022,New,,BMW of Arlington,108510.0
+BMW,X5,2023,New,,BMW of Arlington,71565.0
+BMW,X5,2022,New,,BMW of Arlington,70515.0
+BMW,X5,2023,New,,BMW of Arlington,69015.0
+BMW,X5,2023,New,,BMW of Arlington,70365.0
+BMW,X5,2022,New,,BMW of Arlington,69465.0
+BMW,X3,2021,Used,42811.0,Autos of Dallas,28990.0
+BMW,X7,2021,Used,45069.0,Autos of Dallas,52880.0
+GMC,Yukon,2021,Used,71608.0,Autos of Dallas,49490.0
+Bentley,Flying Spur,2021,Used,26387.0,Autos of Dallas,193990.0
+BMW,X7,2023,Used,33781.0,Autos of Dallas,75990.0
+BMW,iX xDrive50,2022,Used,14651.0,Autos of Dallas,67880.0
+Lincoln,Navigator,2020,Used,41186.0,Autos of Dallas,54990.0
+BMW,X5,2020,Used,53502.0,Autos of Dallas,53990.0
+Volvo,XC90,2020,Used,27730.0,Autos of Dallas,37480.0
+Lincoln,Aviator,2021,Used,32167.0,Autos of Dallas,45490.0
+Land Rover,Range Rover,2019,Used,35830.0,Autos of Dallas,46480.0
+Tesla,Model 3,2023,Used,2398.0,Autos of Dallas,37290.0
+Lexus,UX,2019,Used,22638.0,Autos of Dallas,28990.0
+Ford,Expedition,2022,Used,33696.0,Autos of Dallas,54490.0
+Lexus,ES,2020,Used,14574.0,Autos of Dallas,35480.0
+Porsche,Cayenne,2020,Used,33762.0,Autos of Dallas,62990.0
+Chevrolet,Tahoe,2021,Used,76967.0,Autos of Dallas,46480.0
+BMW,X3,2021,Used,46097.0,Autos of Dallas,28880.0
+Audi,Q5,2022,Used,7939.0,Autos of Dallas,37880.0
+Volvo,XC60,2021,Used,24136.0,Autos of Dallas,35880.0
+Tesla,Model S,2019,Used,28161.0,Autos of Dallas,46990.0
+Audi,Q5,2021,Used,22315.0,Autos of Dallas,32880.0
+RAM,1500,2022,Used,34133.0,Autos of Dallas,52490.0
+Mercedes,GLS 450,2022,Used,31042.0,Autos of Dallas,71490.0
+BMW,430 i,2021,Used,41386.0,Autos of Dallas,37490.0
+Land Rover,Defender,2022,Used,14145.0,Autos of Dallas,67480.0
+Mercedes,GLS 450,2019,Used,41099.0,Autos of Dallas,40490.0
+Lexus,NX,2019,Used,33399.0,Autos of Dallas,29180.0
+BMW,X5,2020,Used,46903.0,Autos of Dallas,37880.0
+Land Rover,Defender,2020,Used,39070.0,Autos of Dallas,61490.0
+Mercedes,GLS 450,2019,Used,38917.0,Autos of Dallas,40490.0
+BMW,X5,2020,Used,43271.0,Autos of Dallas,41990.0
+BMW,X6,2021,Used,48554.0,Autos of Dallas,54280.0
+Audi,Q7,2022,Used,9541.0,Autos of Dallas,47880.0
+Infiniti,QX80,2021,Used,67360.0,Autos of Dallas,31990.0
+Infiniti,QX80,2022,Used,46110.0,Autos of Dallas,45880.0
+Porsche,Cayenne,2020,Used,46420.0,Autos of Dallas,60990.0
+Hyundai,Palisade,2021,Used,41610.0,Autos of Dallas,33490.0
+Porsche,Macan,2022,Used,33690.0,Earth Motorcars,57991.0
+Ferrari,California,2010,Used,14569.0,Earth Motorcars,139900.0
+Lexus,LC,2018,Used,16339.0,Earth Motorcars,72980.0
+BMW,750 i,2016,Used,61510.0,Earth Motorcars,32990.0
+Ford,Bronco,1970,Used,2412.0,Earth Motorcars,324900.0
+Mercedes,AMG GT,2020,Used,18186.0,Earth Motorcars,121990.0
+Mercedes,G 550,2018,Used,5036.0,Earth Motorcars,269900.0
+RAM,1500,2022,Certified,56789.0,"Huffines Chrysler, Jeep, Dodge, RAM Plano",46858.0
+Volkswagen,Golf,2018,Used,31221.0,"Huffines Chrysler, Jeep, Dodge, RAM Plano",18251.0
+RAM,1500,2022,Certified,21700.0,"Huffines Chrysler, Jeep, Dodge, RAM Plano",51620.0
+Kia,Niro,2019,Used,18299.0,"Huffines Chrysler, Jeep, Dodge, RAM Plano",25146.0
+RAM,1500,2022,Certified,23589.0,"Huffines Chrysler, Jeep, Dodge, RAM Plano",49659.0
+BMW,X5,2020,Used,20268.0,"Huffines Chrysler, Jeep, Dodge, RAM Plano",44587.0
+Dodge,Durango,2022,Certified,29565.0,"Huffines Chrysler, Jeep, Dodge, RAM Plano",38103.0
+Ford,Maverick,2023,New,,AutoNation Ford Burleson,33685.0
+Ford,F-150,2022,Used,3853.0,AutoNation Ford Burleson,67498.0
+Ford,Bronco,2023,New,,AutoNation Ford Burleson,51130.0
+Ford,F-350,2023,New,,AutoNation Ford Burleson,91300.0
+Hyundai,Coupe,2014,Used,17167.0,NESCO,23995.0
+Subaru,BRZ,2016,Used,94870.0,NESCO,18995.0
+Cadillac,CT6,2017,Used,84105.0,NESCO,27495.0
+Chevrolet,Corvette,1993,Used,89490.0,NESCO,12995.0
+Lincoln,Navigator,2008,Used,118691.0,NESCO,11995.0
+BMW,330 i,2006,Used,90140.0,NESCO,9495.0
+Porsche,Boxster,2008,Used,53628.0,NESCO,27995.0
+Saturn,Sky,2009,Used,52331.0,NESCO,12995.0
+Infiniti,QX56,2011,Used,142328.0,CarChoice.com,12900.0
+BMW,M3,2008,Used,98403.0,CarChoice.com,20900.0
+Lincoln,Navigator,2013,Used,170395.0,CarChoice.com,13490.0
+BMW,750,2006,Used,138550.0,CarChoice.com,7900.0
+Chevrolet,Suburban,2009,Used,74197.0,Dallas Autos Direct,22928.0
+Bentley,Continental,2006,Used,30227.0,Dallas Autos Direct,37928.0
+Bentley,Bentayga,2019,Used,34627.0,Dallas Autos Direct,105928.0
+Maserati,Levante,2017,Used,60308.0,Dallas Autos Direct,30928.0
+Maserati,Quattroporte,2007,Used,35110.0,Dallas Autos Direct,18928.0
+Jeep,Wrangler,2009,Used,96397.0,Dallas Autos Direct,17928.0
+BMW,Roadster,2006,Used,53332.0,Dallas Autos Direct,14928.0
+Hummer,H2 SUT,2005,Used,109394.0,Dallas Autos Direct,26928.0
+Mercedes,Roadster,2003,Used,111776.0,Dallas Autos Direct,9928.0
+Porsche,Panamera,2014,Used,54607.0,Dallas Autos Direct,30928.0
+Hummer,H3,2006,Used,156243.0,Dallas Autos Direct,8928.0
+Maserati,Quattroporte,2008,Used,57767.0,Dallas Autos Direct,15928.0
+BMW,3,2012,Used,93290.0,Dallas Autos Direct,10928.0
+Ford,F-150,2023,New,,Five Star Ford Dallas,71045.0
+Ford,F-150,2018,Certified,109578.0,Five Star Ford Dallas,32500.0
+Ford,Explorer,2022,Used,20916.0,Five Star Ford Dallas,41000.0
+Ford,F-150,2023,New,,Five Star Ford Dallas,72780.0
+Ford,F-150,2023,New,,Five Star Ford Dallas,74010.0
+Kia,Telluride,2022,Used,27020.0,Five Star Ford Dallas,46900.0
+Chevrolet,Tahoe,2021,Certified,61968.0,Sam Pack's 5 Star Chevrolet,57000.0
+Ford,F-150,2023,New,,Sam Pack's Five Star Ford Carrollton,54841.0
+Ford,F-150,2023,New,,Sam Pack's Five Star Ford Carrollton,43038.0
+Ford,F-250,2022,Certified,17130.0,Sam Pack's Five Star Ford Carrollton,73000.0
+Tesla,Model X,2020,Used,42854.0,Sam Pack's Five Star Ford Carrollton,54500.0
+Ford,Bronco,2023,New,,Sam Pack's Five Star Ford Carrollton,59540.0
+Ford,F-150,2023,New,,Sam Pack's Five Star Ford Carrollton,94685.0
+Ford,F-150,2022,Certified,37826.0,Sam Pack's Five Star Ford Carrollton,59900.0
+Ford,F-150,2023,New,,Sam Pack's Five Star Ford Carrollton,49613.0
+Toyota,Sequoia,2007,Used,168758.0,United Auto Group,12995.0
+Toyota,Corolla,2013,Used,134105.0,Cransh Auto Sales Inc,10999.0
+Mazda,Mazda3,2010,Used,134876.0,Cransh Auto Sales Inc,7999.0
+Chevrolet,Tahoe,2014,Used,138844.0,Cransh Auto Sales Inc,13999.0
+Ford,Thunderbird,2002,Used,50578.0,Cransh Auto Sales Inc,16999.0
+Chevrolet,Silverado,2023,New,,Skinners Chevrolet Buick GMC,60135.0
+Hyundai,Santa Cruz,2023,Used,3000.0,Van Hyundai,33999.0
+Hyundai,Elantra,2023,New,,Van Hyundai,30680.0
+Hyundai,Elantra,2023,Used,6092.0,Van Hyundai,28050.0
+Ford,Bronco,2022,Used,1351.0,Texas Vehicle Exchange,79900.0
+Porsche,911,2020,Certified,14387.0,Porsche Plano,123998.0
+Audi,Q8,2019,Used,35728.0,Audi Plano,43998.0
+Audi,GT,2023,New,,Audi Plano,164890.0
+Ford,F-250,2017,Used,117990.0,Selective Autoplex,48995.0
+Tesla,Model Y,2020,Used,32678.0,Selective Autoplex,41495.0
+Polestar,2,2021,Used,28605.0,Selective Autoplex,32995.0
+Hyundai,Palisade,2023,Used,6187.0,Ewing Subaru of Plano,46789.0
+Subaru,WRX,2023,New,,Ewing Subaru of Plano,30893.0
+Subaru,WRX,2023,New,,Ewing Subaru of Plano,37087.0
+Toyota,Highlander,2021,Used,75013.0,Ewing Subaru of Plano,30500.0
+Volvo,S60,2022,Used,22792.0,Meador Chrysler Dodge Jeep Ram,37531.0
+Toyota,Tundra,2022,Used,57983.0,Meador Chrysler Dodge Jeep Ram,48000.0
+GMC,Yukon,2013,Used,179906.0,Meador Chrysler Dodge Jeep Ram,14260.0
+Lexus,NX,2022,Used,5832.0,Meador Chrysler Dodge Jeep Ram,47341.0
+Jeep,Compass,2022,New,,Meador Chrysler Dodge Jeep Ram,35435.0
+Hyundai,Palisade,2021,Used,44044.0,Meador Chrysler Dodge Jeep Ram,38868.0
+RAM,1500,2022,Used,26757.0,Nissan of McKinney,42577.0
+Toyota,4Runner,2023,Used,13181.0,Nissan of McKinney,38777.0
+Nissan,Altima,2024,New,,Nissan of McKinney,34160.0
+Ford,Bronco,2023,New,,Paris Ford,67510.0
+Ford,Bronco,2023,New,,Paris Ford,51780.0
+Ford,F-250,2023,New,,Paris Ford,85420.0
+Ford,Bronco,2023,New,,Paris Ford,34470.0
+Ford,F-250,2023,New,,Paris Ford,70855.0
+Ford,Bronco,2023,New,,Paris Ford,55750.0
+Ford,Expedition,2023,New,,Paris Ford,71260.0
+Ford,F-150,2023,New,,Paris Ford,78810.0
+Ford,F-150,2018,Certified,61940.0,Paris Ford,42993.0
+Volkswagen,Atlas,2023,New,,Brandon Tomes McKinney Volkswagen,43887.0
+Volkswagen,Golf,2022,Used,21362.0,Brandon Tomes McKinney Volkswagen,44983.0
+Toyota,Camry,2024,New,,Pat Lobb Toyota of Mckinney,34355.0
+Toyota,Camry,2024,New,,Pat Lobb Toyota of Mckinney,28687.0
+Toyota,Highlander,2023,New,,Pat Lobb Toyota of Mckinney,41504.0
+Toyota,Camry,2024,New,,Pat Lobb Toyota of Mckinney,36144.0
+Toyota,4Runner,2023,New,,Pat Lobb Toyota of Mckinney,48290.0
+Toyota,Corolla,2023,New,,Pat Lobb Toyota of Mckinney,25937.0
+Toyota,4Runner,2023,Used,6489.0,Pat Lobb Toyota of Mckinney,58928.0
+Toyota,Camry,2024,New,,Pat Lobb Toyota of Mckinney,36873.0
+Toyota,Camry,2024,New,,Pat Lobb Toyota of Mckinney,35715.0
+Toyota,Tundra,2021,Used,32445.0,Pat Lobb Toyota of Mckinney,54479.0
+Audi,Q3,2023,New,,Audi McKinney,50420.0
+Audi,Q7,2023,New,,Audi McKinney,67565.0
+Audi,A3,2023,New,,Audi McKinney,40360.0
+Audi,e-tron,2023,New,,Audi McKinney,67100.0
+Audi,Q7,2023,New,,Audi McKinney,69150.0
+Audi,Q7,2023,New,,Audi McKinney,79110.0
+Audi,Q3,2023,New,,Audi McKinney,49825.0
+Audi,e-tron,2023,New,,Audi McKinney,67690.0
+Audi,A6,2023,New,,Audi McKinney,67015.0
+Audi,Q8,2023,New,,Audi McKinney,81810.0
+Audi,Q7,2023,New,,Audi McKinney,70380.0
+Audi,6,2023,New,,Audi McKinney,140935.0
+Audi,e-tron,2024,New,,Audi McKinney,90180.0
+Audi,A6,2023,New,,Audi McKinney,67690.0
+Chevrolet,Suburban,2023,New,,Paris Chevrolet GMC,67278.0
+Chevrolet,Suburban,2023,New,,Paris Chevrolet GMC,74539.0
+Ford,Bronco,2022,Used,5866.0,AutoNation Ford South Fort Worth,58995.0
+Ford,Maverick,2023,New,,AutoNation Ford South Fort Worth,24565.0
+Ford,Expedition,2021,Used,18420.0,AutoNation Ford South Fort Worth,39498.0
+Ford,F-150,2023,Used,1947.0,AutoNation Ford South Fort Worth,73452.0
+Toyota,Land Cruiser,2009,Used,176925.0,Excellence Auto Direct,27781.0
+Buick,GX,2023,New,,Ewing Buick GMC,23988.0
+Buick,GX,2023,New,,Ewing Buick GMC,24105.0
+BMW,X7,2023,Certified,3776.0,Sewell BMW MINI of Plano,79855.0
+Mercedes,E-Class,2018,Used,29311.0,Sewell BMW MINI of Plano,35493.0
+BMW,X5,2023,Certified,12752.0,Sewell BMW MINI of Plano,82925.0
+RAM,1500,2020,Used,34599.0,Sewell BMW MINI of Plano,39983.0
+BMW,750 i,2022,Certified,13003.0,Sewell BMW MINI of Plano,94896.0
+Ford,F-150,2022,Used,15701.0,Sewell BMW MINI of Plano,41993.0
+BMW,X5,2022,Certified,31749.0,Sewell BMW MINI of Plano,53444.0
+BMW,M340,2021,Certified,34349.0,Sewell BMW MINI of Plano,47944.0
+GMC,Sierra,2023,Used,14053.0,Sewell BMW MINI of Plano,63955.0
+BMW,X5,2023,Certified,12652.0,Sewell BMW MINI of Plano,80993.0
+BMW,740,2024,New,,Sewell BMW MINI of Plano,102445.0
+BMW,Coupe,2023,New,,Sewell BMW MINI of Plano,68120.0
+BMW,Coupe,2019,Certified,35087.0,Sewell BMW MINI of Plano,37586.0
+BMW,X5,2022,Certified,26714.0,Sewell BMW MINI of Plano,54995.0
+BMW,XB7,2023,Certified,4388.0,Sewell BMW MINI of Plano,136995.0
+MINI,Cooper,2024,New,,Sewell BMW MINI of Plano,42545.0
+BMW,740,2024,New,,Sewell BMW MINI of Plano,99745.0
+Lexus,RC,2021,Used,15676.0,Sewell BMW MINI of Plano,43993.0
+Jeep,Grand Wagoneer,2022,Used,25332.0,Sewell BMW MINI of Plano,76493.0
+Subaru,WRX,2023,New,,Brandon Tomes Subaru,32629.0
+Subaru,WRX,2023,New,,Brandon Tomes Subaru,37227.0
+Subaru,WRX,2023,New,,Brandon Tomes Subaru,33130.0
+Mercedes,GLE,2024,New,,Mercedes-Benz of Plano,68545.0
+Mercedes,GLE,2024,New,,Mercedes-Benz of Plano,73495.0
+Mercedes,GLB,2022,Used,18158.0,Mercedes-Benz of Plano,46922.0
+Mercedes,GLE,2023,Certified,7160.0,Mercedes-Benz of Plano,84500.0
+Mercedes,GLB,2023,New,,Mercedes-Benz of Plano,61430.0
+Mercedes,GLC,2022,Used,14510.0,Mercedes-Benz of Plano,53922.0
+Lexus,LS,2023,New,,Park Place Lexus Plano,
+Ford,Mustang,2024,New,,Bob Tomes Ford,
+Ford,Mustang,2024,New,,Bob Tomes Ford,
+Ford,F-150,2023,New,,Bob Tomes Ford,62906.0
+Ford,F-150,2023,New,,Bob Tomes Ford,72193.0
+Ford,F-150,2023,New,,Bob Tomes Ford,54394.0
+Honda,Odyssey,2023,New,,Honda Cars of McKinney,43160.0
+Jeep,Wrangler,2023,New,,Dodge City of McKinney,39653.0
+Jeep,Wagoneer,2023,New,,Dodge City of McKinney,75255.0
+Jeep,Grand Wagoneer,2023,New,,Dodge City of McKinney,112570.0
+Kia,Sorento,2023,New,,Classic Kia of Carrollton,40865.0
+Lexus,GS F,2016,Used,31240.0,Classic Kia of Carrollton,47995.0
+Kia,Forte,2022,Certified,30903.0,Classic Kia of Carrollton,19300.0
+Chevrolet,Corvette,2023,Used,4351.0,Classic Kia of Carrollton,101500.0
+Kia,Forte,2020,Certified,44065.0,Classic Kia of Carrollton,18800.0
+Kia,Telluride,2022,Certified,38557.0,Classic Kia of Carrollton,38995.0
+Hyundai,Kona,2022,Used,29374.0,Classic Kia of Carrollton,21500.0
+Kia,Telluride,2021,Certified,59153.0,Classic Kia of Carrollton,44900.0
+Kia,Telluride,2022,Certified,29151.0,Classic Kia of Carrollton,41995.0
+Ford,Mustang,2022,Used,8748.0,Classic Kia of Carrollton,43500.0
+Kia,Telluride,2022,Certified,44535.0,Classic Kia of Carrollton,43995.0
+Kia,GT,2023,Certified,24824.0,Classic Kia of Carrollton,27400.0
+Lexus,RX,2018,Used,68345.0,Classic Kia of Carrollton,34995.0
+Kia,Carnival,2022,Certified,18397.0,Classic Kia of Carrollton,39995.0
+Kia,LX,2023,Certified,2202.0,Classic Kia of Carrollton,26995.0
+Kia,Sorento,2023,New,,Classic Kia of Carrollton,44055.0
+Chevrolet,Bolt,2022,Used,2586.0,Classic Kia of Carrollton,29500.0
+Kia,Sportage,2023,Certified,12901.0,Classic Kia of Carrollton,31995.0
+Kia,Telluride,2022,Certified,44654.0,Classic Kia of Carrollton,42500.0
+Kia,Rio,2021,Certified,24195.0,Classic Kia of Carrollton,16995.0
+Kia,Forte,2022,Certified,30697.0,Classic Kia of Carrollton,18995.0
+Kia,Sorento,2023,New,,Classic Kia of Carrollton,39633.0
+Kia,Seltos,2021,Used,41769.0,Classic Kia of Carrollton,23500.0
+Infiniti,Q60,2018,Used,39542.0,Wells Auto Group,33999.0
+Infiniti,Q60,2017,Used,84587.0,Wells Auto Group,22399.0
+Lexus,IS,2023,Used,12923.0,Wells Auto Group,44998.0
+Mercedes,6,2017,Used,34956.0,Wells Auto Group,41695.0
+Infiniti,Q60,2018,Used,37103.0,Wells Auto Group,32999.0
+Lexus,RX,2018,Used,67761.0,Wells Auto Group,29340.0
+Hyundai,Azera,2014,Used,64474.0,Wells Auto Group,13987.0
+Honda,CR-V,2024,New,,Gillman Honda of San Antonio,40825.0
+Honda,CR-V,2024,New,,Gillman Honda of San Antonio,40825.0
+Volkswagen,R32,2008,Used,141203.0,Gillman Honda of San Antonio,10982.0
+Honda,CR-V,2024,New,,Gillman Honda of San Antonio,40825.0
+Honda,CR-V,2024,New,,Gillman Honda of San Antonio,36630.0
+Subaru,Outback,2023,New,,Gillman Subaru of San Antonio,40782.0
+Chevrolet,LS,2023,New,,Stonebriar Chevrolet,23045.0
+RAM,1500,2023,New,,Frisco Chrysler Dodge Jeep Ram,56502.0
+Jeep,Wrangler,2023,New,,Frisco Chrysler Dodge Jeep Ram,49783.0
+BMW,740,2016,Used,87665.0,Frisco Chrysler Dodge Jeep Ram,21799.0
+Acura,MDX,2022,Used,18386.0,Frisco Chrysler Dodge Jeep Ram,47394.0
+Jeep,Wrangler,2021,Certified,39997.0,Frisco Chrysler Dodge Jeep Ram,33897.0
+Honda,HR-V,2018,Used,63062.0,Frisco Chrysler Dodge Jeep Ram,18983.0
+Jeep,Grand Cherokee,2023,Certified,6955.0,Frisco Chrysler Dodge Jeep Ram,41921.0
+Porsche,Panamera,2016,Used,52762.0,Frisco Chrysler Dodge Jeep Ram,35996.0
+Ford,F-250,2022,Used,26957.0,Frisco Chrysler Dodge Jeep Ram,66599.0
+RAM,1500,2023,New,,Frisco Chrysler Dodge Jeep Ram,45427.0
+RAM,1500,2023,New,,Frisco Chrysler Dodge Jeep Ram,45380.0
+Chevrolet,Corvette,2016,Used,41626.0,Frisco Chrysler Dodge Jeep Ram,46443.0
+BMW,Coupe,2016,Used,78633.0,Frisco Chrysler Dodge Jeep Ram,23736.0
+Honda,Accord,2018,Used,94763.0,Frisco Chrysler Dodge Jeep Ram,16989.0
+BMW,M4,2018,Used,74484.0,AutoNation Ford Frisco,39889.0
+Ford,F-350,2016,Certified,34824.0,AutoNation Ford Frisco,49481.0
+Mercedes,GLC,2017,Used,42336.0,AutoNation Ford Frisco,32991.0
+Ford,Mustang,2015,Certified,19310.0,AutoNation Ford Frisco,31481.0
+Land Rover,Range Rover,2017,Used,59038.0,AutoNation Ford Frisco,38995.0
+Mercedes,S-Class,2023,New,,Mercedes-Benz of McKinney,120645.0
+Lincoln,Aviator,2023,New,,David McDavid Lincoln Frisco,80368.0
+Cadillac,CT4-V,2022,Used,8102.0,Crest Auto Group,61854.0
+Infiniti,QX80,2022,Certified,15390.0,Crest Auto Group,58059.0
+Cadillac,Escalade,2023,New,,Crest Auto Group,103460.0
+Volvo,XC40,2020,Certified,19012.0,Crest Volvo Cars,33784.0
+Volvo,Electric,2023,New,,Crest Volvo Cars,55122.0
+Volvo,S60,2024,New,,Crest Volvo Cars,48195.0
+RAM,3500,2023,New,,Lakeshore of Picayune,80537.0
+Toyota,Tundra,2022,Used,24887.0,El Dorado Mazda,55998.0
+Mazda,MX-5 Miata,2023,New,,El Dorado Mazda,35265.0
+Mazda,MX-5 Miata,2021,Used,5526.0,El Dorado Chevrolet,27998.0
+Chevrolet,Suburban,2023,New,,El Dorado Chevrolet,90300.0
+Ford,F-250,2017,Used,77822.0,El Dorado Chevrolet,38998.0
+Chevrolet,Tahoe,2021,Used,59543.0,El Dorado Chevrolet,50998.0
+Volkswagen,Atlas,2024,New,,Hendrick Volkswagen Frisco,44636.0
+Volkswagen,Atlas,2023,New,,Hendrick Volkswagen Frisco,41148.0
+Volkswagen,Atlas,2023,New,,Hendrick Volkswagen Frisco,45876.0
+Volkswagen,Golf,2023,New,,Hendrick Volkswagen Frisco,38626.0
+Land Rover,Range Rover,2023,New,,Land Rover DFW,59170.0
+Land Rover,Range Rover,2023,New,,Land Rover DFW,58570.0
+Land Rover,Range Rover,2023,New,,Land Rover DFW,57470.0
+Land Rover,Range Rover,2023,New,,Land Rover DFW,58350.0
+Mercedes,GL 450,2016,Used,117796.0,Grubbs Acura,16499.0
+Audi,Q7,2021,Used,16667.0,Grubbs Acura,44599.0
+Honda,CR-V,2022,Used,9381.0,Grubbs Acura,31999.0
+Lexus,GX,2020,Used,74566.0,Grubbs Acura,39599.0
+Honda,Civic,2002,Used,99129.0,Grubbs Acura,5499.0
+Acura,MDX,2022,Used,28344.0,Grubbs Acura,40999.0
+Mercedes,E-Class,2018,Used,44929.0,Grubbs Acura,27299.0
+Porsche,Macan,2018,Used,59819.0,Grubbs Acura,28999.0
+Acura,MDX,2022,Used,22093.0,Grubbs Acura,40999.0
+Infiniti,Q60,2021,Certified,15689.0,Grubbs INFINITI,44222.0
+Infiniti,QX80,2019,Certified,51376.0,Grubbs INFINITI,33234.0
+GMC,Sierra,2023,Used,4776.0,Grubbs Volvo Cars Grapevine,81499.0
+Mercedes,GLE,2017,Used,77600.0,Grubbs Volvo Cars Grapevine,22699.0
+Volvo,XC90,2023,New,,Grubbs Volvo Cars Grapevine,59710.0
+GMC,Sierra,2020,Used,44202.0,Grubbs Volvo Cars Grapevine,46999.0
+Mercedes,C-Class,2019,Used,46009.0,Grubbs Volvo Cars Grapevine,25999.0
+Volvo,S90,2023,New,,Grubbs Volvo Cars Grapevine,68340.0
+Lincoln,MKZ,2015,Used,89169.0,Grubbs Volvo Cars Grapevine,14299.0
+Ford,Expedition,2023,Used,3980.0,Grubbs Volvo Cars Grapevine,78299.0
+Volvo,XC90,2020,Used,33255.0,Grubbs Volvo Cars Grapevine,40699.0
+Chevrolet,Malibu,2018,Used,92297.0,Grubbs Volvo Cars Grapevine,13299.0
+Lucid,Grand Touring,2022,Used,9675.0,Grubbs Volvo Cars Grapevine,96999.0
+Buick,Enclave,2021,Used,70022.0,Grubbs Volvo Cars Grapevine,23999.0
+Polestar,2,2021,Used,13462.0,Grubbs Volvo Cars Grapevine,35499.0
+Volvo,XC90,2021,Certified,38136.0,Grubbs Volvo Cars Grapevine,35299.0
+Nissan,Pathfinder,2023,Certified,12825.0,Grubbs Nissan,32900.0
+Kia,Sorento,2019,Used,78215.0,Grubbs Nissan,17455.0
+Infiniti,QX50,2021,Used,55871.0,Grubbs Nissan,30997.0
+Nissan,Murano,2020,Used,41845.0,Grubbs Nissan,25255.0
+BMW,X7,2023,Certified,21194.0,Sewell BMW of Grapevine,108988.0
+BMW,Coupe,2023,Used,1099.0,Sewell BMW of Grapevine,62487.0
+BMW,X7,2020,Certified,38395.0,Sewell BMW of Grapevine,57687.0
+Lexus,NX,2024,New,,Park Place Lexus Grapevine,57135.0
+Lexus,LC,2024,New,,Park Place Lexus Grapevine,114120.0
+Lincoln,Aviator,2023,New,,Grapevine Ford Lincoln,59995.0
+Ford,Mustang,2024,New,,Grapevine Ford Lincoln,38455.0
+Ford,F-150,2023,New,,Grapevine Ford Lincoln,
+Lincoln,Aviator,2023,New,,Grapevine Ford Lincoln,67387.0
+Lincoln,Aviator,2023,New,,Grapevine Ford Lincoln,64824.0
+Ford,Mustang,2024,New,,Grapevine Ford Lincoln,71350.0
+Acura,MDX,2022,Used,21081.0,Audi Grapevine,45000.0
+Audi,SQ8,2023,New,,Audi Grapevine,127642.0
+Audi,S8,2023,New,,Audi Grapevine,133217.0
+Audi,Q8,2023,New,,Audi Grapevine,73062.0
+Audi,S8,2023,New,,Audi Grapevine,136717.0
+Audi,SQ8,2023,New,,Audi Grapevine,131392.0
+Mazda,CX-9,2021,Used,46906.0,Texas Toyota of Grapevine,28901.0
+Jaguar,F-PACE,2020,Used,48609.0,Jaguar Land Rover Frisco,40995.0
+Land Rover,Defender,2023,New,,Jaguar Land Rover Frisco,111540.0
+Land Rover,Defender,2023,New,,Jaguar Land Rover Frisco,104549.0
+Land Rover,LR4,2016,Used,81984.0,Jaguar Land Rover Frisco,22795.0
+Volvo,XC90,2020,Used,35874.0,Jaguar Land Rover Frisco,40995.0
+Subaru,WRX,2023,New,,Five Star Subaru of Grapevine,42327.0
+Subaru,Solterra,2023,New,,Five Star Subaru of Grapevine,48208.0
+Subaru,WRX,2023,New,,Five Star Subaru of Grapevine,33130.0
+Subaru,WRX,2023,New,,Five Star Subaru of Grapevine,32064.0
+Nissan,3,2020,Used,20783.0,Freeman Toyota,39390.0
+Toyota,Highlander,2023,Used,7504.0,Freeman Toyota,46990.0
+Toyota,Tundra,2023,Used,8697.0,Freeman Toyota,60690.0
+Toyota,Tundra,2023,Used,12475.0,Freeman Toyota,46790.0
+Toyota,Highlander,2023,Used,9020.0,Freeman Toyota,40991.0
+Toyota,Tundra,2023,Used,6009.0,Freeman Toyota,65890.0
+Toyota,Tundra,2020,Used,23850.0,Freeman Toyota,38690.0
+Toyota,4Runner,2020,Used,41496.0,Freeman Toyota,34690.0
+GMC,Yukon,2023,New,,Freeman Buick GMC,87185.0
+GMC,Yukon,2023,New,,Freeman Buick GMC,88930.0
+Mercedes,GLC,2021,Used,27151.0,eCarOne,59450.0
+Toyota,Sequoia,2023,Used,9526.0,Bishop Maserati,83636.0
+Audi,e-tron,2022,Used,3601.0,Bishop Maserati,44243.0
+Lexus,RX,2021,Used,12886.0,eCarOne,44950.0
+Maserati,Levante,2022,New,,Bishop Maserati,92356.0
+Mazda,CX-9,2024,New,,Hiley Mazda of Hurst,54870.0
+Mazda,CL,2023,New,,Hiley Mazda of Hurst,40190.0
+Mazda,CX-3,2017,Used,96509.0,Hiley Mazda of Hurst,14488.0
+Mazda,Mazda3,2023,New,,Hiley Mazda of Hurst,28690.0
+Mazda,MX-5 Miata,2023,New,,Hiley Mazda of Hurst,38425.0
+Toyota,Sequoia,2016,Used,110501.0,AutoNation Honda Lewisville,29998.0
+Ford,F-150,2014,Used,110926.0,AutoNation Honda Lewisville,18495.0
+Chevrolet,Tahoe,2023,Certified,19121.0,Classic Chevrolet,75700.0
+Tesla,Model Y,2023,Used,2609.0,Classic Chevrolet,46800.0
+Chevrolet,Suburban,2021,Certified,43014.0,Classic Chevrolet,58700.0
+Chevrolet,Corvette,2023,New,,Classic Chevrolet,160175.0
+Chevrolet,Corvette,2017,Used,72594.0,Classic Chevrolet,44000.0
+Chevrolet,Tahoe,2022,Certified,13984.0,Classic Chevrolet,74500.0
+Porsche,Cayman,2016,Used,42520.0,Auto Park Dallas,46495.0
+Mercedes,6,2018,Used,54410.0,Auto Park Dallas,55995.0
+Porsche,911,2012,Used,38721.0,Auto Park Dallas,65995.0
+Chevrolet,Camaro,2015,Used,30202.0,Auto Park Dallas,28995.0
+Ford,F-250,2023,New,,Walt Massey Chevrolet GMC Columbia,66956.0
+GMC,Yukon,2023,New,,Walt Massey Chevrolet GMC Columbia,80190.0
+RAM,1500,2023,New,,Walt Massey Chevrolet GMC Columbia,46138.0
+GMC,Sierra,2023,New,,Walt Massey Chevrolet GMC Columbia,48000.0
+GMC,Sierra,2023,New,,Walt Massey Chevrolet GMC Columbia,47921.0
+Jeep,Grand Wagoneer,2023,New,,Walt Massey Chevrolet GMC Columbia,106432.0
+Chevrolet,Silverado,2024,New,,Walt Massey Chevrolet GMC Columbia,71500.0
+GMC,Sierra,2024,New,,Walt Massey Chevrolet GMC Columbia,84145.0
+Cadillac,Escalade,2023,New,,Sewell Cadillac Grapevine,124745.0
+Cadillac,XT6,2023,New,,Sewell Cadillac Grapevine,60565.0
+Cadillac,CT6,2020,Certified,44537.0,Sewell Cadillac Grapevine,46977.0
+Cadillac,Escalade,2023,New,,Sewell Cadillac Grapevine,100370.0
+Ford,Flex,2018,Used,84057.0,Jordan Ford,22475.0
+Jeep,Wagoneer,2023,New,,AutoNation Chrysler Dodge Jeep Ram North Richland Hills,71213.0
+Acura,RLX,2016,Used,95389.0,AutoNation Chrysler Dodge Jeep Ram North Richland Hills,18495.0
+Jeep,Wagoneer,2023,New,,AutoNation Chrysler Dodge Jeep Ram North Richland Hills,71828.0
+Jeep,Wagoneer,2022,Used,9682.0,AutoNation Chrysler Dodge Jeep Ram North Richland Hills,57595.0
+Toyota,Tundra,2023,Used,5418.0,AutoNation Hyundai North Richland Hills,62597.0
+Lincoln,Aviator,2021,Used,37944.0,AutoNation Hyundai North Richland Hills,57998.0
+Honda,HR-V,2024,New,,Norm Reeves Honda Superstore North Richland Hills,28900.0
+Honda,Odyssey,2024,New,,Norm Reeves Honda Superstore North Richland Hills,42285.0
+Ford,F-350,2013,Used,251814.0,North Texas Vehicle Exchange,16999.0
+RAM,1500,2023,New,,Huffines Chrysler Jeep Dodge RAM Lewisville,81077.0
+RAM,1500,2023,New,,Huffines Chrysler Jeep Dodge RAM Lewisville,57528.0
+Jeep,Wrangler,2024,New,,Huffines Chrysler Jeep Dodge RAM Lewisville,45252.0
+RAM,1500,2024,New,,Huffines Chrysler Jeep Dodge RAM Lewisville,65352.0
+Lexus,IS,2022,Used,11640.0,San Antonio Chrysler Dodge Jeep Ram,43887.0
+Jeep,Wrangler,2023,New,,San Antonio Chrysler Dodge Jeep Ram,99920.0
+Jeep,Wrangler,2023,New,,San Antonio Chrysler Dodge Jeep Ram,58265.0
+BMW,X5,2019,Used,63716.0,Lewisville Volkswagen,36749.0
+Volkswagen,Passat,2015,Used,64442.0,Lewisville Volkswagen,13500.0
+Dodge,Charger,2019,Used,103111.0,Lewisville Volkswagen,22000.0
+GMC,Yukon,2018,Used,94614.0,Lewisville Volkswagen,37900.0
+Volkswagen,Passat,2020,Used,75415.0,Lewisville Volkswagen,18900.0
+GMC,Yukon,2018,Used,102585.0,Lewisville Volkswagen,34900.0
+Volkswagen,Golf,2022,Used,2959.0,Lewisville Volkswagen,37000.0
+Volkswagen,Atlas,2024,New,,Lewisville Volkswagen,55526.0
+Toyota,Tundra,2021,Used,91074.0,Lewisville Volkswagen,42000.0
+Volkswagen,Passat,2020,Certified,46963.0,Lewisville Volkswagen,20500.0
+Hyundai,Sonata,2021,Used,60919.0,Lewisville Volkswagen,19900.0
+RAM,1500,2022,New,,Bayer Dodge,65104.0
+Jeep,Grand Wagoneer,2023,New,,Bayer Dodge,95430.0
+Jeep,Gladiator,2023,New,,Bayer Dodge,58587.0
+RAM,2500,2022,New,,Bayer Dodge,71350.0
+Jeep,Gladiator,2023,New,,Bayer Dodge,49980.0
+Dodge,Durango,2022,New,,Bayer Dodge,54638.0
+Infiniti,QX80,2023,Certified,8019.0,Sewell INFINITI of Fort Worth,59990.0
+Infiniti,QX50,2021,Certified,3018.0,Sewell INFINITI of Fort Worth,40995.0
+Infiniti,Q5,2023,New,,Sewell INFINITI of Fort Worth,44990.0
+Infiniti,QX80,2020,Certified,28831.0,Sewell INFINITI of Fort Worth,46993.0
+Infiniti,QX80,2023,Certified,9492.0,Sewell INFINITI of Fort Worth,58994.0
+Mazda,CX-9,2019,Used,94416.0,Sewell Lexus of Fort Worth,15488.0
+Ford,F-150,2022,Used,33982.0,AutoNation Ford Fort Worth,60595.0
+Ford,Mustang,2018,Certified,78029.0,AutoNation Ford Fort Worth,19495.0
+Ford,Maverick,2023,New,,AutoNation Ford Fort Worth,24170.0
+Ford,Expedition,2019,Certified,88720.0,AutoNation Ford Fort Worth,37998.0
+Cadillac,XT6,2020,Used,54972.0,Audi Fort Worth,33977.0
+Lexus,ES,2021,Used,28354.0,Audi Fort Worth,41991.0
+Audi,Q8,2020,Certified,30007.0,Audi Fort Worth,50991.0
+Hyundai,Tucson,2013,Used,85277.0,Texas Auto Sales,13995.0
+Acura,MDX,2023,New,,Hiley Acura,58560.0
+Acura,TLX,2023,New,,Hiley Acura,50195.0
+Acura,MDX,2024,New,,Hiley Acura,56345.0
+Acura,Integra,2024,New,,Hiley Acura,38295.0
+Ford,Mustang,2024,New,,Prosper Ford,44650.0
+Ford,F-250,2023,New,,Cavender Grande Ford,46835.0
+Toyota,Highlander,2013,Used,133842.0,Shottenkirk Toyota of Granbury,17474.0
+Toyota,Highlander,2024,New,,Shottenkirk Toyota of Granbury,46847.0
+Toyota,Tundra,2022,Used,19460.0,Shottenkirk Toyota of Granbury,55963.0
+Toyota,4Runner,2022,Certified,28019.0,Shottenkirk Toyota of Granbury,51957.0
+Jeep,Grand Cherokee,2023,Used,7734.0,Shottenkirk Toyota of Granbury,56943.0
+Toyota,4Runner,2023,Certified,16399.0,Shottenkirk Toyota of Granbury,41955.0
+Toyota,Tundra,2022,Used,17250.0,Shottenkirk Toyota of Granbury,47951.0
+Toyota,Highlander,2021,Used,32750.0,Shottenkirk Toyota of Granbury,42901.0
+Toyota,Tundra,2022,Used,27789.0,Shottenkirk Toyota of Granbury,54996.0
+Hyundai,Sonata,2016,Used,51786.0,Shottenkirk Hyundai of Granbury,15511.0
+Buick,GX,2023,New,,Hiley Buick GMC of Fort Worth,22940.0
+Toyota,Tacoma,2023,Used,10070.0,Hiley Buick GMC of Fort Worth,53699.0
+Ford,F-250,2023,Used,5271.0,Hiley Buick GMC of Fort Worth,68901.0
+Subaru,WRX,2023,New,,Hiley Buick GMC of Fort Worth,31396.0
+Subaru,WRX,2023,New,,Hiley Buick GMC of Fort Worth,33196.0
+Cadillac,Escalade,2019,Used,57160.0,Granbury Nissan,50479.0
+Chevrolet,Camaro,2023,New,,Moritz Chevrolet,48435.0
+Volvo,S60,2022,Certified,22210.0,Principle Volvo Cars San Antonio,29962.0
+Volvo,V60,2020,Certified,34524.0,Principle Volvo Cars San Antonio,37968.0
+Lincoln,MKC,2016,Used,66581.0,Principle Volvo Cars San Antonio,15968.0
+Volvo,XC90,2020,Used,49209.0,Principle Volvo Cars San Antonio,32962.0
+Volkswagen,Atlas,2021,Used,14085.0,Principle Volvo Cars San Antonio,32962.0
+Volvo,V90,2020,Certified,25999.0,Principle Volvo Cars San Antonio,46968.0
+Toyota,Camry,2019,Used,59047.0,Principle Volvo Cars San Antonio,20962.0
+Volvo,XC90,2019,Certified,37000.0,Principle Volvo Cars San Antonio,33962.0
+Kia,Stinger,2023,New,,Van Griffith Kia,55513.0
+Kia,Sportage,2024,New,,Van Griffith Kia,39808.0
+Kia,Sorento,2023,New,,Van Griffith Kia,40213.0
+GMC,Sierra,2020,Certified,15492.0,Cavender Buick GMC North,42900.0
+Nissan,Titan,2010,Used,97056.0,Access Ford Lincoln of Corpus Christi,11999.0
+Chevrolet,Silverado,2010,Used,191121.0,Access Ford Lincoln of Corpus Christi,11499.0
+Chevrolet,Equinox,2023,New,,Allways Chevrolet,31751.0
+Nissan,Pathfinder,2024,New,,HICKS FAMILY NISSAN,45580.0
+Subaru,Ascent,2022,Certified,13907.0,Huffines Kia Corinth,36477.0
+Genesis,G80,2019,Used,40071.0,Huffines Kia Corinth,26977.0
+Subaru,Ascent,2022,Certified,29393.0,Huffines Kia Corinth,35977.0
+RAM,1500,2024,New,,AutoNation Chrysler Dodge Jeep Ram North Fort Worth,49150.0
+RAM,1500,2023,New,,AutoNation Chrysler Dodge Jeep Ram North Fort Worth,36988.0
+RAM,1500,2024,New,,AutoNation Chrysler Dodge Jeep Ram North Fort Worth,70988.0
+RAM,1500,2024,New,,AutoNation Chrysler Dodge Jeep Ram North Fort Worth,45988.0
+Mazda,CX-9,2021,Used,64874.0,North Park Mazda,26995.0
+Ford,Explorer,2023,New,,Bill Utter Ford,50165.0
+Ford,Mustang,2024,New,,Bill Utter Ford,
+Ford,F-350,2023,New,,Bill Utter Ford,75905.0
+Audi,Q8,2019,Used,21472.0,Honda of Denton,48998.0
+Audi,A4,2021,Used,44474.0,Ritchey Automotive,28088.0
+Dodge,Charger,2023,New,,Jackson Mac Haik Chrysler Dodge Jeep Ram,56705.0
+Jeep,Grand Cherokee,2023,New,,Jackson Mac Haik Chrysler Dodge Jeep Ram,36675.0
+Jeep,Grand Cherokee,2023,New,,Jackson Mac Haik Chrysler Dodge Jeep Ram,54680.0
+Jeep,Grand Cherokee,2023,New,,Jackson Mac Haik Chrysler Dodge Jeep Ram,44865.0
+Jeep,Grand Cherokee,2023,New,,Jackson Mac Haik Chrysler Dodge Jeep Ram,48865.0
+Jeep,Grand Cherokee,2023,New,,Jackson Mac Haik Chrysler Dodge Jeep Ram,44995.0
+Mazda,MX-5 Miata,2023,New,,Mazda of Jackson,38225.0
+Chevrolet,Suburban,2023,New,,James Wood AutoPark,76685.0
+Chevrolet,Corvette,2023,New,,James Wood AutoPark,100270.0
+Cadillac,XT6,2023,New,,James Wood AutoPark,59640.0
+Cadillac,XT5,2023,New,,James Wood AutoPark,56390.0
+GMC,Canyon,2023,New,,James Wood AutoPark,59080.0
+Kia,Sorento,2023,New,,Wilson Kia on Lakeland,46560.0
+Kia,Telluride,2024,New,,Wilson Kia on Lakeland,52350.0
+Nissan,Maxima,2021,Used,43251.0,Wilson Kia on Lakeland,27991.0
+Mercedes,C-Class,2017,Used,65177.0,Acura of Jackson,22768.0
+Lexus,IS,2011,Used,126555.0,Gowdy Autoplex,11971.0
+Jeep,Wrangler,2017,Used,95877.0,Gowdy Autoplex,26871.0
+Toyota,Land Cruiser,1999,Used,253349.0,Gowdy Autoplex,11963.0
+Buick,GX,2023,New,,Fowler Buick GMC,31200.0
+GMC,Yukon,2023,New,,Fowler Buick GMC,79115.0
+Toyota,4Runner,2023,New,,Gray-Daniels Toyota,55451.0
+Toyota,4Runner,2023,New,,Gray-Daniels Toyota,50862.0
+Toyota,Land Cruiser,2016,Used,127336.0,Noel Daniels Motor Company,50000.0
+Mercedes,EQS,2023,New,,Mercedes-Benz of Jackson,116620.0
+BMW,2,2016,Used,44219.0,Jordan Motorcars,22675.0
+Porsche,911,2007,Used,69867.0,Jordan Motorcars,69975.0
+Chevrolet,Silverado,2015,Used,91153.0,Sign It Drive It,17997.0
+GMC,Yukon,2020,Used,136815.0,Sign It Drive It,37997.0
+Toyota,Highlander,2022,Used,19844.0,INFINITI of San Antonio,45977.0
+Honda,Accord,2018,Used,60730.0,INFINITI of San Antonio,23980.0
+Honda,CR-V,2015,Used,141154.0,AutoNation USA San Antonio,13995.0
+Chevrolet,Corvette,2013,Used,12105.0,AutoNation USA San Antonio,47995.0
+BMW,Coupe,2023,Used,3720.0,Principle BMW of San Antonio,46462.0
+Toyota,Supra,2022,Used,3830.0,Principle BMW of San Antonio,56962.0
+Audi,Q7,2020,Used,38289.0,Principle BMW of San Antonio,47962.0
+Mercedes,GLS 580,2021,Used,36443.0,Principle BMW of San Antonio,78562.0
+Genesis,G80,2018,Used,31843.0,Principle BMW of San Antonio,29062.0
+Mercedes,GLE,2021,Used,28616.0,Principle BMW of San Antonio,86662.0
+Honda,Pilot,2024,New,,Fernandez Honda,44075.0
+Honda,Accord,2023,New,,Fernandez Honda,30610.0
+Honda,Pilot,2022,Certified,6541.0,Fernandez Honda,32988.0
+Hyundai,Santa Fe,2018,Used,56387.0,Red McCombs Superior Hyundai,19423.0
+Audi,A5,2023,New,,Audi Dominion,58790.0
+Toyota,GR86,2022,Used,32639.0,Audi Dominion,32992.0
+Genesis,G70,2023,Used,3744.0,Cavender Toyota,47991.0
+Lexus,RX,2022,Used,18538.0,Cavender Toyota,52393.0
+Land Rover,Range Rover,2020,Used,57378.0,Cavender Toyota,46892.0
+Toyota,Camry,2024,New,,Cavender Toyota,41158.0
+Toyota,Highlander,2022,Certified,16893.0,Cavender Toyota,43692.0
+Toyota,Camry,2024,New,,Cavender Toyota,36530.0
+Jeep,Wrangler,2020,Used,17911.0,Cavender Toyota,45991.0
+Chevrolet,Tahoe,2021,Used,39708.0,Hill Country Honda,53995.0
+Honda,Civic,2024,New,,Hill Country Honda,32100.0
+Honda,Pilot,2023,New,,Hill Country Honda,41850.0
+Toyota,Tundra,2018,Used,84149.0,Hill Country Honda,34895.0
+Porsche,Macan,2018,Used,74029.0,Hill Country Honda,27995.0
+Chevrolet,Tahoe,2022,Used,24499.0,Cavender Buick GMC West,64453.0
+Nissan,Titan,2023,New,,Ingram Park Nissan,40461.0
+Toyota,Tundra,2020,Used,22965.0,Shottenkirk Toyota of Weatherford,46933.0
+Toyota,Tundra,2019,Certified,42003.0,Shottenkirk Toyota of Weatherford,42882.0
+Ford,Mustang,2024,New,,McCombs Ford West,33100.0
+Ford,Mustang,2024,New,,McCombs Ford West,32930.0
+Ford,F-350,2023,New,,SouthWest Ford,72695.0
+Ford,F-350,2023,New,,SouthWest Ford,56405.0
+Ford,F-250,2023,New,,SouthWest Ford,64890.0
+Ford,Bronco,2023,New,,SouthWest Ford,62895.0
+GMC,Sierra,2024,New,,Ancira / Buick / GMC,84750.0
+Mercedes,4MATIC,2020,Used,25225.0,Mark Motors,104888.0
+Ford,F-150,2023,Used,1929.0,Nissan of Boerne,84244.0
+Hyundai,Ioniq,2023,New,,Principle Hyundai Boerne,43945.0
+Hyundai,Kona,2023,New,,Principle Hyundai Boerne,25600.0
+Infiniti,QX80,2024,New,,Principle INFINITI of Boerne,85205.0
+Nissan,Titan,2017,Used,82127.0,Carvix,21899.0
+GMC,Sierra,2023,New,,Legacy Chevrolet Buick GMC,72875.0
+Chevrolet,Equinox,2024,New,,Legacy Chevrolet Buick GMC,30070.0
+Chevrolet,Silverado,2024,New,,Legacy Chevrolet Buick GMC,86135.0
+Chevrolet,Silverado,2024,New,,Legacy Chevrolet Buick GMC,90190.0
+Jeep,Grand Cherokee,2023,New,,Woolwine Chrysler Dodge Jeep Ram Inc,83735.0
+Jeep,Grand Cherokee,2023,New,,Woolwine Chrysler Dodge Jeep Ram Inc,51030.0
+Jeep,Grand Cherokee,2023,New,,Woolwine Chrysler Dodge Jeep Ram Inc,57780.0
+Jeep,Grand Cherokee,2023,New,,James Ceranti Chrysler Dodge Jeep,
+Mercedes,E-Class,2023,Certified,1537.0,Mercedes-Benz of Boerne,69997.0
+Ford,F-250,2023,New,,Utter Family of Dealerships,58515.0
+Hyundai,Elantra,2023,New,,Texoma Hyundai,24870.0
+Hyundai,Elantra,2023,New,,Texoma Hyundai,28230.0
+Chevrolet,Suburban,2023,Used,6286.0,Sherman Chevrolet Cadillac,69799.0
+Chevrolet,Impala,2019,Used,52715.0,Sherman Chevrolet Cadillac,23499.0
+Chevrolet,Tahoe,2021,Used,37889.0,Sherman Chevrolet Cadillac,53799.0
+Chevrolet,Silverado,2021,Used,71686.0,Freedom Chrysler Dodge Jeep Ram North by Ed Morse,33691.0
+GMC,Canyon,2021,Certified,19800.0,Bruner Motors Inc.,31599.0
+GMC,Sierra,2022,Certified,24323.0,Bruner Motors Inc.,70995.0
+Chevrolet,Traverse,2023,New,,Classic Chevrolet Cadillac of Denison,51515.0
+Chevrolet,Silverado,2024,New,,Walt Massey Chevrolet,54970.0
+Jeep,Wrangler,2021,Used,14271.0,Walt Massey Chevrolet,34000.0
+Chevrolet,Silverado,2024,New,,Walt Massey Chevrolet,78825.0
+Nissan,Maxima,2021,Used,31943.0,Walt Massey Chevrolet,31500.0
+GMC,Sierra,2023,New,,FREDERICKSBURG CHEVROLET BUICK GMC,87515.0
+Mazda,CX-5,2023,New,,J. Allen Mazda,28745.0
+Chevrolet,Corvette,2023,New,,North Park Chevrolet,75635.0
+Chevrolet,Silverado,2024,New,,North Park Chevrolet,87235.0
+Chevrolet,Bolt,2023,New,,North Park Chevrolet,32180.0
+Chevrolet,Silverado,2024,New,,North Park Chevrolet,65350.0
+Chevrolet,Bolt,2023,New,,North Park Chevrolet,32180.0
+Chevrolet,Camaro,2024,New,,North Park Chevrolet,78880.0
+Chevrolet,Trailblazer,2023,New,,North Park Chevrolet,33105.0
+Chevrolet,Blazer,2023,New,,North Park Chevrolet,41395.0
+Chevrolet,Suburban,2023,New,,North Park Chevrolet,84635.0
+Chevrolet,Malibu,2023,New,,North Park Chevrolet,27999.0
+Chevrolet,Suburban,2023,New,,North Park Chevrolet,84665.0
+Chevrolet,Trailblazer,2023,New,,North Park Chevrolet,27495.0
+Chevrolet,Blazer,2023,New,,North Park Chevrolet,43265.0
+Chevrolet,LS,2023,New,,North Park Chevrolet,23545.0
+Chevrolet,LS,2023,New,,North Park Chevrolet,60665.0
+Mitsubishi,Outlander,2021,Used,46590.0,Star Chevrolet,19800.0
+Ford,F-350,2023,New,,Bayer Ford,66945.0
+Ford,Bronco,2023,New,,Bayer Ford,70155.0
+Ford,Bronco,2023,New,,Bayer Ford,74370.0
+Ford,Expedition,2023,New,,Bayer Ford,81232.0
+Ford,F-350,2023,New,,Bayer Ford,66695.0
+Ford,F-350,2023,New,,Bayer Ford,70215.0
+Ford,F-350,2023,New,,Bayer Ford,60125.0
+Jeep,Wrangler,2024,New,,Karl Klement Chrysler-Dodge-Jeep,50774.0
+Ford,F-150,2023,New,,Trotter Ford Lincoln,89590.0
+GMC,Yukon,2023,New,,Glenn Polk Chevrolet Buick GMC of Gainesville,100320.0
+GMC,Sierra,2023,New,,Glenn Polk Chevrolet Buick GMC of Gainesville,61835.0
+Dodge,Durango,2023,New,,Smart Chrysler Dodge Jeep,50625.0
+Honda,HR-V,2024,New,,Smart Honda,27525.0
+Honda,Accord,2023,New,,Smart Honda,35425.0
+Honda,Odyssey,2024,New,,Smart Honda,46475.0
+Honda,HR-V,2024,New,,Smart Honda,29980.0
+Honda,HR-V,2024,New,,Smart Honda,25850.0
+Honda,HR-V,2024,New,,Smart Honda,26945.0
+Chevrolet,Bolt,2023,New,,Smart Chevrolet Buick GMC,28630.0
+Chevrolet,Traverse,2023,New,,Ray Brandt Chevrolet,
+Ford,Escape,2023,New,,Glenn Polk Ford,43150.0
+Ford,Bronco,2023,New,,Glenn Polk Ford,56815.0
+Dodge,Charger,2023,New,,Glenn Polk Autoplex CDJR,39615.0
+Mercedes,GLE,2023,Used,5645.0,Mercedes-Benz of South Mississippi,83999.0
+Mercedes,CL,2016,Certified,55650.0,Mercedes-Benz of South Mississippi,44997.0
+Mercedes,2,2023,Certified,1495.0,Mercedes-Benz of South Mississippi,47264.0
+Jeep,Wrangler,2017,Used,50188.0,Mandal Chrysler Dodge Jeep Ram,25034.0
+Ford,F-150,2021,Used,25717.0,Mandal Chrysler Dodge Jeep Ram,42773.0
+BMW,M5,2021,Used,24369.0,Galleria BMW,61990.0
+Infiniti,Q5,2022,Certified,15510.0,INFINITI of South Mississippi,35981.0
+Ford,F-250,2023,New,,Ken Stoepel Ford,94655.0
+Ford,F-250,2023,New,,Ken Stoepel Ford,76256.0
+GMC,Sierra,2024,New,,Bruner Chevrolet Buick GMC - Early,94225.0
+GMC,Sierra,2024,New,,Bruner Chevrolet Buick GMC - Early,68130.0
+GMC,Sierra,2024,New,,Bruner Chevrolet Buick GMC - Early,98605.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,Explorer,2023,New,,Cannon Ford of Cleveland,45925.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,F-150,2023,New,,Cannon Ford of Cleveland,72295.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,57235.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,Expedition,2023,New,,Cannon Ford of Cleveland,84995.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,F-250,2023,New,,Cannon Ford of Cleveland,67325.0
+Ford,Expedition,2023,New,,Woody Ford,83236.0
+Chevrolet,Silverado,2019,Used,141950.0,Woody Ford,35698.0
+Infiniti,QX80,2022,Used,35976.0,Woody Ford,47924.0
+Toyota,RAV4,2019,Used,48070.0,Woody Ford,29543.0
+Ford,Bronco,2023,New,,Everett Ford,49615.0
+Ford,Bronco,2023,New,,Everett Ford,96825.0
+Infiniti,QX60,2020,Used,60404.0,McLarty Nissan of Benton,24994.0
+Jeep,Wagoneer,2022,Used,22374.0,McLarty Nissan of Benton,59562.0
+Nissan,Rogue,2019,Used,16192.0,Campbell Chrysler Dodge Jeep RAM,22499.0
+Ford,F-250,2020,Used,45012.0,Everett Buick GMC,62639.0
+Chevrolet,Colorado,2023,New,,Cantu Chevrolet,38770.0
+Chevrolet,Trailblazer,2023,New,,Cantu Chevrolet,25595.0
+Lincoln,Corsair,2020,Used,20469.0,Kory Hooks Ford,31959.0
+GMC,Sierra,2022,New,,Heartland Chevrolet GMC,45418.0
+GMC,Sierra,2022,New,,Heartland Chevrolet GMC,45779.0
+GMC,Sierra,2024,New,,Heartland Chevrolet GMC,48925.0
+GMC,Sierra,2022,New,,Heartland Chevrolet GMC,45779.0
+Volvo,V90,2020,Used,45672.0,Landers Chrysler Dodge Jeep RAM,42000.0
+Alfa Romeo,Stelvio,2020,Used,33758.0,Landers Chrysler Dodge Jeep RAM,29500.0
+BMW,M5,2019,Used,66950.0,Landers Chrysler Dodge Jeep RAM,59000.0
+Kia,Seltos,2024,New,,Landers Kia,27705.0
+Kia,Seltos,2024,New,,Landers Kia,31085.0
+Kia,K5,2024,New,,Landers Kia,35590.0
+Kia,GT,2024,New,,Landers Kia,31430.0
+Nissan,Maxima,2019,Used,45278.0,Landers Toyota,21995.0
+Ford,Bronco,2022,Used,11075.0,Landers Toyota,47494.0
+Jeep,Renegade,2023,New,,Crown Dodge Chrysler Jeep Ram Fiat,30500.0
+RAM,2500,2024,New,,Crown Dodge Chrysler Jeep Ram Fiat,67500.0
+GMC,Sierra,2023,New,,Lipscomb Auto Center,68990.0
+Toyota,RAV4,2023,New,,Cannon Toyota of Moss Point,35352.0
+Toyota,Corolla,2023,New,,Cannon Toyota of Moss Point,26665.0
+Toyota,Crown,2023,New,,Cannon Toyota of Moss Point,47943.0
+Toyota,Camry,2024,New,,Cannon Toyota of Moss Point,28599.0
+Toyota,4Runner,2023,New,,Cannon Toyota of Moss Point,47952.0
+Toyota,RAV4,2023,New,,Cannon Toyota of Moss Point,30069.0
+Toyota,Tacoma,2023,New,,Cannon Toyota of Moss Point,38572.0
+Toyota,Camry,2024,New,,Cannon Toyota of Moss Point,41583.0
+Toyota,4Runner,2023,New,,Cannon Toyota of Moss Point,49224.0
+Toyota,Tundra,2023,New,,Cannon Toyota of Moss Point,68965.0
+Hyundai,Elantra,2023,New,,Carter County Hyundai,22395.0
+Hyundai,Elantra,2023,New,,Carter County Hyundai,23730.0
+Hyundai,Elantra,2023,New,,Carter County Hyundai,25700.0
+Volvo,XC90,2020,Used,81983.0,Patriot Chevrolet Buick GMC of Ardmore,38000.0
+BMW,740,2018,Used,56797.0,Patriot Chevrolet Buick GMC of Ardmore,34000.0
+Ford,Mustang,2022,Used,27098.0,Patriot Chevrolet Buick GMC of Ardmore,28000.0
+Volkswagen,Atlas,2021,Used,55269.0,Mark McLarty Toyota,25993.0
+Toyota,Sequoia,2018,Certified,81859.0,Mark McLarty Toyota,39992.0
+Subaru,Outback,2019,Used,62205.0,McLarty Nissan of North Little Rock,22808.0
+Chevrolet,Blazer,2019,Used,65053.0,McLarty Nissan of North Little Rock,22137.0
+Chevrolet,Tahoe,2008,Used,261259.0,Bayer Chevrolet Buick Cadillac,3995.0
+Chevrolet,Traverse,2023,New,,Bayer Chevrolet Buick Cadillac,34915.0
+Chevrolet,Colorado,2023,New,,Bayer Chevrolet Buick Cadillac,43890.0
+GMC,Yukon,2021,Used,63778.0,Crain Ford of Jacksonville,50995.0
+Ford,Explorer,2023,New,,Freedom Ford,53565.0
+Ford,Explorer,2023,New,,Freedom Ford,60885.0
+Chevrolet,Silverado,2024,New,,Toliver Chevrolet GMC,57475.0
+GMC,Sierra,2024,New,,Toliver Chevrolet GMC,61355.0
+Chevrolet,Silverado,2024,New,,Toliver Chevrolet GMC,82295.0
+Chevrolet,Colorado,2023,New,,Gwatney Chevrolet,44305.0
+Toyota,Tundra,2022,Used,19508.0,Mullinax Ford of Mobile,47990.0
+Ford,Bronco,2023,New,,Mullinax Ford of Mobile,61475.0
+Chevrolet,Suburban,2023,New,,Four Stars Auto Ranch,70105.0
+Chevrolet,LS,2023,New,,Four Stars Auto Ranch,59590.0
+Chevrolet,LS,2023,New,,Four Stars Auto Ranch,59590.0
+BMW,M2,2024,New,,BMW of Meridian,89845.0
+Honda,Civic,2024,New,,Honda World,33000.0
+Honda,Civic,2024,New,,Honda World,26500.0
+Kia,Telluride,2024,New,,Crain Kia of Conway,47295.0
+GMC,Yukon,2022,Used,28547.0,Countryside Motors,67500.0
+Chevrolet,Colorado,2023,New,,Joe Bullard Chevrolet,41274.0
+Chevrolet,Silverado,2024,New,,Hug Chevrolet GMC,85840.0
+Dodge,Charger,2023,New,,Hilltop Chrysler Dodge Jeep Ram,35900.0
+RAM,3500,2024,New,,Hilltop Chrysler Dodge Jeep Ram,68830.0
+Kia,Sportage,2023,New,,Crain Kia of Fort Smith,28990.0
+Chevrolet,Silverado,2024,New,,Orr Chevrolet Cadillac of Fort Smith,
+Cadillac,CT4,2023,New,,Orr Chevrolet Cadillac of Fort Smith,
+Toyota,Camry,2024,New,,J Pauley Toyota,40882.0
+Jeep,Wrangler,2012,Used,104141.0,Boggus Tipton Chrysler Dodge Jeep Ram,18995.0
+Land Rover,Discovery,2019,Used,35202.0,Tameron Gulf Coast,29767.0
+GMC,Yukon,2015,Used,118295.0,Tameron Gulf Coast,28545.0
+Kia,Telluride,2021,Used,62489.0,Tameron Gulf Coast,35853.0
+Chevrolet,Corvette,2011,Used,39159.0,Tameron Gulf Coast,30489.0
+Nissan,Titan,2021,Used,53829.0,Tameron Gulf Coast,41385.0
+Chevrolet,Suburban,2019,Used,76930.0,Tameron Gulf Coast,35787.0
+Honda,Pilot,2023,New,,Patterson Honda,49204.0
+Chevrolet,Silverado,2007,Used,181910.0,4M Autoplex,10998.0
+Land Rover,Discovery,2023,New,,Land Rover San Juan Texas,76580.0
+Jeep,Grand Cherokee,2023,New,,Chuck Stevens Chrysler Dodge Jeep Ram Fiat,44605.0
+Lincoln,Navigator,2019,Used,113629.0,Chuck Stevens Ford,37991.0
+Ford,F-150,2023,New,,Chuck Stevens Ford,84779.0
+Kia,Forte,2018,Used,55062.0,iGOTCARS,11141.0
+Toyota,Sequoia,2023,Used,3241.0,Orr GM Superstore,79435.0
+Ford,Bronco,2023,New,,Riser Harness Ford,
+Ford,Bronco,2023,New,,Riser Harness Ford,
+Toyota,Venza,2014,Used,117605.0,Lipscomb Chevrolet,13477.0
+GMC,Terrain,2023,New,,Seminole Chevrolet GMC,37325.0
+Chevrolet,Trailblazer,2023,New,,Seminole Chevrolet GMC,33480.0
+GMC,Yukon,2021,Certified,48401.0,Seminole Chevrolet GMC,63488.0
+Ford,Explorer,2023,New,,Heartland Ford,45585.0
+Ford,F-150,2022,Used,43591.0,Heartland Ford,59900.0
+Ford,F-150,2023,New,,Heartland Ford,54400.0
+Ford,F-150,2001,Used,60995.0,Morris Auto Sales,8900.0
+RAM,2500,2023,New,,Eaton Chrysler Dodge Jeep RAM,88075.0
+Jeep,Grand Cherokee,2023,New,,Allen Samuels Chrysler Dodge Jeep RAM of Oxford,48525.0
+Jeep,Grand Cherokee,2024,New,,Allen Samuels Chrysler Dodge Jeep RAM of Oxford,48525.0
+GMC,Sierra,2023,New,,Cannon Chevrolet GMC of West Point,76965.0
+GMC,Sierra,2024,New,,Cannon Chevrolet GMC of West Point,72645.0
+RAM,2500,2024,New,,Tommy Nix Chrysler Dodge Jeep Ram of Muskogee,93495.0
+RAM,2500,2024,New,,Tommy Nix Chrysler Dodge Jeep Ram of Muskogee,
+Jeep,Grand Cherokee,2023,New,,Heartland Chrysler Dodge Jeep Ram - Arkansas,67305.0
+Toyota,Camry,2022,Used,9058.0,Lawton Chrysler Jeep Dodge,28995.0
+Ford,Mustang,2023,New,,Stuteville Ford of Tahlequah,55035.0
+Tesla,Model X,2019,Used,26915.0,Lawton Kia,52980.0
+Toyota,Tundra,2015,Used,107860.0,Lawton Kia,24000.0
+Toyota,Tacoma,2017,Used,101043.0,iGOTCARS,24541.0
+Toyota,RAV4,2015,Used,99733.0,iGOTCARS,14941.0
+FIAT,Spider,2018,Used,29502.0,iGOTCARS,22441.0
+Jeep,Wrangler,2012,Used,135342.0,iGOTCARS,16141.0
+Toyota,Tundra,2010,Used,112341.0,iGOTCARS,20941.0
+Ford,Explorer,2018,Used,92698.0,iGOTCARS,18941.0
+Toyota,Camry,2019,Used,9544.0,iGOTCARS,22941.0
+Toyota,Supra,2021,Used,24697.0,iGOTCARS,39941.0
+Honda,Civic,2017,Used,95050.0,iGOTCARS,16441.0
+Ford,Fusion,2019,Used,49438.0,iGOTCARS,17441.0
+Lexus,NX,2019,Used,81081.0,iGOTCARS,20441.0
+Mazda,CX-5,2017,Used,69186.0,iGOTCARS,18941.0
+Ford,Explorer,2018,Used,59842.0,iGOTCARS,21641.0
+Lincoln,Navigator,2019,Used,51722.0,iGOTCARS,47941.0
+Chevrolet,Bolt,2023,New,,John Holt Chevrolet,32185.0
+Jeep,Wrangler,2024,New,,Landers CDJR of Norman,66064.0
+Jeep,Grand Cherokee,2017,Used,111959.0,Landers CDJR of Norman,16499.0
+RAM,1500,2023,New,,Landers CDJR of Norman,57276.0
+Hyundai,Tucson,2024,New,,Norman Hyundai,37485.0
+Hyundai,Elantra,2023,New,,Norman Hyundai,29910.0
+Hyundai,Kona,2024,New,,Norman Hyundai,34365.0
+Hyundai,Kona,2023,New,,Norman Hyundai,28310.0
+Hyundai,Kona,2023,New,,Norman Hyundai,24346.0
+Ford,Expedition,2022,Used,21238.0,Confidence Ford of Norman,47835.0
+Volvo,C70,2013,Used,68303.0,Centennial Imports,18900.0
+Mazda,CX-5,2024,New,,Sandy Sansing Mazda,40225.0
+Chevrolet,Camaro,2024,New,,Sandy Sansing Chevrolet,54525.0
+Cadillac,CTS,2015,Used,75560.0,Downtown Motorsports,18888.0
+Nissan,Sentra,2023,New,,Bob Moore Nissan ,24855.0
+Chevrolet,Silverado,2024,New,,Jimmy Gray Chevrolet,66740.0
+Chevrolet,Silverado,2024,New,,Jimmy Gray Chevrolet,56385.0
+Chevrolet,Bolt,2023,New,,Jimmy Gray Chevrolet,38240.0
+Chevrolet,Silverado,2024,New,,Jimmy Gray Chevrolet,66740.0
+Chevrolet,Trailblazer,2023,New,,Jimmy Gray Chevrolet,29755.0
+Chevrolet,Trailblazer,2023,New,,Jimmy Gray Chevrolet,26230.0
+Honda,Civic,2023,New,,Southaven Honda,30000.0
+GMC,Sierra,2023,New,,Lee Motor Company,67720.0
+Ford,Escape,2023,New,,Stanley Ford Sweetwater,32250.0
+Kia,Seltos,2021,Certified,23811.0,Crain Kia of Fayetteville,23674.0
+Toyota,Avalon,2019,Certified,34029.0,Toyota of Fayetteville,28500.0
+Ford,Expedition,2022,Used,28999.0,Toyota of Fayetteville,52900.0
+Toyota,Tundra,2023,New,,Toyota of Fayetteville,67329.0
+Audi,A4,2014,Used,44966.0,Homer Skelton Ford,17641.0
+BMW,X5,2020,Used,30341.0,Homer Skelton Ford,45291.0
+BMW,535 i,2014,Used,135579.0,Homer Skelton Ford,16741.0
+Jeep,Grand Cherokee,2023,New,,Bayird Dodge Chrysler Jeep Ram of West Memphis,
+Jeep,Grand Cherokee,2023,New,,Bayird Dodge Chrysler Jeep Ram of West Memphis,
+Jeep,Wrangler,2023,New,,Bayird Dodge Chrysler Jeep Ram of West Memphis,
+Jeep,Grand Cherokee,2023,New,,Bayird Dodge Chrysler Jeep Ram of West Memphis,
+Dodge,Charger,2020,Used,86583.0,David Stanley Chrysler Jeep Dodge RAM,14250.0
+Buick,Encore,2020,Used,34259.0,David Stanley Chrysler Jeep Dodge RAM,15998.0
+Volkswagen,Golf,2021,Used,45551.0,David Stanley Chrysler Jeep Dodge RAM,18988.0
+Mazda,Mazda3,2021,Used,18869.0,David Stanley Chrysler Jeep Dodge RAM,19997.0
+Toyota,RAV4,2022,Used,33531.0,McLarty Daniel Chrysler Dodge Jeep Ram Fiat of Springdale,35586.0
+Ford,F-150,2021,Used,52176.0,McLarty Daniel Chrysler Dodge Jeep Ram Fiat of Springdale,34881.0
+Ford,Bronco,2021,Used,3736.0,McLarty Daniel Chrysler Dodge Jeep Ram Fiat of Springdale,45817.0
+Dodge,Journey,2015,Used,85497.0,McLarty Daniel Chrysler Dodge Jeep Ram Fiat of Springdale,9694.0
+Tesla,Model X,2020,Used,48876.0,McLarty Daniel Chrysler Dodge Jeep Ram Fiat of Springdale,55463.0
+Chevrolet,Camaro,2023,New,,Confidence Chevrolet Buick GMC,56665.0
+GMC,Sierra,2024,New,,Confidence Chevrolet Buick GMC,74495.0
+GMC,Sierra,2024,New,,Confidence Chevrolet Buick GMC,95870.0
+Volkswagen,Tiguan,2020,Used,61409.0,Confidence Chevrolet Buick GMC,18993.0
+GMC,Yukon,2023,New,,Confidence Chevrolet Buick GMC,87740.0
+Jeep,Wrangler,2023,New,,Crown Auto World Bristow,89962.0
+Hyundai,Tucson,2023,New,,Bob Howard Hyundai,36480.0
+Toyota,Sienna,2023,New,,Post Oak Toyota,57805.0
+Toyota,Highlander,2024,New,,Post Oak Toyota,53098.0
+Toyota,Highlander,2024,New,,Post Oak Toyota,52848.0
+Toyota,Highlander,2024,New,,Post Oak Toyota,56823.0
+Toyota,Sienna,2023,New,,Post Oak Toyota,45116.0
+Chevrolet,Corvette,2023,New,,Vernon Auto Group,96435.0
+Chevrolet,Silverado,2023,New,,Holly Chevrolet,65135.0
+GMC,Yukon,2023,New,,Crain Buick GMC of Springdale,90760.0
+GMC,Yukon,2023,New,,Crain Buick GMC of Springdale,99765.0
+Chevrolet,Suburban,2020,Used,62341.0,AutoNation GMC Mendenhall,36995.0
+Jeep,Grand Cherokee,2016,Used,70973.0,"Mt. Moriah Auto Sales, Inc.",25177.0
+Chevrolet,Camaro,2010,Used,110528.0,"Mt. Moriah Auto Sales, Inc.",14977.0
+Cadillac,Escalade,2015,Used,158556.0,"Mt. Moriah Auto Sales, Inc.",25177.0
+Mercedes,4MATIC,2016,Used,95767.0,"Mt. Moriah Auto Sales, Inc.",68477.0
+Audi,Q5,2014,Used,84067.0,"Mt. Moriah Auto Sales, Inc.",17877.0
+BMW,X7,2019,Used,60758.0,"Mt. Moriah Auto Sales, Inc.",54577.0
+Lexus,NX,2022,Used,16935.0,"Mt. Moriah Auto Sales, Inc.",47997.0
+Mercedes,E-Class,2012,Used,101212.0,"Mt. Moriah Auto Sales, Inc.",14177.0
+Land Rover,Range Rover,2019,Used,74472.0,"Mt. Moriah Auto Sales, Inc.",67277.0
+BMW,M6,2016,Used,38914.0,AutoMax Hyundai Del City,38499.0
+Hyundai,Santa Fe,2023,New,,Gossett Kia Hyundai South,38500.0
+Lincoln,Aviator,2023,New,,Lincoln of Memphis,76955.0
+Kia,Telluride,2024,New,,Barnes Crossing Kia,
+Honda,Fit,2020,Used,22993.0,Nelson Mazda Tulsa,19973.0
+Lexus,IS,2014,Used,70700.0,Nelson Mazda Tulsa,19853.0
+Genesis,GV80,2024,New,,Genesis of Tulsa,82685.0
+Porsche,Macan,2021,Used,27498.0,Jackie Cooper Imports,48651.0
+Toyota,FJ Cruiser,2014,Used,55570.0,Jackie Cooper Imports,37443.0
+Nissan,3,2004,Used,31481.0,Jackie Cooper Imports,14978.0
+Mazda,Mazda3,2020,Used,44750.0,South Pointe Chrysler Dodge Jeep Ram,20499.0
+Toyota,4Runner,2023,Used,881.0,South Pointe Chrysler Dodge Jeep Ram,45000.0
+Volkswagen,Jetta,2019,Used,45052.0,Regional Hyundai,22411.0
+Jeep,Grand Cherokee,2007,Used,64324.0,Regional Hyundai,22911.0
+Ford,F-150,2021,Used,42800.0,Regional Hyundai,46211.0
+Audi,Q5,2016,Used,41131.0,Regional Hyundai,22011.0
+Mazda,CX-5,2020,Used,87009.0,Ferguson Superstore,19500.0
+Ford,Expedition,2016,Used,154319.0,Ferguson Superstore,15000.0
+Nissan,3,2012,Used,101005.0,Ferguson Superstore,19500.0
+Jeep,Gladiator,2020,Used,102001.0,Ferguson Superstore,31500.0
+Honda,Civic,2015,Used,149985.0,Ferguson Superstore,10500.0
+GMC,Sierra,2022,New,,Ferguson Superstore,93795.0
+Chevrolet,Tahoe,2018,Used,91811.0,Nelson Nissan,28595.0
+Toyota,Highlander,2019,Used,61095.0,Nelson Nissan,31933.0
+BMW,X5,2014,Used,96905.0,Triumph Auto Sales,16475.0
+Scion,TC,2014,Used,74544.0,Triumph Auto Sales,11975.0
+GMC,Yukon,2023,New,,Davis Buick GMC,84995.0
+Ford,Mustang,2023,New,,Metro Ford of OKC,73030.0
+Ford,Mustang,2023,New,,Metro Ford of OKC,72000.0
+Ford,Bronco,2023,New,,Metro Ford Auto Sales Inc,50330.0
+Ford,Bronco,2023,New,,Metro Ford Auto Sales Inc,66895.0
+Ford,Bronco,2023,New,,Metro Ford Auto Sales Inc,97490.0
+Chevrolet,Silverado,2023,New,,Wood Motor Company,54659.0
+Chevrolet,Trailblazer,2023,New,,Wood Motor Company,32482.0
+Chevrolet,Trailblazer,2023,New,,Wood Motor Company,25705.0
+Chevrolet,Trailblazer,2023,New,,Wood Motor Company,27788.0
+Acura,MDX,2019,Used,43658.0,Grubbs Acura of Tulsa,36999.0
+Acura,MDX,2023,New,,Grubbs Acura of Tulsa,65295.0
+Infiniti,QX80,2020,Used,76066.0,Grubbs Acura of Tulsa,33499.0
+Acura,Integra,2024,New,,Grubbs Acura of Tulsa,33295.0
+Acura,Integra,2024,New,,Grubbs Acura of Tulsa,38295.0
+Ford,Mustang,2020,Used,65884.0,Grubbs Acura of Tulsa,27999.0
+Acura,RDX,2021,Certified,28290.0,Grubbs Acura of Tulsa,35299.0
+Toyota,Corolla,2021,Used,58404.0,Grubbs Acura of Tulsa,19799.0
+BMW,X3,2019,Used,54732.0,Grubbs Acura of Tulsa,24299.0
+Acura,MDX,2023,New,,Grubbs Acura of Tulsa,64695.0
+Ford,Edge,2016,Used,66001.0,Grubbs Acura of Tulsa,16299.0
+Jeep,Grand Cherokee,2015,Used,130002.0,Grubbs Acura of Tulsa,14999.0
+Ford,Mustang,2023,Used,1533.0,Patriot CDJR of Tulsa,46000.0
+Volkswagen,Atlas,2023,New,,Don Thornton Volkswagen of Tulsa,49071.0
+Cadillac,Escalade,2018,Used,48480.0,"Don Thornton Cadillac, Inc.",41340.0
+Nissan,Rogue,2018,Used,41460.0,"Don Thornton Cadillac, Inc.",22382.0
+Cadillac,Escalade,2023,Certified,7599.0,"Don Thornton Cadillac, Inc.",166506.0
+Land Rover,Range Rover,2020,Used,29463.0,Jaguar Land Rover Tulsa,79888.0
+Jaguar,F-TYPE,2023,New,,Jaguar Land Rover Tulsa,111157.0
+Jaguar,F-TYPE,2023,New,,Jaguar Land Rover Tulsa,111909.0
+Toyota,Tacoma,2023,New,,Wolfchase Toyota,42569.0
+Hyundai,Palisade,2022,Used,28465.0,Wolfchase Toyota,35593.0
+Chevrolet,Colorado,2023,New,,Jim Glover Chevrolet,42085.0
+Volkswagen,Atlas,2024,New,,Everett Volkswagen of Rogers,38636.0
+Chrysler,300,2018,Used,105541.0,Everett Volkswagen of Rogers,16988.0
+Jeep,Wrangler,2021,Used,31072.0,Landers Toyota of Northwest Arkansas,39900.0
+Subaru,Outback,2021,Used,27087.0,Landers Toyota of Northwest Arkansas,34142.0
+Toyota,4Runner,2022,Certified,36472.0,Landers Toyota of Northwest Arkansas,47171.0
+Volvo,XC90,2020,Used,25738.0,Landers Toyota of Northwest Arkansas,37000.0
+Toyota,Camry,2023,Certified,1410.0,Landers Toyota of Northwest Arkansas,27181.0
+Dodge,Durango,2017,Used,65838.0,Landers Toyota of Northwest Arkansas,27000.0
+Ford,Focus,2018,Used,85390.0,Landers Toyota of Northwest Arkansas,12913.0
+Dodge,Journey,2016,Used,107951.0,Bob Howard Chrysler Dodge Jeep RAM,9995.0
+Kia,Sorento,2022,Used,20951.0,Bob Howard Chrysler Dodge Jeep RAM,25681.0
+Toyota,4Runner,2022,Used,40217.0,Bob Howard Chrysler Dodge Jeep RAM,35965.0
+Toyota,Highlander,2024,New,,Bob Howard Toyota,48138.0
+Mazda,CX-9,2024,New,,Bob Moore Mazda,48250.0
+Mazda,CX-30,2023,New,,Bob Moore Mazda,30890.0
+Mazda,CX-9,2024,New,,Bob Moore Mazda,44258.0
+Mazda,CX-9,2024,New,,Bob Moore Mazda,53720.0
+Mazda,MX-5 Miata,2023,New,,Bob Moore Mazda,31250.0
+Mazda,CX-9,2024,New,,Bob Moore Mazda,47870.0
+Acura,Integra,2023,New,,Bob Howard Acura,35090.0
+Honda,Accord,2023,New,,Bob Howard Honda,30340.0
+Honda,CR-V,2024,New,,Bob Howard Honda,41670.0
+Lexus,LX,2021,Used,24737.0,Porsche Oklahoma City,81201.0
+Porsche,911,2020,Certified,23494.0,Porsche Oklahoma City,122539.0
+Toyota,Tundra,2019,Used,173615.0,Bob Moore Subaru,25000.0
+Lexus,GX,2016,Used,80498.0,Bob Moore Subaru,28771.0
+Genesis,GV70,2024,New,,Genesis of Edmond,59125.0
+Chevrolet,Tahoe,2018,Used,104490.0,Edmond Hyundai,28777.0
+BMW,X6,2023,Used,17320.0,McLarty Daniel Ford,100543.0
+Ford,F-350,2014,Used,225337.0,McLarty Daniel Ford,26995.0
+Ford,F-150,2021,Used,54042.0,McLarty Daniel Ford,52339.0
+Ford,F-250,2017,Used,122886.0,McLarty Daniel Ford,25831.0
+Ford,F-150,2015,Used,124076.0,McLarty Daniel Ford,19495.0
+Honda,Pilot,2021,Used,31547.0,McLarty Daniel Ford,34271.0
+GMC,Yukon,2022,Used,37266.0,McLarty Daniel Ford,65995.0
+Kia,Telluride,2021,Used,38517.0,Kalidy Kia,42750.0
+Jeep,Wrangler,2020,Used,54566.0,McLarty Daniel Buick GMC,38950.0
+Lexus,NX,2015,Used,54585.0,McLarty Daniel Chrysler Dodge Jeep RAM of Bentonville,24775.0
+Hyundai,Sonata,2022,Used,15343.0,Bob Moore Volkswagen,28800.0
+Chevrolet,1500,1995,Used,270512.0,Patriot Chrysler Dodge Jeep Ram of Pryor,11225.0
+Mazda,CX-9,2021,Used,47747.0,Patriot Chrysler Dodge Jeep Ram of Pryor,28972.0
+RAM,2500,2014,Used,170085.0,Patriot Chrysler Dodge Jeep Ram of Pryor,28994.0
+Cadillac,Escalade,2020,Used,105413.0,Patriot Chrysler Dodge Jeep Ram of Pryor,43984.0
+Kia,Sorento,2022,Used,35257.0,Cavender Ford of Oklahoma City,27877.0
+Ford,Expedition,2023,New,,Cavender Ford of Oklahoma City,87145.0
+Ford,Mustang,2024,New,,Cavender Ford of Oklahoma City,43575.0
+Ford,Mustang,2023,New,,Cavender Ford of Oklahoma City,70600.0
+GMC,Yukon,2023,New,,Pryor Chevrolet Buick GMC,78135.0
+GMC,Sierra,2024,New,,Pryor Chevrolet Buick GMC,75210.0
+RAM,2500,2017,Used,133003.0,Haller Wholesale,42950.0
+Lincoln,Corsair,2020,Used,50001.0,Suburban Chevrolet,31529.0
+Ford,Bronco,2023,New,,Tuscaloosa Ford,69755.0
+Dodge,Durango,2023,New,,Melton Sales,42582.0
+Audi,S4,2019,Used,44221.0,Melton Sales,37992.0
+Ford,Expedition,2021,Used,65511.0,Melton Sales,41292.0
+Jeep,Grand Cherokee,2021,Used,64577.0,Melton Sales,27772.0
+Toyota,RAV4,2023,New,,Central Toyota,33275.0
+Toyota,Tacoma,2023,New,,Central Toyota,56040.0
+GMC,Sierra,2024,New,,Central Buick GMC,91770.0
+GMC,Yukon,2022,Used,16558.0,Classic Chevrolet Inc,75700.0
+Genesis,GV80,2022,Used,26382.0,Classic Chevrolet Inc,59700.0
+Toyota,Sienna,2020,Used,70448.0,Classic Chevrolet Inc,30600.0
+Ford,F-250,2021,Used,70517.0,Classic Chevrolet Inc,57000.0
+Toyota,Tundra,2023,New,,Four Stars Toyota,68143.0
+Toyota,Tundra,2023,New,,Four Stars Toyota,69489.0
+Mazda,CX-30,2023,New,,Tuscaloosa Mazda,29920.0
+Mercedes,GLE,2024,New,,Mercedes-Benz of Tuscaloosa,80170.0
+Mercedes,GLE,2024,New,,Mercedes-Benz of Tuscaloosa,80155.0
+Ford,Bronco,2023,New,,John Vance Motors,34685.0
+Honda,Pilot,2023,New,,Merchant Automotive Group,54210.0
+Lexus,GX,2017,Used,116987.0,Merchant Automotive Group,28499.0
+GMC,Yukon,2021,Used,35094.0,David Scott Lee Buick GMC,69900.0
+Toyota,Tacoma,2018,Used,31514.0,David Scott Lee Buick GMC,44900.0
+Chevrolet,Traverse,2023,New,,Jeff Lungren Chevrolet,47785.0
+Chevrolet,Traverse,2023,New,,Jeff Lungren Chevrolet,50880.0
+Hyundai,Kona,2023,New,,Barry Sanders Supercenter,34649.0
+Honda,Odyssey,2024,New,,6th Avenue Honda,42740.0
+Honda,Accord,2023,New,,6th Avenue Honda,28845.0
+Ford,Mustang,2023,New,,Green Country Ford,55950.0
+Ford,F-150,2023,New,,Green Country Ford,63620.0
+Ford,Mustang,2023,New,,Green Country Ford,69995.0
+Toyota,Tacoma,2010,Used,110109.0,Oakley Auto World,25000.0
+Chevrolet,Traverse,2023,New,,Jacksons Chevrolet Buick GMC of Kingfisher,55790.0
+Chevrolet,Traverse,2023,New,,Jacksons Chevrolet Buick GMC of Kingfisher,52045.0
+Ford,Explorer,2019,Used,115796.0,Tri-Lakes Chrysler Dodge Jeep Ford,23997.0
+Ford,Expedition,2023,New,,Seth Wadley Ford of Perry,68555.0
+Chevrolet,Silverado,2023,New,,Pollard Chevrolet Buick,87085.0
+Mazda,CX-5,2021,Used,58307.0,Patriot BUICK GMC Hyundai,21500.0
+Toyota,RAV4,2021,Used,47359.0,Patriot BUICK GMC Hyundai,24000.0
+Ford,Expedition,2023,New,,Hamilton Ford,77860.0
+Ford,Bronco,2023,New,,Town & Country Ford,70620.0
+Ford,Mustang,2022,Certified,2048.0,Town & Country Ford,55450.0
+Ford,Bronco,2023,New,,Town & Country Ford,47620.0
+GMC,Canyon,2020,Used,25221.0,Mayse Automotive,39390.0
+Jeep,Wrangler,2022,Used,6596.0,Pigg Enterprises Inc,48955.0
+Lincoln,Aviator,2022,Used,21506.0,Pigg Enterprises Inc,54955.0
+Chevrolet,Corvette,2022,Used,7223.0,Pigg Enterprises Inc,74999.0
+Jeep,Gladiator,2022,Used,6538.0,Pigg Enterprises Inc,49488.0
+Lexus,ES,2022,Used,26789.0,Pigg Enterprises Inc,36477.0
+Lexus,GX,2022,Used,12604.0,Pigg Enterprises Inc,58955.0
+Cadillac,CTS,2019,Used,68374.0,Pigg Enterprises Inc,23933.0
+Mercedes,E-Class,2014,Used,93855.0,Susan Schein Automotive,18853.0
+Chevrolet,Corvette,2021,Used,1040.0,Exclusive Auto Wholesale,84897.0
+Chevrolet,Traverse,2023,Used,14526.0,Donohooauto LLC,44995.0
+Dodge,Durango,2023,Used,2808.0,Donohooauto LLC,47995.0
+Infiniti,QX60,2022,Used,16480.0,Donohooauto LLC,44995.0
+Lincoln,Navigator,2020,Used,52291.0,Donohooauto LLC,55995.0
+Jeep,Wagoneer,2022,Used,17222.0,Donohooauto LLC,60995.0
+Infiniti,QX60,2023,New,,INFINITI of Birmingham,66225.0
+Buick,Enclave,2024,New,,Skyway Buick GMC,56170.0
+Buick,Enclave,2024,New,,Skyway Buick GMC,44535.0
+GMC,Sierra,2024,New,,Skyway Buick GMC,52760.0
+GMC,Sierra,2024,New,,Skyway Buick GMC,
+GMC,Sierra,2024,New,,Skyway Buick GMC,84075.0
+GMC,Sierra,2024,New,,Skyway Buick GMC,
+GMC,Sierra,2024,New,,Skyway Buick GMC,
+GMC,Sierra,2024,New,,Skyway Buick GMC,
+Buick,Enclave,2024,New,,Skyway Buick GMC,44735.0
+Buick,Enclave,2024,New,,Skyway Buick GMC,53535.0
+Buick,Enclave,2024,New,,Skyway Buick GMC,57845.0
+Buick,Enclave,2024,New,,Skyway Buick GMC,
+Chrysler,300,2023,New,,Hendrick Chrysler Dodge Jeep RAM Hoover,37390.0
+Audi,Q8,2021,Used,24897.0,Modern Motorcars,62999.0
+BMW,X5,2019,Used,58238.0,Modern Motorcars,40999.0
+Lexus,RX,2020,Used,40465.0,Royal Automotive,42210.0
+Hyundai,Palisade,2021,Used,77568.0,James River Chrysler Dodge Jeep Ram,35899.0
+Dodge,Charger,2020,Used,74524.0,James River Chrysler Dodge Jeep Ram,27796.0
+Honda,Odyssey,2021,Used,49651.0,Roper Honda,38676.0
+Volkswagen,Passat,2020,Used,63128.0,Roper Honda,21986.0
+Honda,Accord,2019,Used,59332.0,Roper Honda,28896.0
+Ford,F-150,2023,New,,Wood Ford Carthage,63543.0
+Ford,Expedition,2019,Used,79799.0,Wood Ford Carthage,36735.0
+Acura,RDX,2022,Used,32171.0,Wood Ford Carthage,41401.0
+Ford,Expedition,2021,Used,60724.0,Wood Ford Carthage,43914.0
+Mercedes,GLC,2019,Used,32119.0,Wood Ford Carthage,27967.0
+RAM,2500,2023,New,,Wood Chrysler Dodge Jeep Ram Carthage,79433.0
+RAM,2500,2023,New,,Wood Chrysler Dodge Jeep Ram Carthage,73327.0
+RAM,2500,2023,New,,Wood Chrysler Dodge Jeep Ram Carthage,67340.0
+RAM,2500,2023,New,,Wood Chrysler Dodge Jeep Ram Carthage,84187.0
+Ford,F-350,2023,New,,Corwin Ford Lincoln Republic,54745.0
+Ford,F-350,2023,New,,Corwin Ford Lincoln Republic,67150.0
+Ford,Bronco,2023,New,,Stivers Ford of Birmingham,93755.0
+Ford,Ranger,2023,New,,Stivers Ford of Birmingham,38680.0
+Ford,Mustang,2024,New,,Stivers Ford of Birmingham,32515.0
+Ford,Bronco,2023,New,,Golden Circle Ford,47700.0
+Ford,F-350,2016,Used,138015.0,Golden Circle Ford,41661.0
+Ford,Expedition,2021,Used,7268.0,Golden Circle Ford,47906.0
+Nissan,Armada,2020,Used,60310.0,Golden Circle Ford,31979.0
+Lexus,ES,2020,Used,31719.0,Golden Circle Ford,34009.0
+Audi,RS 7,2016,Used,63272.0,Golden Circle Ford,48354.0
+Ford,Expedition,2021,Used,47629.0,Golden Circle Ford,44777.0
+Lincoln,Nautilus,2023,Used,1700.0,Golden Circle Ford,43160.0
+Lincoln,Nautilus,2020,Used,24666.0,Golden Circle Ford,38502.0
+Toyota,4Runner,2019,Used,41378.0,Perkins Motor Plex Jackson,41595.0
+Honda,Accord,2019,Used,37600.0,Perkins Motor Plex Jackson,25995.0
+Hyundai,Tucson,2019,Used,42256.0,Perkins Motor Plex Jackson,19595.0
+Land Rover,Range Rover,2019,Used,44867.0,"Thompson Buick, GMC, Cadillac",46498.0
+Cadillac,XT5,2023,New,,"Thompson Buick, GMC, Cadillac",55290.0
+Cadillac,CT4,2024,New,,"Thompson Buick, GMC, Cadillac",44660.0
+Lexus,GX,2021,Used,13034.0,"Thompson Buick, GMC, Cadillac",48977.0
+Mercedes,GLB,2023,New,,Elite Automotive Group,49300.0
+Mercedes,GLA,2023,New,,Elite Automotive Group,43650.0
+Mercedes,4MATIC,2023,New,,Elite Automotive Group,85650.0
+Mercedes,GLA,2023,New,,Elite Automotive Group,47875.0
+Nissan,Frontier,2013,Used,157714.0,Birmingham Luxury Motors,14999.0
+GMC,Yukon,2017,Used,48710.0,Birmingham Luxury Motors,35999.0
+Nissan,Z Sport,2023,Used,1108.0,Birmingham Luxury Motors,48999.0
+Ford,Mustang,2021,Used,41783.0,Reliable Chevrolet,23499.0
+Ford,Focus,2018,Used,78422.0,May Motor Company,18968.0
+Toyota,Camry,2009,Used,198990.0,May Motor Company,8988.0
+Lexus,ES,2007,Used,191665.0,May Motor Company,8988.0
+Ford,Expedition,2023,New,,Corwin Ford of Springfield,75070.0
+Ford,Explorer,2020,Certified,45265.0,Corwin Ford of Springfield,29593.0
+Ford,Expedition,2023,New,,Corwin Ford of Springfield,85810.0
+Ford,Expedition,2023,New,,Corwin Ford of Springfield,82695.0
+Ford,Expedition,2023,New,,Corwin Ford of Springfield,69100.0
+Ford,F-250,2023,New,,Stevens Ford,78365.0
+Toyota,RAV4,2023,New,,Toyota of the Shoals,39871.0
+Honda,HR-V,2024,New,,Skyway Honda Of Enid,29480.0
+Honda,Odyssey,2024,New,,Skyway Honda Of Enid,51800.0
+Honda,Ridgeline,2023,New,,Skyway Honda Of Enid,46560.0
+Honda,Pilot,2023,New,,Skyway Honda Of Enid,48175.0
+Honda,CR-V,2024,New,,Skyway Honda Of Enid,39175.0
+Honda,HR-V,2024,New,,Skyway Honda Of Enid,29480.0
+Honda,Odyssey,2024,New,,Skyway Honda Of Enid,42740.0
+Chevrolet,Suburban,2023,New,,Capitol Chevrolet AL,69605.0
+Jeep,Grand Cherokee,2023,New,,Sons CDJR Fiat of Montgomery,45030.0
+Lexus,RX,2023,New,,Reliable Toyota Lexus BMW Audi,56890.0
+Lexus,RX,2023,New,,Reliable Toyota Lexus BMW Audi,62200.0
+GMC,Sierra,2023,Used,27013.0,Victory Toyota Ford CDJR Dyersburg,77785.0
+Honda,Odyssey,2023,New,,Heather Cannon Honda,38865.0
+Subaru,Crosstrek,2024,New,,Reliable Subaru,31094.0
+Hyundai,Kona,2021,Certified,29152.0,Reliable Hyundai,21696.0
+Nissan,Frontier,2020,Used,22670.0,Merchant Nissan,26999.0
+Lexus,RX,2022,New,,Lexus of Birmingham,55485.0
+Lexus,RX,2022,New,,Lexus of Birmingham,55910.0
+BMW,Coupe,2024,New,,BMW Mini of Birmingham,93845.0
+Mercedes,GLS 450,2020,Used,61469.0,BMW Mini of Birmingham,48998.0
+Chrysler,300,2023,New,,Voyles CDJR of Birmingham,34562.0
+Jeep,Wrangler,2023,New,,Voyles CDJR of Birmingham,42690.0
+Chrysler,300,2023,New,,Voyles CDJR of Birmingham,34367.0
+Jeep,Wrangler,2023,New,,Voyles CDJR of Birmingham,42555.0
+Honda,CR-V,2014,Used,212503.0,Brannon Honda,11000.0
+Ford,Mustang,2007,Used,110692.0,Corwin Chrysler Dodge Jeep Ram Fiat of Springfield,14500.0
+Mercedes,4MATIC,2016,Used,95979.0,Jones Chevrolet Humboldt,22256.0
+Nissan,Altima,2016,Used,110702.0,Jones Chevrolet Humboldt,11915.0
+BMW,X3,2022,Used,35496.0,Jones Chevrolet Humboldt,36490.0
+Ford,F-150,2020,Used,45992.0,Humboldt Chrysler Dodge Jeep RAM Inc,34483.0
+Acura,MDX,2018,Used,137881.0,Humboldt Chrysler Dodge Jeep RAM Inc,20773.0
+Kia,Telluride,2022,Used,22257.0,Humboldt Chrysler Dodge Jeep RAM Inc,44851.0
+Honda,Civic,2016,Used,150817.0,Humboldt Chrysler Dodge Jeep RAM Inc,12223.0
+Nissan,Armada,2020,Used,78747.0,Humboldt Chrysler Dodge Jeep RAM Inc,26340.0
+Dodge,Challenger,2023,New,,Greenway Chrysler Dodge Jeep RAM of Florence,58025.0
+Jeep,Grand Cherokee,2009,Used,125939.0,Serra Chevrolet,9886.0
+Toyota,Crown,2023,New,,Serra Toyota,52920.0
+GMC,Sierra,2023,New,,Sam Boswell Buick GMC,56970.0
+GMC,Sierra,2023,New,,Sam Boswell Buick GMC,78120.0
+Nissan,Sentra,2023,New,,Greenway Nissan of Florence,25665.0
+Honda,CR-V,2024,New,,Greenway Honda of Florence,
+Honda,CR-V,2024,New,,Greenway Honda of Florence,
+Kia,Sorento,2021,Used,27255.0,Serra Hyundai,34817.0
+Kia,Optima,2016,Used,73109.0,Serra Trussville Kia,13966.0
+Ford,Flex,2019,Used,53989.0,All American Chevrolet Of Midland,22999.0
+Chevrolet,Silverado,2017,Used,160329.0,All American Chevrolet Of Midland,17997.0
+Chrysler,LX,2017,Used,71000.0,All American Chevrolet Of Midland,17988.0
+Chevrolet,LS,2020,Certified,73604.0,Bill Cramer Chevrolet Buick GMC,34846.0
+Cadillac,CT4,2023,New,,Bill Cramer Chevrolet Buick GMC,39815.0
+Lexus,LX,2019,Used,43810.0,Mercedes-Benz of Midland,63988.0
+Mercedes,EQS,2023,New,,Mercedes-Benz of Midland,107980.0
+Lexus,ES,2020,Used,25622.0,Golden Circle Chevrolet,37299.0
+Lexus,NX,2019,Used,48214.0,Golden Circle Chevrolet,28468.0
+Toyota,Sequoia,2021,Certified,57757.0,Panama City Toyota,42487.0
+Mercedes,GLS 450,2022,Used,7758.0,Panama City Toyota,79998.0
+Toyota,Highlander,2020,Certified,40990.0,Panama City Toyota,40994.0
+Toyota,Tundra,2023,New,,Panama City Toyota,59309.0
+Chevrolet,Tahoe,2018,Used,90803.0,AutoNation Ford Panama City,38450.0
+Acura,RDX,2018,Used,51318.0,AutoNation Ford Panama City,24450.0
+Ford,Bronco,2023,New,,AutoNation Ford Panama City,55465.0
+Toyota,4Runner,2023,New,,Toyota of Sylacauga,
+Toyota,RAV4,2023,New,,Toyota of Sylacauga,
+GMC,Sierra,2024,New,,Mitch Hall Chevrolet Buick GMC Cadillac,
+GMC,Sierra,2024,New,,Mitch Hall Chevrolet Buick GMC Cadillac,
+Jeep,Renegade,2023,New,,Cullman Chrysler Dodge Jeep RAM,36600.0
+Chrysler,300,2023,New,,Cullman Chrysler Dodge Jeep RAM,35585.0
+Jeep,Renegade,2023,New,,Cullman Chrysler Dodge Jeep RAM,36005.0
+Chrysler,300,2023,New,,Cullman Chrysler Dodge Jeep RAM,51300.0
+Volkswagen,Atlas,2022,Certified,39906.0,Volkswagen of Panama City,31824.0
+Dodge,Durango,2018,Used,77259.0,Volkswagen of Panama City,24824.0
+Ford,Escape,2019,Used,46658.0,Volkswagen of Panama City,18824.0
+Nissan,NV200 S,2017,Used,86227.0,Gilland Chevrolet GMC,13950.0
+Toyota,FJ Cruiser,2010,Used,159341.0,Gilland Chevrolet GMC,18250.0
+Dodge,Journey,2017,Used,73313.0,Texas Certified Motors,13998.0
+Honda,Civic,2023,New,,Shottenkirk Honda Decatur,28300.0
+Toyota,Tundra,2017,Used,120683.0,Shottenkirk Honda Decatur,35487.0
