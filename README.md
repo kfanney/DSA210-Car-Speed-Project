@@ -120,7 +120,7 @@ The distribution will be used to normalize rates of speeding described as "ticke
 | ------------------- | ------------------------------------------------------------ |
 | **Language**        | Python 3.x                                                   |
 | **Libraries**       | pandas · numpy · matplotlib · seaborn · scikit-learn · scipy |
-| **Environment**     | Jupyter Notebook / GoogleCollab                                   |
+| **Environment**     | Jupyter Notebook / Google Collab                                   |
 
 ---
 
